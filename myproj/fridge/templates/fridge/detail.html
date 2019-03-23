@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<h1>recipe: {{ recipe.recipe_name }}</h1>
+<h3>instructions: {{ recipe.recipe_ins }}</h3>
+
+<h3>ingredient list:</h3>
+<ul>
+{% for i in ingredient_list %}
+    <h3>{{ i.ingredient_name}} : {{ i.quantity }} {{i.quantity_unit}}</h3>
+{% endfor %}
+</ul>
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+
+</body>
+</html>

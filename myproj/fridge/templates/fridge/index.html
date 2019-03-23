@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+{% if recipe_list %}
+    <ul>
+    {% for r in recipe_list %}
+        <li><a href="/fridge/{{ r.recipe_id }}">{{ r.recipe_name }}</a></li>
+
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No recipes are available.</p>
+{% endif %}
+
+</body>
+</html>
