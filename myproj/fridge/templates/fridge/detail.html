@@ -7,14 +7,22 @@
 <body>
 
 <h1>recipe: {{ recipe.recipe_name }}</h1>
-<h3>instructions: {{ recipe.recipe_ins }}</h3>
+
 
 <h3>ingredient list:</h3>
 <ul>
 {% for i in ingredient_list %}
-    <h3>{{ i.ingredient_name}} : {{ i.quantity }} {{i.quantity_unit}}</h3>
+    <h3>{{ i.ingredient_id.ingredient_name }} {{ i.ingredient_quantity }} {{ i.ingredient_id.ingredient_unit }}</h3>
 {% endfor %}
 </ul>
+
+<h3>instructions: </h3>
+<ul>
+{% for s in step_list %}
+    <h3>{{ s.step_number}} : {{ s.step_instructions }} </h3>
+{% endfor %}
+</ul>
+
 
 {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
 

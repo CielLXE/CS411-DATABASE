@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+
+<body>
+<form action="{% url 'fridge:search' %}" method="POST">
+    {% csrf_token %}
+    Ingredient:<br>
+    <input type="submit" value="search">
+</form>
+</body>
+</html>
+<body>
+{% if fridge_list %}
+    <ul>
+    {% for f in fridge_list %}
+        <h3>{{ f.ingredient_name}} : {{ f.quantity }} {{f.quantity_unit}}</h3>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No food in your fridge, please buy grocery!</p>
+{% endif %}
+</body>
+
