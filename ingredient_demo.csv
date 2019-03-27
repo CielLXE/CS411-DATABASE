@@ -1,0 +1,75 @@
+ingredient_id,ingredient_name,fat_value,fat_unit,sugar_value,sugar_unit,protein_value,protein_unit
+45005745,shortening,100,g,0,g,0,g
+45009665,brown rice,3.33,g,0,g,8.89,g
+45030864,salsa,0,g,3.23,g,0,g
+45031920,stuffing mix,3.57,g,7.14,g,10.71,g
+45033022,baking soda,0,g,0,g,0,g
+45056365,mixed vegetables,0,g,2.42,g,1.61,g
+45056521,black eyed peas,0,g,1.54,g,3.85,g
+45057865,tomato paste,0,g,9.09,g,6.06,g
+45058104,pizza sauce,1.59,g,4.76,g,1.59,g
+45060198,whipped topping,16.67,g,11.11,g,0,g
+45060247,vegetable oil,100,g,0,g,0,g
+45060249,canola oil,100,g,0,g,0,g
+45064408,oat cereal,5,g,36.67,g,6.67,g
+45064414,steak sauce,0,g,11.76,g,0,g
+45064583,cottage cheese,4.42,g,3.54,g,10.62,g
+45077400,white rice,0,g,0,g,7.41,g
+45079943,mustard,0,g,20,g,0,g
+45080831,peanut butter,46.88,g,9.38,g,21.88,g
+45082196,sweetened condensed milk,0,g,60.98,g,9.76,g
+45082198,salt,0,g,0,g,0,g
+45091873,cream cheese,32.14,g,7.14,g,7.14,g
+45105483,pesto,41.67,g,0,g,8.33,g
+45137971,ranch dressing,46.67,g,3.33,g,3.33,g
+45140253,soy sauce,0,g,0,g,6.67,g
+45152727,potato chips,39.29,g,3.57,g,3.57,g
+45152760,caramels,17.95,g,41.03,g,2.56,g
+45165111,almonds,53.57,g,3.57,g,21.43,g
+45183830,cod,0.45,g,0,g,17.86,g
+45183903,blueberries,0.71,g,8.57,g,0.71,g
+45184655,pepperoni,14.29,g,0,g,32.14,g
+45191608,almond butter,53.12,g,6.25,g,21.88,g
+45198699,yellow mustard,0,g,0,g,0,g
+45200524,broccoli florets,0,g,0,g,3.53,g
+45208714,bread,8.04,g,1.79,g,12.5,g
+45208764,pound cake,14.1,g,29.49,g,3.85,g
+45211483,jasmine rice,0,g,0,g,6,g
+45211512,navy beans,0,g,2.86,g,22.86,g
+45219556,pretzel twists,15,g,3.33,g,0,g
+45219594,black beans,0.38,g,0,g,5.38,g
+45224395,reduced sodium chicken broth,0,g,0.41,g,0.82,g
+45224636,vegetable broth,0,g,0,g,0,g
+45226061,mixed fruit,0,g,8.57,g,0.71,g
+45226079,flour tortillas,8.89,g,0,g,6.67,g
+45226156,cauliflower,0,g,2.35,g,2.35,g
+45230068,tomato sauce,0,g,3.28,g,1.64,g
+45233959,chicken broth,0.42,g,0,g,0.42,g
+45237453,chili sauce,0,g,22.22,g,0,g
+45238128,apple cider vinegar,0,g,0,g,0,g
+45238130,red wine vinegar,0,g,0,g,0,g
+45238233,olive oil,93.33,g,0,g,0,g
+45238234,extra virgin olive oil,93.33,g,0,g,0,g
+45239915,evaporated milk,0,g,10,g,6.67,g
+45254443,bacon,35.29,g,0,g,29.41,g
+45266661,flounder fillets,5.36,g,0,g,15.18,g
+45267177,sour cream,20,g,6.67,g,3.33,g
+45267881,orange juice,0,g,9.17,g,0.83,g
+45277805,apples,0,g,60,g,0,g
+45280546,butternut squash,0,g,2.35,g,1.18,g
+45282676,granulated sugar,0,g,100,g,0,g
+45324075,low fat cottage cheese,2.21,g,3.54,g,10.62,g
+45324340,lentils,0,g,5.71,g,28.57,g
+45325683,beef,2.47,g,7.42,g,6.01,g
+45331354,chili powder,0,g,NA,NA,0,g
+45331917,garlic salt,0,g,NA,NA,0,g
+45336502,cooking spray,0,g,NA,NA,0,g
+45344930,walnuts,64.29,g,3.57,g,14.29,g
+45348665,pork chops,17.86,g,0,g,15.48,g
+45348681,chicken breasts,2.38,g,1.19,g,19.05,g
+45349631,cheese tortellini,4.72,g,0,g,9.43,g
+45349659,mozzarella cheese,17.86,g,0,g,28.57,g
+45349777,unsweetened cocoa powder,10,g,0,g,20,g
+45349840,mayonnaise,26.92,g,0,g,0,g
+45360795,popcorn,14.29,g,60.71,g,3.57,g
+45361738,coconut,0,g,0.34,g,0,g
