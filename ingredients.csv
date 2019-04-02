@@ -1,0 +1,606 @@
+name,ingredient_id,protein,protein_unit,fat,fat_unit,sugar,sugar_unit
+1% milk,1,3.39,g,1.06,g,5.08,g
+85% dark chocolate,2,9.52,g,50,g,14.29,g
+active yeast,3,40,g,5,g,0,g
+adobo seasoning to taste,4,0,g,0,g,0,g
+all purpose flour,5,10,g,0,g,3.33,g
+allspice,6,0,g,0,g,0,g
+almond butter,7,20,g,56.67,g,6.67,g
+almond extract,8,0,g,0,g,0,g
+almond flour,9,21.43,g,50,g,3.57,g
+almonds,10,17.86,g,46.43,g,17.86,g
+amaretto liqueur,11,5.08,g,8.47,g,8.47,g
+anise extract,12,0,g,0,g,0,g
+apple,13,0,g,0.65,g,10.39,g
+apple cider,14,0,g,0,g,75,g
+apple cider vinegar,15,0,g,0,g,44.44,g
+apple schnapps,16,0,g,0.65,g,10.39,g
+apples,17,0,g,0,g,10.39,g
+apricots,18,2.5,g,0,g,52.5,g
+avocado,19,0,g,15.38,g,0,g
+avocado oil,20,0,g,93.33,g,0,g
+baby bella mushrooms,21,3.53,g,0,g,0,g
+baby carrots,22,1.18,g,0,g,5.88,g
+bacon,23,33.33,g,33.33,g,0,g
+baguette,24,10,g,0,g,2,g
+baking apples,25,0,g,0,g,10.39,g
+baking powder,26,0,g,0,g,0,g
+baking soda,27,0,g,0,g,0,g
+ball water mozzarella cheese,28,0,g,0,g,0,g
+balsamic vinaigrette dressing,29,0,g,23.33,g,20,g
+balsamic vinegar,30,0,g,0,g,13.33,g
+bamboo skewers,31,3.53,g,0,g,2.35,g
+bananas,32,5,g,22.5,g,42.5,g
+basil,33,4,g,0,g,0,g
+bay,34,0,g,0,g,31.43,g
+bay or more to taste,35,19.47,g,0.88,g,0,g
+beef,36,18.87,g,2.83,g,0,g
+beef broth,37,0.83,g,0,g,0,g
+beef chuck,38,15.23,g,17.22,g,0.66,g
+beef sirloin,39,21.43,g,4.46,g,0,g
+beer,40,0,g,0,g,13.24,g
+bell pepper,41,1.18,g,0,g,2.35,g
+Bibb or head lettuce leaves,42,9.89,g,3.53,g,2.12,g
+black beans,43,22,g,0,g,2,g
+Black decorating gel,44,0,g,0,g,50,g
+black eyed peas,45,3.85,g,0,g,1.54,g
+black olives,46,0,g,13.33,g,0,g
+black pepper,47,6.67,g,8.33,g,0,g
+black pepper to taste,48,0,g,0,g,0,g
+blackstrap molasses,49,6.67,g,0,g,66.67,g
+blue cheese dressing,50,0,g,42.86,g,10.71,g
+blueberries,51,0,g,0,g,2.14,g
+bone in chicken breast,52,23.81,g,9.52,g,0,g
+boneless chicken breast,53,17.86,g,2.14,g,8.57,g
+boneless chicken breasts,54,17.86,g,2.14,g,8.57,g
+boneless chicken thighs,55,18.75,g,8.04,g,0,g
+bread,56,10.64,g,3.19,g,6.38,g
+bread flour,57,13.33,g,1.67,g,0,g
+BREAKSTONE'S FREE or KNUDSEN FREE Fat Free Sour Cream,58,3.12,g,0,g,9.38,g
+BREAKSTONE'S Reduced Fat Sour Cream,59,3.33,g,20,g,3.33,g
+broccoli,60,1.18,g,0,g,2.35,g
+broccoli florets,61,2.3,g,0,g,2.3,g
+broiled chicken,62,11.5,g,9.73,g,0.88,g
+brown rice,63,7.14,g,3.57,g,0,g
+brown sugar,64,0,g,0,g,100,g
+browning sauce,65,0,g,0,g,16.67,g
+bulk pork sausage,66,12.12,g,36.36,g,0,g
+Bulleit Bourbon?,67,6.67,g,0,g,33.33,g
+butter,68,0,g,78.57,g,0,g
+butter flavored shortening,69,0,g,78.57,g,0,g
+butter or margarine,70,0,g,78.57,g,0,g
+butter or more,71,0,g,78.57,g,0,g
+buttermilk,72,3.75,g,1.46,g,5.42,g
+butternut squash,73,1.8,g,4.05,g,12.61,g
+button mushrooms,74,1.77,g,0,g,0.88,g
+Cajun seasoning,75,0,g,0,g,0,g
+California butter,76,0,g,78.57,g,0,g
+Campbell's? Cream of Chicken Soup,77,15.62,g,15.62,g,3.12,g
+candied cherries,78,1.25,g,0,g,75,g
+candy coated milk chocolate,79,4.65,g,20.93,g,67.44,g
+canned kidney beans,80,22,g,3,g,0,g
+cannellini beans,81,5.38,g,0,g,0,g
+canola oil,82,0,g,100,g,0,g
+cantaloupe cubes or balls,83,0.75,g,0,g,8.21,g
+caramel topping,84,2.44,g,0,g,51.22,g
+caramels,85,7.14,g,32.14,g,35.71,g
+cardamom,86,0,g,0,g,0,g
+Carolina gold rice,87,0,g,0,g,0,g
+carrot,88,1.28,g,0,g,6.41,g
+carrots,89,1.28,g,0,g,6.41,g
+cartons chicken broth,90,15.62,g,15.62,g,3.12,g
+cauliflower,91,1.18,g,0,g,2.35,g
+cayenne pepper,92,0,g,0,g,0,g
+cayenne pepper or to taste,93,0,g,0,g,0,g
+celery,94,0,g,0,g,1.82,g
+celery seed,95,0,g,0,g,0,g
+Cheddar cheese,96,25,g,35.71,g,0,g
+Cheddar cheese or Swiss cheese diagonally,97,25,g,35.71,g,0,g
+cheese tortellini,98,10.62,g,7.08,g,0,g
+cherry cake mix,99,2.63,g,14.47,g,50,g
+cherry tomatoes,100,0,g,0,g,60.71,g
+cherry tomatoes or to taste,101,14.29,g,0,g,14.29,g
+chia seeds,102,16.67,g,30,g,0,g
+chicken,103,15.62,g,15.62,g,3.12,g
+chicken bouillon,104,0,g,0,g,0,g
+chicken bouillon base,105,0,g,0,g,0,g
+chicken breast meat,106,18.75,g,0.89,g,2.68,g
+chicken breasts,107,19.64,g,3.57,g,0,g
+chicken broth,108,0.41,g,0.41,g,0,g
+chicken gravy,109,0,g,4.17,g,1.67,g
+chicken or turkey,110,15.62,g,15.62,g,3.12,g
+chicken quarters,111,15.18,g,22.32,g,0,g
+chicken stock,112,0.42,g,0.21,g,0,g
+chicken wings,113,11.9,g,13.1,g,0,g
+chili powder,114,0,g,0,g,0,g
+chili sauce,115,0,g,0,g,15,g
+Chinese five spice powder,116,0,g,0,g,0,g
+chipotle cooking sauce,117,1.67,g,0,g,3.33,g
+chipotle lime crema or to taste,118,0,g,1.61,g,3.23,g
+chips or crackers,119,3.57,g,25,g,3.57,g
+chocolate chip cookie dough,120,8.89,g,24.44,g,35.56,g
+chocolate chips,121,4.35,g,19.57,g,28.26,g
+chocolate flavored syrup,122,2.63,g,0,g,42.11,g
+chorizo,123,25,g,25,g,0,g
+cider vinegar,124,0,g,0,g,44.44,g
+cilantro,125,0,g,0,g,0,g
+cilantro leaves,126,0,g,0,g,0,g
+cilantro or to taste,127,0,g,0,g,0,g
+cinnamon,128,0,g,0,g,0,g
+cinnamon or to taste,129,5.43,g,11.96,g,17.39,g
+cinnamon stick,130,3.93,g,3.21,g,2.21,g
+cinnamon sticks,131,3.93,g,3.21,g,2.21,g
+cinnamon syrup,132,0,g,0,g,75,g
+clam juice,133,6.67,g,0,g,0,g
+clams,134,12,g,1.3,g,0,g
+clove garlic,135,12.5,g,28.57,g,1.79,g
+cloves,136,0,g,0,g,0,g
+cloves clove garlic,137,12.5,g,28.57,g,1.79,g
+cloves garlic,138,12.5,g,28.57,g,1.79,g
+cloves garlic or more to taste,139,12.5,g,28.57,g,1.79,g
+cocktail wieners,140,0,g,0,g,13.33,g
+coconut,141,6.67,g,66.67,g,6.67,g
+coconut milk,142,2.5,g,17.5,g,1.25,g
+coconut oil,143,0,g,100,g,0,g
+cod,144,17.86,g,0.45,g,0,g
+coffee flavored liqueur,145,0,g,0,g,81.82,g
+COLLEGE INN? Chicken Broth,146,0,g,0,g,0.42,g
+compressed yeast,147,4.92,g,21.31,g,16.39,g
+condensed beef consomme,148,16.67,g,0,g,16.67,g
+condensed cream of celery soup,149,0.81,g,5.69,g,1.63,g
+condensed cream of chicken soup,150,3.2,g,1.6,g,0.8,g
+condensed cream of mushroom soup,151,0.81,g,1.63,g,1.63,g
+condensed cream of turkey soup,152,3.33,g,36.67,g,3.33,g
+condensed tomato soup,153,1.63,g,0,g,9.76,g
+confectioners' coating,154,0,g,0,g,16.13,g
+confectioners' sugar,155,0,g,0,g,96.67,g
+confectioners' sugar or more to taste,156,0,g,0,g,96.67,g
+confectioners' sugar or to taste,157,0,g,0,g,96.67,g
+cooking spray,158,0,g,0,g,0,g
+COOL WHIP Whipped Topping,159,0,g,22.22,g,11.11,g
+coriander,160,2.26,g,2.26,g,0.75,g
+corn kernels,161,5.88,g,35.29,g,0,g
+corn syrup,162,0,g,0,g,60,g
+corn tortillas,163,3.12,g,1.56,g,0,g
+cornmeal,164,7.14,g,0,g,0,g
+cornstarch,165,0,g,0,g,0,g
+cottage cheese,166,10.62,g,1.33,g,3.54,g
+crabmeat,167,23.81,g,1.19,g,0,g
+cranberries,168,0,g,0,g,67.5,g
+cream,169,3.33,g,36.67,g,3.33,g
+cream cheese,170,7.14,g,32.14,g,3.57,g
+cream of tartar,171,0,g,0,g,0,g
+creamy Parmesan dressing,172,3.33,g,40,g,3.33,g
+creme fraiche,173,3.57,g,39.29,g,3.57,g
+crescent roll dough unrolled,174,12.18,g,14.74,g,3.21,g
+crimini mushrooms,175,3.53,g,0,g,1.18,g
+crispy rice cereal or more to taste,176,7.32,g,1.22,g,9.76,g
+cucumber,177,0,g,0,g,3.1,g
+cucumbers,178,0.36,g,0,g,0,g
+cumin,179,3.18,g,4.24,g,1.41,g
+cumin or to taste,180,4.65,g,32.56,g,51.16,g
+cumin seeds or to taste,181,17.24,g,34.48,g,27.59,g
+curry powder,182,0,g,0,g,0,g
+curry powder or to taste,183,0,g,0,g,0,g
+dark brown sugar,184,0,g,0,g,100,g
+dark soy sauce,185,0,g,0,g,16.67,g
+Dash salt,186,0,g,0,g,0,g
+dates,187,2.5,g,0,g,62.5,g
+Dijon mustard,188,0,g,0,g,0,g
+dill,189,0,g,0,g,3.57,g
+dill weed,190,0,g,0,g,0,g
+dressing or to taste,191,0,g,46.88,g,18.75,g
+drizzles olive oil or to taste,192,0,g,93.33,g,0,g
+egg,193,9.73,g,0,g,0,g
+egg noodles,194,14.55,g,4.55,g,3.64,g
+egg whites,195,10.87,g,0,g,0,g
+egg yolks,196,14.55,g,4.55,g,3.64,g
+eggs,197,12,g,10,g,0,g
+elbow macaroni,198,12.5,g,1.79,g,3.57,g
+erythritol,199,0,g,0,g,0,g
+escargots,200,16.95,g,0.85,g,0,g
+escarole,201,1.18,g,0,g,0,g
+evaporated milk,202,6.67,g,6.67,g,10,g
+extra beef,203,18.87,g,2.83,g,0,g
+extra shrimp,204,24.71,g,1.76,g,0,g
+extra virgin olive oil,205,0,g,93.33,g,0,g
+extra virgin olive oil cooking spray,206,0,g,0,g,0,g
+falafel mix,207,17.07,g,4.88,g,12.2,g
+favorite flavor Jell-O?,208,21.74,g,30.43,g,0,g
+figs,209,2.5,g,0,g,45,g
+filtered water,210,0,g,0,g,0,g
+fish sauce,211,0,g,0,g,0,g
+fish sauce or more to taste,212,0,g,0,g,16.67,g
+flaky sea salt,213,0,g,0,g,0,g
+flank steak,214,16.96,g,6.25,g,0.89,g
+flat leaf parsley,215,0,g,0,g,0,g
+flounder fillets,216,8.16,g,7.14,g,3.06,g
+flour tortillas,217,6.38,g,10.64,g,2.13,g
+French bread,218,9.3,g,2.33,g,0,g
+FRENCH'S? Original or Cheddar French Fried Onions,219,3.53,g,1.47,g,14.71,g
+fresh basil,220,13.22,g,17.36,g,0.83,g
+Fresh oregano,221,0,g,0,g,0,g
+full fat coconut milk,222,3.33,g,3.33,g,10.83,g
+galangal,223,0,g,0,g,0,g
+garlic,224,12.5,g,28.57,g,1.79,g
+garlic bouillon base,225,12.5,g,28.57,g,1.79,g
+garlic onion seasoning or to taste,226,0,g,0,g,0,g
+garlic powder,227,0,g,0,g,0,g
+garlic salt,228,0,g,0,g,0,g
+ghee,229,0,g,100,g,0,g
+ginger,230,0,g,12.5,g,0,g
+ginger dressing or more to taste,231,0,g,46.88,g,18.75,g
+ginger root,232,0,g,0,g,1.11,g
+gluten free bread,233,1.72,g,18.97,g,25.86,g
+gluten free chipotle chili sauce,234,0,g,0,g,16.67,g
+Gouda cheese,235,25,g,32.14,g,0,g
+graham cracker crust,236,4.76,g,28.57,g,23.81,g
+graham cracker crusts,237,4.76,g,28.57,g,23.81,g
+grams boneless chicken breast,238,17.86,g,2.14,g,8.57,g
+grams wheat berries,239,6.67,g,15,g,6.67,g
+granulated sugar,240,0,g,0,g,100,g
+grape tomatoes,241,1.19,g,0,g,4.76,g
+green bell pepper,242,0,g,0,g,20,g
+green cabbage,243,1.75,g,0.88,g,3.51,g
+green chilis,244,0,g,0,g,0,g
+green fruit,245,1.11,g,0,g,6.67,g
+green licorice string,246,0,g,0,g,42.5,g
+green onion,247,3.33,g,0,g,3.33,g
+green onion tops,248,10.94,g,0.78,g,7.03,g
+green onions,249,3.33,g,0,g,3.33,g
+grenadine syrup,250,0,g,0,g,80,g
+groundnut oil,251,0,g,93.33,g,0,g
+Gruyere cheese,252,28.57,g,32.14,g,0,g
+half-and-half,253,3.33,g,10,g,3.33,g
+halloumi cheese,254,25,g,32.14,g,0,g
+hamburger buns,255,10.26,g,3.85,g,5.13,g
+hash brown potatoes,256,8.82,g,0,g,2.94,g
+Hass avocado,257,3.33,g,16.67,g,0,g
+Hillshire Farm? Smoked Sausage lengthwise,258,14.29,g,26.79,g,1.79,g
+Himalayan salt,259,0,g,0,g,0,g
+Holland House? White Cooking Wine,260,0,g,0,g,0,g
+homemade mayonnaise,261,0,g,25,g,0,g
+honey,262,0,g,0,g,76.19,g
+honey flavored goat cheese,263,17.86,g,21.43,g,3.57,g
+horseradish,264,0,g,0,g,0,g
+hot IDAHOAN? potatoes,265,2.7,g,0,g,0.68,g
+hot pepper sauce,266,0,g,0,g,0,g
+hot water,267,0,g,0,g,0,g
+ice,268,0,g,0,g,0,g
+instant banana pudding,269,0,g,5.36,g,75,g
+instant vanilla pudding,270,0,g,0,g,16.67,g
+Italian seasoning or more to taste,271,0,g,0,g,0,g
+jalapeno pepper,272,4.17,g,18.75,g,2.08,g
+jalapeno peppers,273,4.17,g,18.75,g,2.08,g
+jasmine rice,274,6.67,g,0,g,0,g
+JET PUFFED Marshmallow,275,0,g,0,g,72.73,g
+JET PUFFED Miniature Marshmallows,276,3.57,g,0,g,53.57,g
+Jimmy Dean Regular Roll Sausage,277,12.18,g,14.74,g,3.21,g
+Johnsonville? All Natural Ground Italian Sausage or links decased,278,19.64,g,26.79,g,1.79,g
+Johnsonville? Three Cheese Italian Style Chicken Sausage,279,15.62,g,15.62,g,3.12,g
+kaffir lime,280,1.18,g,3.53,g,9.41,g
+Kalamata olives or to taste,281,13.33,g,16.67,g,0,g
+ketchup,282,0,g,0,g,12.5,g
+kidney beans,283,5.38,g,0,g,1.54,g
+KOOL AID Grape Flavor Sugar Sweetened Soft Drink Mix,284,4,g,2,g,76,g
+kosher salt,285,0,g,0,g,0,g
+kosher salt to taste,286,0,g,0,g,0,g
+KRAFT Mayo Real Mayonnaise,287,0,g,85.71,g,0,g
+KRAFT Mexican Style Finely Shredded Four Cheese,288,21.43,g,28.57,g,0,g
+KRAFT Mexican Style Shredded Cheese,289,25,g,32.14,g,0,g
+KRAFT Zesty Italian Dressing,290,0,g,22.58,g,12.9,g
+lamb,291,2.22,g,1.11,g,60,g
+lasagna noodles,292,12.5,g,1.79,g,3.57,g
+leek,293,16.67,g,0,g,0,g
+lemon,294,0,g,30,g,3.33,g
+lemon cake mix,295,2.94,g,0,g,35.29,g
+lemon juice,296,0,g,0,g,0,g
+lemongrass,297,0,g,0,g,5,g
+lemons,298,0,g,0,g,2.22,g
+lentils,299,25,g,0,g,0,g
+lettuce,300,0,g,7.89,g,34.21,g
+lightly salted peanuts or cashews,301,23.33,g,46.67,g,3.33,g
+lime,302,0,g,0,g,12.5,g
+lime juice,303,0,g,0,g,0,g
+lime juice or more to taste,304,0,g,0,g,9.6,g
+liquid smoke flavoring,305,0,g,0,g,0,g
+lollipop sticks,306,0,g,0,g,62.5,g
+long grain brown rice,307,8.89,g,3.33,g,0,g
+long grain white rice,308,6.67,g,0,g,0,g
+low fat cottage cheese,309,11.5,g,0.88,g,3.54,g
+low sodium chicken broth,310,0.83,g,0,g,0.42,g
+Lucerne? Sour Cream,311,6.67,g,0,g,6.67,g
+LUCKY LEAF? Regular or Premium Cherry Fruit Filling,312,0,g,0,g,17.65,g
+mango,313,0,g,0,g,52.5,g
+maple syrup,314,0,g,0,g,0,g
+margarine,315,0,g,57.14,g,0,g
+marinara sauce,316,1.6,g,1.2,g,3.2,g
+marshmallow creme,317,0,g,0,g,75,g
+mayonnaise,318,0,g,25,g,0,g
+mayonnaise dressing,319,0,g,40,g,0,g
+meaty beef roast bone,320,18.87,g,2.83,g,0,g
+Merlot wine,321,0,g,0,g,50,g
+Mexican cheese blend,322,21.43,g,28.57,g,0,g
+Mexican oregano,323,0,g,0,g,0,g
+mild Cheddar cheese,324,25,g,32.14,g,0,g
+mild white fish,325,6.06,g,1.52,g,4.55,g
+milk,326,3.33,g,3.33,g,10.83,g
+milk chocolate chips,327,6.67,g,26.67,g,66.67,g
+milk or to taste,328,3.33,g,3.33,g,10.83,g
+mini chocolate coated peanut nougat candy eg: Baby Ruth TM,329,14.99,g,22.4,g,34.93,g
+miniature marshmallows,330,3.33,g,0,g,53.33,g
+mint or more to taste,331,0,g,0,g,0,g
+mixed fruit,332,0.71,g,0,g,6.43,g
+mixed salad greens,333,0.64,g,8.97,g,2.56,g
+mixed vegetables,334,0.8,g,0,g,1.6,g
+ml water,335,0,g,0,g,0,g
+molasses,336,0,g,0,g,35,g
+Monterey Jack cheese,337,25,g,28.57,g,0,g
+Montreal chicken seasoning or to taste,338,0,g,0,g,0,g
+Morningstar Farms? Maple Flavored Veggie Sausage Patties,339,3.12,g,12.5,g,1.56,g
+mozzarella cheese,340,25,g,21.43,g,0,g
+multicolored candy sprinkles,341,2.63,g,31.58,g,65.79,g
+mushroom stems undrained,342,1.54,g,0,g,0,g
+mushrooms,343,1.54,g,0,g,2.31,g
+mustard,344,0,g,0,g,0,g
+navy beans,345,21.05,g,0,g,2.63,g
+NESTLE? CARNATION? Evaporated Lowfat Milk,346,3.75,g,1.04,g,9.17,g
+Newman's Own? Olive Oil & Vinegar Balsamic Vinaigrette or Lighten Up? Balsamic Vinaigrette Salad Dressing,347,0,g,11.67,g,10,g
+Nonstick cooking spray,348,0,g,0,g,0,g
+nutmeg,349,0,g,0,g,0,g
+nutritional yeast,350,50,g,6.25,g,0,g
+oat cereal,351,6.67,g,5,g,36.67,g
+oats,352,12.5,g,6.25,g,2.5,g
+oil,353,0,g,93.33,g,0,g
+okra,354,6.67,g,8.33,g,0,g
+Old Bay seasoning,355,0,g,0,g,0,g
+Old Bay Seasoning TM,356,0,g,0,g,0,g
+olive oil,357,0,g,93.33,g,0,g
+onion,358,10.94,g,0.78,g,7.03,g
+onion flakes,359,0,g,0,g,0,g
+onion powder,360,0,g,0,g,41.67,g
+onion soup mix,361,12.5,g,12.5,g,12.5,g
+onions,362,10.94,g,0.78,g,7.03,g
+orange,363,4.76,g,0,g,90.48,g
+orange flower water,364,4.76,g,0,g,90.48,g
+orange food coloring,365,4.76,g,0,g,90.48,g
+orange juice,366,0.83,g,0,g,9.17,g
+oregano,367,0,g,0,g,0,g
+OREO Cookies,368,0,g,0,g,0,g
+organic all vegetable shortening,369,0,g,100,g,0,g
+organic oranges,370,0.65,g,0,g,9.09,g
+orzo pasta,371,12.5,g,1.79,g,3.57,g
+oyster mushrooms,372,10,g,0,g,0,g
+oysters juice,373,0,g,0,g,0,g
+pancake mix,374,8.89,g,1.11,g,11.11,g
+paprika,375,0,g,0,g,0,g
+Parmesan cheese,376,40,g,30,g,0,g
+Parmesan cheese or to taste,377,40,g,30,g,0,g
+parsley,378,0,g,0,g,0,g
+pasta,379,12.5,g,1.79,g,3.57,g
+peach preserves,380,0,g,0,g,50,g
+peaches,381,0.7,g,0,g,21.83,g
+peanut butter,382,25,g,50,g,6.25,g
+peanut butter chips,383,6.67,g,26.67,g,60,g
+peanuts or to taste,384,25,g,56.25,g,6.25,g
+pearl barley,385,10,g,1,g,0,g
+peas,386,3.2,g,0.4,g,4.8,g
+pecan,387,10.71,g,71.43,g,3.57,g
+pecans,388,9.09,g,71.72,g,4.04,g
+pepper,389,0,g,0,g,0,g
+pepper Jack cheese,390,23.81,g,28.57,g,0,g
+Pepperidge Farm? Five Cheese Garlic Bread,391,12.5,g,28.57,g,1.79,g
+pepperoni,392,21.43,g,42.86,g,0,g
+pepperoni slices,393,17.86,g,42.86,g,0,g
+persimmons,394,0,g,0,g,0,g
+pesto,395,5.88,g,35.29,g,2.94,g
+petite tomatoes,396,0.83,g,0,g,2.48,g
+PHILADELPHIA Cream Cheese,397,0,g,0,g,0,g
+pickled jalapeno peppers,398,0,g,0,g,3.33,g
+pie crust,399,4.76,g,28.57,g,14.29,g
+pie crusts,400,3.7,g,25.93,g,7.41,g
+pie pastry,401,4.44,g,20,g,17.78,g
+pie shell,402,4.76,g,23.81,g,4.76,g
+pigeon peas,403,4,g,0,g,0.8,g
+pimento peppers,404,1.18,g,0,g,3.53,g
+pineapple,405,0,g,0,g,75,g
+pineapple ends,406,0,g,0.65,g,10.39,g
+pisco,407,1.25,g,0,g,93.75,g
+pizza sauce,408,1.77,g,1.33,g,1.77,g
+plain Greek yogurt,409,8.81,g,3.52,g,3.52,g
+plain low fat yogurt,410,3.96,g,1.76,g,5.29,g
+plain stuffing bread cubes,411,3.57,g,14.29,g,3.57,g
+plain yogurt,412,4.89,g,0,g,4.44,g
+plum tomatoes,413,1,g,0.5,g,3,g
+ponzu sauce,414,6.67,g,0,g,6.67,g
+popcorn,415,3.57,g,28.57,g,28.57,g
+pork,416,17.86,g,20.24,g,1.19,g
+pork belly,417,9.41,g,51.76,g,1.18,g
+pork chops,418,17.17,g,12.12,g,1.52,g
+pork loin,419,21.43,g,7.14,g,1.79,g
+pork sage sausage,420,17.86,g,35.71,g,0,g
+potato chips,421,7.14,g,35.71,g,0,g
+potato flakes,422,10.53,g,0,g,0,g
+potatoes,423,2.7,g,0,g,0.68,g
+pouch Betty Crocker? peanut butter cookie mix,424,7.14,g,12.5,g,42.86,g
+pound cake,425,4.71,g,21.18,g,28.24,g
+powdered sugar,426,0,g,0,g,100,g
+pre pizza crust,427,7.69,g,3.08,g,7.69,g
+Prego? Roasted Garlic & Herb Italian Sauce,428,12.5,g,28.57,g,1.79,g
+pretzel twists,429,6.67,g,3.33,g,13.33,g
+processed sharp Cheddar cheese,430,17.86,g,25,g,0,g
+puff pastry sheets,431,0,g,21.43,g,2.38,g
+pumpkin puree,432,1.67,g,0,g,3.33,g
+pure chili powder,433,0,g,0,g,0,g
+quick cooking oats,434,12.82,g,6.41,g,0,g
+quinces,435,0,g,0,g,13.71,g
+radishes or to taste,436,4.65,g,32.56,g,51.16,g
+raisins,437,2.38,g,0,g,69.05,g
+raisins or to taste,438,2.38,g,0,g,69.05,g
+ranch dressing,439,0,g,24.14,g,3.45,g
+ready to fill pie crusts,440,4.76,g,28.57,g,14.29,g
+recaito,441,0,g,0,g,0,g
+red Anjou pears,442,2.5,g,0,g,35,g
+red bell pepper,443,10.71,g,8.93,g,3.57,g
+red chili flakes,444,0,g,0,g,0,g
+red chili or chili powder,445,8.54,g,11.79,g,2.03,g
+red chili pepper or more to taste,446,8.54,g,11.79,g,2.03,g
+red food coloring,447,0,g,0,g,0,g
+red onion,448,0.68,g,0,g,3.38,g
+red pepper flakes,449,0,g,0,g,0,g
+red sweet pepper,450,2,g,0,g,16,g
+red wine,451,0,g,0,g,0,g
+red wine vinegar,452,0,g,0,g,0,g
+reduced fat cream cheese,453,6.67,g,20,g,6.67,g
+reduced fat mayonnaise,454,0,g,20,g,20,g
+reduced sodium chicken broth,455,1.25,g,0,g,0.42,g
+ribs celery,456,0,g,0,g,1.82,g
+rice milk or more,457,0,g,0,g,0,g
+rice vinegar or more to taste,458,0,g,0,g,0,g
+rice wine vinegar,459,0,g,0,g,0,g
+riced cauliflower,460,2.65,g,0,g,0.88,g
+ricotta cheese or more to taste,461,9.68,g,9.68,g,3.23,g
+RITZ Crackers,462,6.25,g,28.12,g,6.25,g
+Roma tomatoes,463,0.68,g,0.34,g,2.7,g
+romaine lettuce,464,1.18,g,0,g,1.18,g
+rosemary,465,0,g,0,g,0,g
+rum,466,4.65,g,16.28,g,23.26,g
+Safeway Light Brown Sugar,467,0,g,0,g,100,g
+Safeway SELECT? Mayonnaise,468,0,g,25,g,0,g
+Safeway SELECT? Vanilla Ice Cream,469,4.41,g,13.24,g,19.12,g
+Safeway Sweetened Flaked Coconut,470,0,g,30,g,40,g
+sage,471,0,g,0,g,0,g
+salmon,472,15.23,g,7.95,g,0,g
+salsa,473,0,g,0,g,3.33,g
+salt,474,0,g,0,g,0,g
+salt black pepper to taste,475,0,g,0,g,0,g
+salt pepper to taste,476,0,g,0,g,0,g
+salt to taste,477,0,g,0,g,0,g
+salted peanuts or to taste,478,25,g,56.25,g,6.25,g
+sandwich rolls,479,9.86,g,5.63,g,4.23,g
+scoop vanilla whey protein powder,480,0,g,1.56,g,18.75,g
+sea salt,481,0,g,0,g,0,g
+sea salt to taste,482,0,g,0,g,0,g
+semi sweet chocolate chips,483,6.67,g,26.67,g,53.33,g
+semisweet chocolate chips,484,6.67,g,33.33,g,46.67,g
+sesame oil,485,0,g,100,g,0,g
+sesame seeds,486,12.5,g,50,g,0,g
+sharp Cheddar cheese,487,25,g,32.14,g,0,g
+sherry,488,0.67,g,0.67,g,40,g
+shiitake mushrooms,489,2.5,g,0,g,0,g
+shortcrust pastry crust,490,9.45,g,4.72,g,3.15,g
+shortening,491,0,g,100,g,0,g
+shrimp,492,20.35,g,1.77,g,0,g
+simple syrup,493,0,g,0,g,71.43,g
+Simply Potatoes? Diced Potatoes,494,0.61,g,0,g,0.61,g
+size mason jars,495,0,g,0,g,0,g
+size mushrooms,496,1.54,g,0,g,2.31,g
+slider buns or mini sandwich rolls,497,9.86,g,5.63,g,4.23,g
+smoked mozzarella cheese,498,14.29,g,10.71,g,0,g
+smoked sausage thinly,499,14.29,g,26.79,g,1.79,g
+snipped chives,500,0,g,0,g,0,g
+snipped mint,501,0,g,0,g,0,g
+snipped parsley,502,0,g,0,g,0,g
+sour cream,503,3.33,g,20,g,3.33,g
+Southern hash brown potatoes,504,8.82,g,0,g,2.94,g
+soy sauce,505,11.11,g,0,g,0,g
+spaghetti sauce,506,0,g,0,g,25,g
+spaghetti squash,507,0.65,g,0.42,g,2.58,g
+sparkling lemonade,508,0,g,0,g,9.58,g
+speculoos cookies,509,0,g,0,g,0,g
+spice blend,510,0,g,0,g,0,g
+spicy peanut sauce (such,511,0,g,0,g,16.67,g
+spinach,512,2.35,g,0,g,0,g
+SPLENDA? Sugar Blend,513,0,g,0,g,96.67,g
+spring onions,514,10.94,g,0.78,g,7.03,g
+squid,515,14.55,g,16.36,g,0,g
+Sriracha salt,516,0,g,0,g,0,g
+sriracha sauce,517,0,g,64.29,g,7.14,g
+standing beef rib roast,518,18.87,g,2.83,g,0,g
+steak sauce,519,0,g,0,g,20,g
+stick butter,520,0,g,78.57,g,0,g
+sticks butter,521,0,g,78.57,g,0,g
+strawberries,522,0.71,g,0,g,4.29,g
+strawberry daiquiri mixer,523,0,g,0,g,50,g
+stuffing mix,524,10.71,g,5.36,g,10.71,g
+styrofoam block,525,7.14,g,39.29,g,0,g
+sugar,526,0,g,0,g,96.67,g
+sugar or more to taste,527,0,g,0,g,96.67,g
+sun tomatoes,528,14.29,g,0,g,14.29,g
+sweet chili sauce,529,0,g,0,g,50,g
+sweet corn,530,1.6,g,1.2,g,5.6,g
+sweet Italian sausage,531,15.38,g,21.98,g,2.2,g
+sweet onion,532,0.4,g,0.1,g,0,g
+sweet onions,533,0.4,g,0.1,g,0,g
+sweet pickle relish or more to taste,534,0,g,0,g,20,g
+sweet potatoes,535,0.6,g,0,g,12.05,g
+sweet red pepper,536,1.61,g,2.42,g,0,g
+sweet vermouth,537,0,g,0,g,0,g
+sweetened coconut,538,0,g,23.33,g,33.33,g
+sweetened condensed milk,539,7.69,g,7.69,g,56.41,g
+Swiss cheese,540,25,g,32.14,g,0,g
+TACO BELL? HOME ORIGINALS? Taco Seasoning Mix,541,0,g,0,g,0,g
+TACO BELL? HOME ORIGINALS? Thick 'N Chunky Salsa,542,3.53,g,1.47,g,14.71,g
+tahini,543,25,g,64.29,g,0,g
+tamari,544,11.11,g,0,g,0,g
+tarragon,545,0,g,0,g,0,g
+tarragon vinegar,546,0,g,0,g,0,g
+tequila,547,0,g,0,g,0,g
+teriyaki marinade,548,6.67,g,6.67,g,33.33,g
+teriyaki sauce,549,5.88,g,0,g,29.41,g
+Thai chili peppers,550,0,g,0,g,3.33,g
+thyme,551,0,g,0,g,0,g
+tofu,552,4.4,g,2.2,g,0,g
+tomato,553,14.29,g,0,g,14.29,g
+tomato paste,554,6.06,g,0,g,9.09,g
+tomato sauce,555,0,g,0,g,3.17,g
+tomatoes,556,0.79,g,0,g,3.17,g
+tomatoes green chilis,557,8.54,g,11.79,g,2.03,g
+tube black decorating gel,558,0,g,0,g,50,g
+tuna,559,22.86,g,4.29,g,2.86,g
+turmeric,560,0,g,0,g,0,g
+unbleached all purpose flour,561,10,g,0,g,3.33,g
+unsalted butter,562,7.14,g,78.57,g,0,g
+unsalted peanuts,563,25,g,50,g,3.57,g
+unsweetened cocoa powder,564,20,g,13.33,g,0,g
+unsweetened coconut,565,6.67,g,66.67,g,6.67,g
+vanilla,566,4.71,g,2.94,g,11.76,g
+vanilla bean,567,0,g,0,g,0,g
+vanilla bean paste,568,0,g,0,g,0,g
+vanilla extract,569,0,g,0,g,0,g
+vanilla ice cream,570,4.23,g,26.76,g,21.13,g
+vanilla sugar,571,0,g,0,g,96.67,g
+veal,572,15.29,g,22.35,g,0,g
+vegetable broth,573,0,g,0,g,0.42,g
+vegetable oil,574,0,g,100,g,0,g
+vermouth,575,0,g,6.67,g,0,g
+walnuts,576,14.29,g,64.29,g,3.57,g
+water,577,0,g,0,g,0,g
+water chestnuts,578,1.43,g,0,g,2.86,g
+water to cover,579,0,g,0,g,0,g
+watermelon cubes or balls,580,0.78,g,0.25,g,6.27,g
+whipped topping,581,0,g,22.22,g,11.11,g
+whipping cream,582,0,g,30,g,6.67,g
+white chocolate chips,583,6.67,g,26.67,g,66.67,g
+white onion,584,10.94,g,0.78,g,7.03,g
+white onions,585,10.94,g,0.78,g,7.03,g
+white rice,586,2.86,g,0,g,0,g
+white sugar,587,0,g,0,g,75,g
+white sugar or more,588,0,g,0,g,96.67,g
+white sugar or to taste,589,0,g,0,g,96.67,g
+white wine,590,21.43,g,25,g,3.57,g
+whole black peppercorns,591,0,g,0,g,0,g
+whole milk,592,3.33,g,3.33,g,5,g
+whole milk or more,593,3.33,g,3.33,g,5,g
+whole wheat flour,594,12.9,g,3.23,g,3.23,g
+wild rice,595,14.58,g,1.04,g,2.08,g
+Worcestershire sauce,596,0,g,0,g,20,g
+worm shaped chewy fruit snacks,597,0,g,0,g,11.2,g
+yellow banana peppers,598,1.18,g,0,g,3.53,g
+yellow bell pepper,599,0,g,0,g,0,g
+yellow cornmeal,600,6.06,g,1.52,g,0,g
+yellow mustard,601,0,g,0,g,0,g
+yellow or white hominy,602,0.8,g,0,g,0.8,g
+yellow pepper,603,4,g,0,g,0,g
+yellow squash,604,1,g,0,g,2,g
+zucchini,605,2.04,g,3.27,g,3.67,g

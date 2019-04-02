@@ -1,1447 +1,1445 @@
 ﻿id,ingredients_amount,ingredients_unit,ingredients_name,ingredient_id,ingredients_type
-10038,1,cups,butter,,cooking fat
-10038,0.75,cups,cornstarch,,grain
-10038,0.333333333,cups,confectioners' sugar,,sugar
-10038,1,cups,all purpose flour,,baking ingredient
-10038,3,ounces,cream cheese,,dairy
-10038,1,cups,confectioners' sugar,,sugar
-10038,1,teaspoons,vanilla extract,,flavoring
-10038,3,drops,red food coloring,,recipe extra
-10091,2,cups,white sugar,,sugar
-10091,1,cups,shortening,,cooking fat
-10091,1,tablespoons,vanilla extract,,flavoring
-10091,1,teaspoons,almond extract,,nut
-10091,2,,eggs,,baking ingredient
-10091,6,cups,all purpose flour,,baking ingredient
-10091,1,teaspoons,baking soda,,baking ingredient
-10091,1,teaspoons,baking powder,,baking ingredient
-10091,1,teaspoons,salt,,spice or herb
-10091,1,cups,milk,,fat and vitamins
-10405,1,packages,lemon cake mix,,fruit
-10405,1,containers,whipped topping,,recipe extra
-10405,1,,eggs,,baking ingredient
-10405,2,cups,confectioners' sugar,,sugar
-10636,0.5,cups,butter,,cooking fat
-10636,0.333333333,cups,brown sugar,,vegetable
-10636,0.333333333,cups,white sugar,,sugar
-10636,1,,egg,,baking ingredient
-10636,1.5,teaspoons,hot water,,cooking liquid
-10636,1.125,cups,all purpose flour,,baking ingredient
-10636,0.5,teaspoons,vanilla extract,,spice or herb
-10636,0.5,teaspoons,baking soda,,drink
-10636,0.5,teaspoons,salt,,spice or herb
-10636,1,cups,semisweet chocolate chips,,spice or herb
-10682,0.5,cups,butter,,cooking fat
-10682,0.75,cups,white sugar,,sugar
-10682,1,,egg,,baking ingredient
-10682,1.333333333,cups,all purpose flour,,baking ingredient
-10682,0.5,teaspoons,salt,,spice or herb
-10682,0.5,teaspoons,baking soda,,baking ingredient
-10682,0.5,teaspoons,vanilla extract,,flavoring
-10682,2,,mini chocolate coated peanut nougat candy eg: Baby Ruth TM,,nut
-10837,1.25,cups,unsalted butter,,cooking fat
-10837,2,,eggs,,baking ingredient
-10837,1,teaspoons,vanilla extract,,flavoring
-10837,1.75,cups,all purpose flour,,baking ingredient
-10837,1,teaspoons,baking soda,,baking ingredient
-10837,1,teaspoons,salt,,spice or herb
-10837,0.75,cups,white sugar,,sugar
-10837,0.75,cups,brown sugar,,vegetable
-10837,1.5,cups,white chocolate chips,,spice or herb
-10837,1.5,cups,milk chocolate chips,,dairy
-10837,1.5,cups,semi sweet chocolate chips,,spice or herb
-10837,1,cups,walnuts,,nut
-10888,1,cups,confectioners' sugar,,sugar
-10888,1,cups,coconut,,fruit
-10888,1.5,tablespoons,cream,,fat and vitamins
-10888,2,tablespoons,cinnamon,,spice or herb
-10891,2,cups,all purpose flour,,baking ingredient
-10891,1,teaspoons,baking soda,,baking ingredient
-10891,1,cups,butter flavored shortening,,cooking fat
-10891,1,cups,white sugar,,sugar
-10891,0.5,cups,brown sugar,,vegetable
-10891,1,teaspoons,vanilla extract,,flavoring
-10891,2,,eggs,,baking ingredient
-10891,1.666666667,cups,peanut butter chips,,nut
-11058,0.5,cups,butter,,cooking fat
-11058,0.5,cups,shortening,,cooking fat
-11058,1,teaspoons,vanilla extract,,flavoring
-11058,4,cups,confectioners' sugar,,sugar
-11058,2,tablespoons,milk,,dairy
-11159,0.666666667,cups,shortening,,cooking fat
-11159,0.666666667,cups,white sugar,,sugar
-11159,2,,eggs,,baking ingredient
-11159,1,teaspoons,vanilla extract,,flavoring
-11159,0.5,teaspoons,baking powder,,baking ingredient
-11159,0.5,teaspoons,salt,,spice or herb
-11159,1,packages,instant banana pudding,,fruit
-11159,2.5,cups,all purpose flour,,baking ingredient
-11448,0.5,cups,shortening,,cooking fat
-11448,0.75,cups,white sugar,,sugar
-11448,1,,eggs,,baking ingredient
-11448,0.5,teaspoons,almond extract,,nut
-11448,1,cups,all purpose flour,,baking ingredient
-11448,0.5,teaspoons,baking powder,,spice or herb
-11448,0.5,teaspoons,salt,,spice or herb
-11448,1,cups,semi sweet chocolate chips,,spice or herb
-11448,0.75,cups,coconut,,fruit
-11448,0.75,cups,candied cherries,,fruit
-11921,1,packages,lasagna noodles,,pasta
-11921,1.5,tablespoons,olive oil,,cooking liquid
-11921,1,,onion,,vegetable
-11921,1,,carrot,,vegetable
-11921,1,stalks,celery,,vegetable
-11921,0.75,pounds,mushrooms,,vegetable
-11921,2,,cloves garlic,,spice or herb
-11921,0.5,cups,white wine,,alcoholic
-11921,1,cans,tomatoes,,vegetable
-11921,2,,sun tomatoes,,vegetable
-11921,1,teaspoons,thyme,,spice or herb
-11921,0,,salt to taste,,spice or herb
-11921,0,,black pepper to taste,,vegetable
-11921,0.333333333,cups,all purpose flour,,baking ingredient
-11921,3,cups,whipping cream,,fat and vitamins
-11921,0.25,teaspoons,nutmeg,,spice or herb
-11921,1,pinches,salt,,spice or herb
-11921,8,cups,spinach,,vegetable
-11921,1,cups,Parmesan cheese,,cheese
-12039,8,ounces,pasta,,pasta
-12039,1,pounds,beef,,meat
-12039,1,cups,onion,,vegetable
-12039,2,cups,celery,,vegetable
-12039,0,,salt black pepper to taste,,spice or herb
-12039,1,cans,condensed tomato soup,,vegetable
-12039,1,cans,tomato sauce,,vegetable
-12039,1,cups,water,,cooking liquid
-12039,2,cups,sharp Cheddar cheese,,cheese
-12702,2,tablespoons,vegetable oil,,vegetable
-12702,3,,cloves garlic,,spice or herb
-12702,1,,onion,,vegetable
-12702,2,pounds,squid,,seafood
-12702,0.5,,pineapple,,fruit
-12702,4,stalks,celery,,vegetable
-12702,4,tablespoons,fish sauce,,sauce
-12702,1,teaspoons,white sugar,,sugar
-12702,1,teaspoons,black pepper,,vegetable
-13024,0.5,pounds,extra beef,,meat
-13024,1,,eggs,,baking ingredient
-13024,2,tablespoons,bread,,grain
-13024,1,tablespoons,Parmesan cheese,,dairy
-13024,0.5,teaspoons,basil,,spice or herb
-13024,0.5,teaspoons,onion powder,,vegetable
-13024,5.75,cups,chicken broth,,poultry
-13024,2,cups,escarole,,vegetable
-13024,1,cups,orzo pasta,,pasta
-13024,0.333333333,cups,carrots,,vegetable
-13062,0.5,pounds,beef,,meat
-13062,0.75,cups,onion,,vegetable
-13062,0.75,cups,carrots,,vegetable
-13062,0.75,cups,celery,,vegetable
-13062,1,teaspoons,basil,,spice or herb
-13062,1,teaspoons,parsley,,vegetable
-13062,4,tablespoons,butter,,cooking fat
-13062,3,cups,chicken broth,,poultry
-13062,4,cups,potatoes,,vegetable
-13062,0.25,cups,all purpose flour,,baking ingredient
-13062,2,cups,Cheddar cheese,,dairy
-13062,1.5,cups,milk,,dairy
-13062,0.25,cups,sour cream,,dairy
-13240,0.5,pounds,bacon,,meat
-13240,2,,onion,,vegetable
-13240,12,cups,water,,cooking liquid
-13240,3,,carrots,,vegetable
-13240,4,cans,clams,,seafood
-13240,2.25,cups,clam juice,,seafood
-13240,4,,potatoes,,vegetable
-13240,1,teaspoons,kosher salt,,spice or herb
-13240,2,cans,tomatoes,,vegetable
-13240,1.5,teaspoons,black pepper,,vegetable
-13240,4,stalks,celery,,vegetable
-13240,1,cups,ketchup,,condiment
-13240,4,cups,whole milk,,dairy
-13240,1.5,cups,potato flakes,,vegetable
-13465,1,,graham cracker crust,,grain
-13465,2,cups,pumpkin puree,,vegetable
-13465,1,cans,sweetened condensed milk,,fat and vitamins
-13465,1,,egg,,baking ingredient
-13465,1.25,teaspoons,cinnamon,,spice or herb
-13465,0.5,teaspoons,ginger,,spice or herb
-13465,0.5,teaspoons,nutmeg,,spice or herb
-13465,0.5,teaspoons,salt,,spice or herb
-13465,0.25,cups,brown sugar,,vegetable
-13465,2,tablespoons,all purpose flour,,baking ingredient
-13465,2,tablespoons,butter,,cooking fat
-13465,0.75,cups,walnuts,,nut
-13764,2,cups,white sugar,,sugar
-13764,4,tablespoons,cornstarch,,grain
-13764,4,cups,milk,,fat and vitamins
-13764,4,,egg yolks,,baking ingredient
-13764,1,pinches,salt,,spice or herb
-13764,1,tablespoons,butter,,cooking fat
-13764,1,teaspoons,vanilla extract,,flavoring
-13924,1.5,cups,pearl barley,,grain
-13924,4.5,cups,water,,cooking liquid
-13924,1,tablespoons,canola oil,,cooking liquid
-13924,1,,red onion,,vegetable
-13924,0.75,cups,apricots,,fruit
-13924,0.5,cups,almonds,,nut
-13924,2,tablespoons,parsley,,vegetable
-13924,1,cups,plain low fat yogurt,,dairy
-13924,2,tablespoons,honey,,sugar
-13924,1,,lemon,,fruit
-13924,0.5,teaspoons,cinnamon,,spice or herb
-13924,0.5,teaspoons,turmeric,,spice or herb
-13924,0.5,teaspoons,salt,,spice or herb
-13924,1,pinches,nutmeg,,spice or herb
-14176,1,,tomatoes,,vegetable
-14176,1,,cucumbers,,vegetable
-14176,0.25,cups,red onion,,vegetable
-14176,0.25,cups,canned kidney beans,,main protein
-14176,0.25,cups,tofu,,main protein
-14176,2,tablespoons,basil,,spice or herb
-14176,0.25,cups,balsamic vinaigrette dressing,,condiment
-14176,0,,salt pepper to taste,,vegetable
-14518,2,pounds,boneless chicken thighs,,poultry
-14518,0,,adobo seasoning to taste,,spice or herb
-14518,12,,flour tortillas,,baking ingredient
-14518,1.5,cups,Mexican cheese blend,,dairy
-14518,1,,onion,,vegetable
-14518,1,cans,black olives,,vegetable
-14518,1,cans,green chilis,,vegetable
-14684,2,pounds,flank steak,,meat
-14684,1,cans,condensed cream of mushroom soup,,soup
-14684,1,cans,condensed tomato soup,,soup
-14684,1,packages,onion soup mix,,mixture
-14937,32,ounces,plain yogurt,,fat and vitamins
-14937,2,,cucumbers,,vegetable
-14937,1,tablespoons,dill weed,,spice or herb
-14937,1,bunches,green onions,,vegetable
-14937,0,,salt to taste,,spice or herb
-15004,4.5,cups,all purpose flour,,baking ingredient
-15004,2,teaspoons,baking soda,,baking ingredient
-15004,2,cups,butter,,cooking fat
-15004,1.5,cups,brown sugar,,vegetable
-15004,0.5,cups,white sugar,,sugar
-15004,2,packages,instant vanilla pudding,,spice or herb
-15004,4,,eggs,,baking ingredient
-15004,2,teaspoons,vanilla extract,,flavoring
-15004,4,cups,semisweet chocolate chips,,spice or herb
-15004,2,cups,walnuts,,nut
-15048,0.5,cups,butter,,cooking fat
-15048,1,cups,brown sugar,,vegetable
-15048,2,,eggs,,baking ingredient
-15048,1,cups,bananas,,fruit
-15048,2,cups,all purpose flour,,baking ingredient
-15048,2,teaspoons,baking powder,,spice or herb
-15048,0.25,teaspoons,baking soda,,baking ingredient
-15048,0.25,teaspoons,salt,,spice or herb
-15048,0.5,teaspoons,cinnamon,,spice or herb
-15048,0.25,teaspoons,cloves,,spice or herb
-15048,0.5,cups,walnuts,,nut
-15660,1,cans,strawberry daiquiri mixer,,fruit
-15660,1,cups,sweetened condensed milk,,fat and vitamins
-15660,1,containers,whipped topping,,recipe extra
-15660,1,packages,strawberries,,fruit
-15660,2,,graham cracker crusts,,grain
-15941,2,,pie shell,,grain
-15941,10,,apple,,fruit
-15941,0.25,cups,white sugar,,sugar
-15941,1,tablespoons,cinnamon,,spice or herb
-15941,0.5,teaspoons,nutmeg,,spice or herb
-16390,1,,pie shell,,grain
-16390,2,,eggs,,baking ingredient
-16390,0.5,cups,butter,,cooking fat
-16390,1,cups,white sugar,,sugar
-16390,1,teaspoons,vanilla extract,,flavoring
-16390,0.25,cups,all purpose flour,,baking ingredient
-16390,0.25,cups,unsweetened cocoa powder,,spice or herb
-16390,1,cups,semi sweet chocolate chips,,spice or herb
-16589,0.5,pounds,smoked sausage thinly,,meat
-16589,0.5,pounds,button mushrooms,,vegetable
-16589,3,tablespoons,green onions,,vegetable
-16589,1,teaspoons,garlic,,spice or herb
-16589,4,tablespoons,blue cheese dressing,,condiment
-16589,3,,boneless chicken breasts,,poultry
-16589,1,tablespoons,Cajun seasoning,,spice or herb
-16608,3,cups,egg noodles,,pasta
-16608,4,cups,chicken breast meat,,poultry
-16608,4,cans,condensed cream of celery soup,,dairy
-16608,3,cans,evaporated milk,,dairy
-16608,1,cups,celery,,vegetable
-16608,5,cups,potato chips,,vegetable
-16752,1.5,pounds,bacon,,meat
-16752,1,jars,mayonnaise,,condiment
-16752,0.5,cups,corn syrup,,grain
-16752,0.25,cups,apple cider vinegar,,fruit
-16752,0.5,teaspoons,black pepper,,vegetable
-16752,1,,onion,,vegetable
-16937,1,packages,navy beans,,main protein
-16937,1,,meaty beef roast bone,,meat
-16937,2,cans,tomatoes,,vegetable
-16937,1.5,cups,red wine,,alcoholic
-16937,3,tablespoons,onion flakes,,vegetable
-16937,1,tablespoons,parsley,,vegetable
-16937,1,teaspoons,paprika,,spice or herb
-16937,1,tablespoons,celery seed,,vegetable
-16937,2,leaves,bay,,spice or herb
-16937,1,teaspoons,salt,,spice or herb
-16937,1,tablespoons,garlic powder,,spice or herb
-16937,1,teaspoons,white sugar,,sugar
-16937,0.5,teaspoons,black pepper,,vegetable
-16937,1,pinches,red pepper flakes,,vegetable
-16937,0,,water to cover,,cooking liquid
-17851,1,packages,cherry cake mix,,fruit
-17851,3,,eggs,,baking ingredient
-17851,1,cans,pineapple,,fruit
-17851,1,cups,walnuts,,nut
-18090,0.5,pounds,chicken wings,,poultry
-18090,2,,onions,,vegetable
-18090,0.25,cups,celery,,vegetable
-18090,1,teaspoons,browning sauce,,sauce
-18090,4,cups,water,,cooking liquid
-18090,2,cups,white rice,,grain
-18090,1,cups,pigeon peas,,vegetable
-18090,0.5,pounds,cod,,fish
-18090,3,,tomatoes,,vegetable
-18090,1,cups,carrots,,vegetable
-18090,1,teaspoons,salt,,spice or herb
-18198,1,,pie crust,,grain
-18198,4.5,teaspoons,cornstarch,,grain
-18198,1.125,cups,white sugar,,sugar
-18198,0.25,teaspoons,salt,,spice or herb
-18198,0.75,teaspoons,nutmeg,,spice or herb
-18198,1.5,cups,sour cream,,dairy
-18198,3,,egg yolks,,baking ingredient
-18198,1.5,cups,raisins,,fruit
-18198,1,tablespoons,lemon juice,,fruit
-18198,3,,egg whites,,baking ingredient
-18198,0.25,teaspoons,cream of tartar,,dairy
-18198,6,tablespoons,brown sugar,,vegetable
-18198,0.5,teaspoons,vanilla extract,,flavoring
-18343,2,,plum tomatoes,,fruit
-18343,1,,zucchini,,vegetable
-18343,3,tablespoons,salsa,,sauce
-18343,3,tablespoons,water,,cooking liquid
-18343,0.5,teaspoons,oregano,,spice or herb
-18343,0.25,teaspoons,basil,,spice or herb
-18343,0,,salt pepper to taste,,spice or herb
-18473,0.5,,eggs,,baking ingredient
-18473,3,tablespoons,white sugar,,sugar
-18473,1,pinches,salt,,spice or herb
-18473,1.5,cups,all purpose flour,,baking ingredient
-18473,0.5,cups,butter,,cooking fat
-18913,2,cans,sweet potatoes,,vegetable
-18913,0.333333333,cups,butter,,cooking fat
-18913,2,tablespoons,white sugar,,sugar
-18913,2,tablespoons,brown sugar,,vegetable
-18913,1,tablespoons,orange juice,,fruit
-18913,2,,eggs,,baking ingredient
-18913,0.5,cups,milk,,dairy
-18913,0.333333333,cups,pecans,,nut
-18913,0.333333333,cups,brown sugar,,vegetable
-18913,2,tablespoons,all purpose flour,,baking ingredient
-18913,2,teaspoons,butter,,cooking fat
-19252,1,cups,corn syrup,,grain
-19252,0.5,cups,peanut butter,,nut
-19252,3,cups,oat cereal,,grain
-19424,2,cans,condensed cream of chicken soup,,poultry
-19424,0.75,cups,milk,,fat and vitamins
-19424,1,pounds,elbow macaroni,,pasta
-19424,4,,tomatoes,,vegetable
-19424,12,slices,processed sharp Cheddar cheese,,cheese
-19477,2,cups,vegetable oil,,cooking liquid
-19477,1,pints,oysters juice,,drink
-19477,1,,egg,,baking ingredient
-19477,0,,salt to taste,,spice or herb
-19477,1,teaspoons,black pepper,,vegetable
-19477,1,teaspoons,Old Bay Seasoning TM,,spice or herb
-19477,0.5,cups,pancake mix,,mixture
-19489,1,pounds,crabmeat,,seafood
-19489,1.5,tablespoons,bread,,grain
-19489,2,teaspoons,parsley,,vegetable
-19489,0,,salt pepper to taste,,spice or herb
-19489,1,,eggs,,baking ingredient
-19489,1.5,tablespoons,mayonnaise,,condiment
-19489,0.5,teaspoons,mustard,,condiment
-19489,1,dashes,hot pepper sauce,,sauce
-19515,0.25,cups,butter,,cooking fat
-19515,1,cups,onion,,vegetable
-19515,1,cups,celery,,vegetable
-19515,1,tablespoons,parsley,,vegetable
-19515,8,ounces,crabmeat,,seafood
-19515,8,ounces,shrimp,,seafood
-19515,0.25,cups,vermouth,,alcoholic
-19515,0,,salt to taste,,spice or herb
-19515,0,,black pepper to taste,,vegetable
-19515,0.25,teaspoons,hot pepper sauce,,vegetable
-19515,0.5,cups,bread,,grain
-19515,1,packages,puff pastry sheets,,sugar
-19515,2,pounds,flounder fillets,,fish
-19515,2,,egg yolks,,baking ingredient
-19519,6,cups,ketchup,,condiment
-19519,6,cups,chili sauce,,vegetable
-19519,2,cups,horseradish,,spicy
-19519,1,cups,Worcestershire sauce,,sauce
-19519,0.75,cups,lemon juice,,drink
-19519,4,tablespoons,hot pepper sauce,,vegetable
-19519,2,cups,tequila,,alcoholic
-19519,0,,salt pepper to taste,,spice or herb
-20978,2,quarts,cider vinegar,,cooking liquid
-20978,0.25,cups,salt,,spice or herb
-20978,2,tablespoons,cayenne pepper,,spice or herb
-20978,3,tablespoons,red pepper flakes,,vegetable
-20978,1,cups,brown sugar,,sugar
-20978,1,tablespoons,hot pepper sauce,,sauce
-21325,1,loaves,French bread,,grain
-21325,1,,sweet onion,,vegetable
-21325,1,cans,tuna,,fish
-21325,2,cups,mozzarella cheese,,cheese
-21325,1,cups,mayonnaise,,condiment
-25829,0.5,cups,butter,,cooking fat
-25829,0.5,cups,shortening,,cooking fat
-25829,1,cups,white sugar,,sugar
-25829,1,cups,brown sugar,,sugar
-25829,2,,eggs,,baking ingredient
-25829,2,tablespoons,evaporated milk,,fat and vitamins
-25829,2,teaspoons,vanilla extract,,flavoring
-25829,2,cups,all purpose flour,,baking ingredient
-25829,1,teaspoons,baking powder,,baking ingredient
-25829,1,teaspoons,baking soda,,baking ingredient
-25829,0.5,teaspoons,salt,,spice or herb
-25829,1.5,cups,oats,,grain
-25829,1.5,cups,semisweet chocolate chips,,spice or herb
-25829,1,cups,coconut,,fruit
-25829,1,cups,pecans,,nut
-30115,1,,pre pizza crust,,grain
-30115,1.5,cups,mozzarella cheese,,cheese
-30115,1,jars,pizza sauce,,sauce
-30115,1,packages,Johnsonville® Three Cheese Italian Style Chicken Sausage,,meat
-30115,1,packages,pepperoni,,meat
-32582,0.5,cups,milk,,fat and vitamins
-32582,2,tablespoons,coffee flavored liqueur,,drink
-32582,2.5,tablespoons,amaretto liqueur,,alcoholic
-32582,0.25,cups,chocolate flavored syrup,,flavoring
-32582,1,cups,vanilla ice cream,,cooking liquid
-32582,1,cups,ice,,cooking liquid
-36397,1.5,cups,strawberries,,fruit
-36397,0.5,cups,white sugar,,sugar
-36397,0.25,cups,white sugar,,sugar
-36397,0.25,cups,butter,,cooking fat
-36397,2,,eggs,,baking ingredient
-36397,1,teaspoons,vanilla extract,,flavoring
-36397,1.75,cups,all purpose flour,,baking ingredient
-36397,0.5,teaspoons,baking soda,,baking ingredient
-36397,0.25,teaspoons,salt,,spice or herb
-36397,0.25,teaspoons,nutmeg,,spice or herb
-37403,0.25,cups,olive oil,,cooking liquid
-37403,2,tablespoons,tarragon vinegar,,cooking liquid
-37403,1,,clove garlic,,spice or herb
-37403,0.25,teaspoons,thyme,,spice or herb
-37403,0.25,teaspoons,salt,,spice or herb
-37403,0.25,teaspoons,pepper,,vegetable
-37403,2,,yellow squash,,vegetable
-37403,1,,zucchini,,vegetable
-37403,1,,green bell pepper,,vegetable
-37403,1,,yellow bell pepper,,vegetable
-37403,1,,red bell pepper,,vegetable
-37403,0.75,pounds,size mushrooms,,vegetable
-38931,2,cups,all purpose flour,,baking ingredient
-38931,2,teaspoons,baking powder,,baking ingredient
-38931,1,teaspoons,cinnamon,,spice or herb
-38931,0.5,teaspoons,nutmeg,,spice or herb
-38931,1,cups,granulated sugar,,sugar
-38931,0.5,cups,butter or margarine,,cooking fat
-38931,2,,eggs,,baking ingredient
-38931,1,teaspoons,vanilla extract,,flavoring
-38931,0.666666667,cups,NESTLE® CARNATION® Evaporated Lowfat Milk,,fat and vitamins
-38931,3,cups,baking apples,,baking ingredient
-38931,0.75,cups,pecans,,nut
-38931,0,,powdered sugar,,recipe extra
-42486,4,halves,boneless chicken breast,,poultry
-42486,0.5,teaspoons,Cajun seasoning,,spice or herb
-42486,1,tablespoons,vegetable oil,,cooking liquid
-42486,4,slices,Swiss cheese,,cheese
-42486,0.25,cups,creamy Parmesan dressing,,condiment
-42486,4,,sandwich rolls,,wrapped meal
-42486,8,slices,tomato,,vegetable
-42486,8,strips,bacon,,meat
-150861,0.5,ounces,Bulleit Bourbon™,,
-150861,0.5,ounces,apple schnapps,,fruit
-150861,0.5,ounces,sweet vermouth,,alcoholic
-150861,1,pinches,nutmeg,,spice or herb
-151127,2,tablespoons,unsalted butter,,cooking fat
-151127,3,cups,pecan,,nut
-151127,0.25,cups,SPLENDA® Sugar Blend,,sugar
-151127,1,teaspoons,paprika,,spice or herb
-151127,2,teaspoons,pure chili powder,,soup
-151127,1,tablespoons,cumin,,spice or herb
-151127,0.25,cups,apple cider vinegar,,fruit
-151127,0,,Salt,,spice or herb
-151200,1,packages,Jimmy Dean Regular Roll Sausage,,grain
-151200,1,cups,onion,,vegetable
-151200,1,jars,yellow banana peppers,,vegetable
-151200,3,,pickled jalapeno peppers,,vegetable
-151200,16,ounces,cream cheese,,fat and vitamins
-151200,1.5,cups,tomatoes,,vegetable
-151200,0.5,cups,sweet red pepper,,vegetable
-151200,0.333333333,cups,cilantro leaves,,vegetable
-151200,0.5,cups,green onion tops,,vegetable
-151200,0,,chips or crackers,,grain
-155182,0.5,cups,molasses,,sugar
-155182,0.25,cups,honey,,sugar
-155182,0.25,cups,shortening,,cooking fat
-155182,0.25,cups,margarine,,baking ingredient
-155182,2,,eggs,,baking ingredient
-155182,4,cups,all purpose flour,,baking ingredient
-155182,0.75,cups,white sugar,,sugar
-155182,0.5,cups,brown sugar,,sugar
-155182,1.5,teaspoons,cardamom,,spice or herb
-155182,1,teaspoons,nutmeg,,spice or herb
-155182,1,teaspoons,cloves,,spice or herb
-155182,1,teaspoons,ginger,,spice or herb
-155182,2,teaspoons,anise extract,,flavoring
-155182,2,teaspoons,cinnamon,,spice or herb
-155182,1.5,teaspoons,baking soda,,baking ingredient
-155182,1,teaspoons,black pepper,,vegetable
-155182,0.5,teaspoons,salt,,spice or herb
-155182,1,cups,confectioners' sugar,,sugar
-156791,1,cans,black eyed peas,,vegetable
-156791,1,cups,pickled jalapeno peppers,,vegetable
-156791,1,jars,pimento peppers,,vegetable
-156791,1,jars,mushrooms,,vegetable
-156791,0.5,cups,celery,,vegetable
-156791,0.5,cups,onion,,vegetable
-156791,0.5,cups,olive oil,,vegetable
-156791,0,,salt pepper to taste,,vegetable
-159391,1,cans,escargots,,
-159391,6,tablespoons,butter,,cooking fat
-159391,1,,clove garlic,,spice or herb
-159391,20,,mushrooms,,vegetable
-159391,0.333333333,cups,white wine,,alcoholic
-159391,0.333333333,cups,cream,,fat and vitamins
-159391,1,tablespoons,all purpose flour,,baking ingredient
-159391,1,pinches,black pepper to taste,,vegetable
-159391,0.25,teaspoons,tarragon,,spice or herb
-159391,0.25,cups,Parmesan cheese,,cheese
-160139,1,packages,Simply Potatoes® Diced Potatoes,,vegetable
-160139,2,cups,chicken,,poultry
-160139,2,cups,mixed vegetables,,vegetable
-160139,1,jars,chicken gravy,,cooking fat
-160139,1,teaspoons,salt,,spice or herb
-160139,0.5,teaspoons,black pepper,,vegetable
-160139,1,packages,ready to fill pie crusts,,sugar
-160139,1,packages,pie crusts,,sugar
-161968,4,tablespoons,butter,,cooking fat
-161968,8,ounces,crimini mushrooms,,vegetable
-161968,0.5,cups,onion,,vegetable
-161968,0.75,cups,long grain brown rice,,grain
-161968,0.5,cups,wild rice,,grain
-161968,3,cups,chicken broth,,soup
-161968,1,cups,Holland House® White Cooking Wine,,alcoholic
-161968,0.75,cups,long grain white rice,,grain
-161968,0.5,cups,carrots,,vegetable
-161968,0.25,teaspoons,thyme,,spice or herb
-163048,1,pounds,lamb,,meat
-163048,1,,onion,,vegetable
-163048,1,,eggs,,baking ingredient
-163048,3,tablespoons,dill,,spice or herb
-163048,0.25,cups,cilantro,,vegetable
-163048,2,teaspoons,salt,,spice or herb
-163048,1,tablespoons,cumin,,spice or herb
-163048,0.5,teaspoons,turmeric,,spice or herb
-163048,0.25,teaspoons,cinnamon,,spice or herb
-163048,1,teaspoons,black pepper,,vegetable
-163048,0.25,cups,olive oil,,vegetable
-163048,1,packages,baby carrots,,vegetable
-163048,2,cans,cannellini beans,,main protein
-163048,1,cups,water,,cooking liquid
-163048,1,tablespoons,sour cream,,fat and vitamins
-164484,4,ounces,rum,,alcoholic
-164484,3,ounces,lime juice,,fruit
-164484,1,ounces,grenadine syrup,,sugar
-164484,1,ounces,simple syrup,,sugar
-164572,2,cups,apples,,fruit
-164572,5,tablespoons,white sugar,,sugar
-164572,2,tablespoons,cinnamon,,spice or herb
-164572,1,cups,vegetable oil,,vegetable
-164572,2,cups,white sugar,,sugar
-164572,4,,eggs,,baking ingredient
-164572,2.5,teaspoons,vanilla extract,,flavoring
-164572,0.25,cups,orange juice,,fruit
-164572,3,cups,all purpose flour,,baking ingredient
-164572,1,tablespoons,baking powder,,baking ingredient
-164572,1,teaspoons,salt,,spice or herb
-164572,0.25,cups,butter,,cooking fat
-164572,0.333333333,cups,orange juice,,fruit
-164572,0.666666667,cups,white sugar,,sugar
-165843,2,tablespoons,olive oil,,vegetable
-165843,1,pounds,beef chuck,,meat
-165843,0,,salt pepper to taste,,vegetable
-165843,2,stalks,celery,,vegetable
-165843,2,,carrots,,vegetable
-165843,1,,onion,,vegetable
-165843,6,,cloves garlic,,spice or herb
-165843,1.5,teaspoons,cilantro,,vegetable
-165843,1,teaspoons,oregano,,spice or herb
-165843,2,,cartons chicken broth,,soup
-165843,1,cans,tomatoes,,vegetable
-165843,2,cups,lentils,,main protein
-165843,0.25,cups,parsley,,vegetable
-165843,0.5,cups,Parmesan cheese or to taste,,cheese
-165947,2,packages,favorite flavor Jell-O®,,
-165947,1.25,cups,water,,cooking liquid
-165947,3,cups,watermelon cubes or balls,,fruit
-165947,3,cups,strawberries,,fruit
-165947,2,cups,cantaloupe cubes or balls,,fruit
-165947,2,cups,blueberries,,fruit
-167042,2,legs,chicken quarters,,poultry
-167042,1,cups,brown rice,,vegetable
-167042,1,pounds,beef,,meat
-167042,0.666666667,cups,oats,,grain
-167042,1,packages,spinach,,vegetable
-167042,2,cups,broccoli,,vegetable
-167042,1,cans,kidney beans,,main protein
-167042,2,,carrots,,vegetable
-167042,1,cups,cottage cheese,,cheese
-167042,0.5,cups,olive oil,,vegetable
-167538,2,teaspoons,oregano,,spice or herb
-167538,1,,red onion,,vegetable
-167538,3.5,cups,reduced sodium chicken broth,,soup
-167538,0.125,teaspoons,salt,,spice or herb
-167538,1,,clove garlic,,spice or herb
-167538,1,teaspoons,red chili or chili powder,,soup
-167538,1,cans,yellow or white hominy,,grain
-167538,1,cans,black beans,,main protein
-167538,12,ounces,boneless chicken breasts,,poultry
-167538,1,cups,green cabbage,,vegetable
-167538,1,,lime,,fruit
-167767,0.5,cups,low fat cottage cheese,,cheese
-167767,0.25,teaspoons,spice blend,,spice or herb
-167767,0.5,,cucumber,,vegetable
-169097,0,,cooking spray,,recipe extra
-169097,0.25,cups,brown sugar,,sugar
-169097,1,tablespoons,cumin,,spice or herb
-169097,0.5,teaspoons,cardamom,,spice or herb
-169097,0.5,teaspoons,coriander,,vegetable
-169097,1,teaspoons,ginger,,spice or herb
-169097,1,teaspoons,salt,,spice or herb
-169097,0.25,teaspoons,cayenne pepper,,vegetable
-169097,8,halves,bone in chicken breast,,poultry
-169097,0.5,cups,balsamic vinegar,,cooking liquid
-169097,0.25,cups,peach preserves,,fruit
-169097,0.5,cups,reduced sodium chicken broth,,soup
-169097,0.5,cups,orange juice,,fruit
-169097,3,cups,peaches,,fruit
-171312,1,,pineapple ends,,fruit
-171312,2,tablespoons,Safeway Light Brown Sugar,,sugar
-171312,1,tablespoons,lime juice,,fruit
-171312,1,pints,Safeway SELECT™ Vanilla Ice Cream,,dairy
-171312,0.25,cups,Safeway Sweetened Flaked Coconut,,fruit
-171312,0.25,cups,lightly salted peanuts or cashews,,nut
-171917,0.5,cups,jasmine rice,,grain
-171917,0.25,cups,sugar,,sugar
-171917,2.5,cups,milk,,fat and vitamins
-171917,0.5,teaspoons,cinnamon,,spice or herb
-171917,0.5,cups,sweetened coconut,,fruit
-171917,1,teaspoons,vanilla extract,,flavoring
-172503,1,,pouch Betty Crocker® peanut butter cookie mix,,nut
-172503,3,tablespoons,vegetable oil,,vegetable
-172503,1,tablespoons,water,,cooking liquid
-172503,1,,eggs,,baking ingredient
-172503,0.333333333,cups,corn syrup,,sugar
-172503,3,tablespoons,butter or margarine,,baking ingredient
-172503,3,tablespoons,peanut butter,,nut
-172503,4.5,teaspoons,water,,cooking liquid
-172503,1.25,teaspoons,vanilla,,spice or herb
-172503,0,,Dash salt,,spice or herb
-172503,3.5,cups,powdered sugar,,sugar
-172503,1,packages,caramels,,sugar
-172503,2,tablespoons,water,,cooking liquid
-172503,1.5,cups,unsalted peanuts,,nut
-172503,2,cups,milk chocolate chips,,fat and vitamins
-172891,4,tablespoons,California butter,,cooking fat
-172891,0.25,cups,brown sugar,,sugar
-172891,0.25,cups,almond butter,,nut
-172891,1,teaspoons,salt,,spice or herb
-172891,8,cups,popcorn,,grain
-172891,0.25,cups,almonds,,nut
-174386,10,cups,all purpose flour,,baking ingredient
-174386,0.5,cups,baking powder,,baking ingredient
-174386,2,tablespoons,white sugar,,sugar
-174386,2,teaspoons,salt,,spice or herb
-174386,1.25,cups,vegetable oil,,vegetable
-177535,2,tablespoons,olive oil,,vegetable
-177535,2,,cloves garlic,,spice or herb
-177535,1,pounds,bulk pork sausage,,meat
-177535,3,cups,Prego® Roasted Garlic & Herb Italian Sauce,,sauce
-177535,1,cups,peas,,vegetable
-177535,0.75,cups,cream,,fat and vitamins
-177535,16,ounces,cheese tortellini,,cheese
-177535,1,packages,Pepperidge Farm® Five Cheese Garlic Bread,,grain
-177535,0.5,cups,Parmesan cheese,,cheese
-178498,1,pounds,mushrooms,,vegetable
-178498,1,,standing beef rib roast,,meat
-178498,1,envelopes,onion soup mix,,soup
-178498,1,bottles,beer,,alcoholic
-178498,0,,black pepper,,vegetable
-179706,2,cans,mushroom stems undrained,,vegetable
-179706,1,cans,condensed beef consomme,,meat
-179706,0.5,cups,water,,cooking liquid
-179706,1,cups,white rice,,grain
-179706,1,,white onion,,vegetable
-179706,1,,stick butter,,fastener
-179706,2,teaspoons,garlic powder,,spice or herb
-179706,1,tablespoons,Parmesan cheese,,cheese
-179711,1,packages,chocolate chip cookie dough,,vegetable
-179711,0.75,cups,quick cooking oats,,grain
-179711,1,packages,cream cheese,,fat and vitamins
-179711,0.333333333,cups,sugar,,sugar
-179711,1,,eggs,,baking ingredient
-179711,1,teaspoons,vanilla,,spice or herb
-179711,1,cans,LUCKY LEAF® Regular or Premium Cherry Fruit Filling,,fruit
-180498,1,packages,cream cheese,,fat and vitamins
-180498,1,jars,marshmallow creme,,sugar
-181187,0.25,cups,KRAFT Zesty Italian Dressing,,condiment
-181187,6,fillets,cod,,fish
-181187,1,cans,tomatoes green chilis,,vegetable
-181187,0.5,cups,KRAFT Mexican Style Shredded Cheese,,cheese
-181198,10,thighs,chicken,,poultry
-181198,1,jars,TACO BELL® HOME ORIGINALS® Thick 'N Chunky Salsa,,wrapped meal
-181198,1,,onion,,vegetable
-181198,2,tablespoons,curry powder,,pasta dish
-181198,1,cups,BREAKSTONE'S FREE or KNUDSEN FREE Fat Free Sour Cream,,fat and vitamins
-181207,0.333333333,cups,KOOL AID Grape Flavor Sugar Sweetened Soft Drink Mix,,sugar
-181207,2,tablespoons,hot water,,cooking liquid
-181207,4,ounces,PHILADELPHIA Cream Cheese,,fat and vitamins
-181207,1,cups,COOL WHIP Whipped Topping,,recipe extra
-181207,4,,OREO Cookies,,
-181207,1,packages,pound cake,,sugar
-181207,10,,JET PUFFED Miniature Marshmallows,,sugar
-181207,1,,JET PUFFED Marshmallow,,sugar
-181207,0,,Black decorating gel,,
-181207,3,,worm shaped chewy fruit snacks,,fruit
-182059,1,packages,stuffing mix,,grain
-182059,1,teaspoons,sage,,spice or herb
-182059,1,cups,celery,,vegetable
-182059,0.5,cups,COLLEGE INN® Chicken Broth,,soup
-182059,1,cans,condensed cream of celery soup,,soup
-182059,1,cans,condensed cream of turkey soup,,soup
-182059,3,cups,chicken or turkey,,poultry
-182059,0.25,cups,butter,,cooking fat
-185109,6,,Morningstar Farms® Maple Flavored Veggie Sausage Patties,,sugar
-185109,4,cups,Southern hash brown potatoes,,vegetable
-185109,2,tablespoons,vegetable oil,,vegetable
-185109,0.5,cups,green onions,,vegetable
-185109,0.5,cups,red bell pepper,,vegetable
-185109,0.25,teaspoons,garlic salt,,spice or herb
-185109,0.333333333,cups,cranberries,,fruit
-185109,0.25,cups,vegetable broth,,soup
-185109,4,slices,Cheddar cheese or Swiss cheese diagonally,,cheese
-187094,2,,eggs,,baking ingredient
-187094,0.25,cups,chorizo,,meat
-187094,0.25,cups,KRAFT Mayo Real Mayonnaise,,condiment
-187094,0.25,teaspoons,salt,,spice or herb
-187094,0.25,teaspoons,pepper,,vegetable
-187094,30,,RITZ Crackers,,grain
-189750,1.5,cups,Safeway SELECT™ Mayonnaise,,condiment
-189750,0.5,cups,Lucerne® Sour Cream,,fat and vitamins
-189750,0.333333333,cups,lemon juice,,fruit
-189750,0.25,cups,sugar,,sugar
-189750,1,,red onion,,vegetable
-189750,0.333333333,cups,dill,,spice or herb
-189750,0.25,teaspoons,salt,,spice or herb
-189750,2,pounds,shrimp,,seafood
-189750,2,pounds,extra shrimp,,seafood
-193096,1,heads,romaine lettuce,,vegetable
-193096,1,,cucumber,,vegetable
-193096,1,cups,tomatoes,,vegetable
-193096,0.5,cups,red bell pepper,,vegetable
-193096,0.5,cups,green bell pepper,,vegetable
-193096,0.5,cups,Newman's Own® Olive Oil & Vinegar Balsamic Vinaigrette or Lighten Up® Balsamic Vinaigrette Salad Dressing,,vegetable
-193733,4,cups,hot IDAHOAN® potatoes,,vegetable
-193733,1,cans,Campbell's® Cream of Chicken Soup,,soup
-193733,1.5,cups,Cheddar cheese,,cheese
-193733,0.125,teaspoons,garlic powder,,spice or herb
-193733,1.333333333,cups,FRENCH'S® Original or Cheddar French Fried Onions,,vegetable
-193831,1,pounds,beef,,meat
-193831,1,,onion,,vegetable
-193831,2,cups,TACO BELL® HOME ORIGINALS® Thick 'N Chunky Salsa,,wrapped meal
-193831,1,cans,black beans,,main protein
-193831,0.25,cups,KRAFT Zesty Italian Dressing,,condiment
-193831,2,tablespoons,TACO BELL® HOME ORIGINALS® Taco Seasoning Mix,,mixture
-193831,6,,flour tortillas,,baking ingredient
-193831,1,cups,BREAKSTONE'S Reduced Fat Sour Cream,,fat and vitamins
-193831,1,packages,KRAFT Mexican Style Finely Shredded Four Cheese,,cheese
-218480,1,,zucchini,,vegetable
-218480,1,,red bell pepper,,vegetable
-218480,1,cans,pineapple,,fruit
-218480,2,tablespoons,olive oil,,cooking liquid
-218480,0.5,cups,ketchup,,condiment
-218480,1,teaspoons,salt,,spice or herb
-218480,2,tablespoons,steak sauce,,meat
-218480,2,tablespoons,white sugar,,sugar
-218480,2,tablespoons,apple cider vinegar,,drink
-218480,2,tablespoons,Worcestershire sauce,,sauce
-218480,0.25,cups,water,,cooking liquid
-218480,1.5,pounds,beef sirloin,,meat
-218480,12,,bamboo skewers,,vegetable
-220086,2,pounds,Johnsonville® All Natural Ground Italian Sausage or links decased,,meat
-220086,1,pounds,beef,,meat
-220086,16,,slider buns or mini sandwich rolls,,wrapped meal
-222434,1,cans,coconut milk,,fat and vitamins
-222434,0.75,cups,half-and-half,,dairy
-222434,0.5,cans,sweetened condensed milk,,dairy
-222434,0.25,teaspoons,salt,,spice or herb
-222434,0.25,teaspoons,vanilla extract,,flavoring
-222434,0.5,cups,coconut,,fruit
-222434,0.5,cups,pineapple,,fruit
-237823,1,cups,strawberries,,fruit
-237823,1,cups,plain Greek yogurt,,dairy
-237823,1,cups,mango,,fruit
-237823,0.5,cups,1% milk,,dairy
-237823,1,,scoop vanilla whey protein powder,,main protein
-237823,5,leaves,mint or more to taste,,flavoring
-255391,1,heads,cauliflower,,vegetable
-255391,2,tablespoons,olive oil,,cooking liquid
-255391,0,,salt black pepper to taste,,spice or herb
-255391,0.25,cups,falafel mix,,main protein
-255726,1,,butternut squash,,nut
-255726,0.5,,leek,,vegetable
-255726,2,tablespoons,olive oil,,cooking liquid
-255726,0,,salt black pepper to taste,,spice or herb
-255726,0.5,packages,pork sage sausage,,meat
-259055,1,cups,all purpose flour,,baking ingredient
-259055,0.5,cups,quick cooking oats,,grain
-259055,3,tablespoons,brown sugar,,vegetable
-259055,1,teaspoons,baking powder,,baking ingredient
-259055,0.5,teaspoons,baking soda,,baking ingredient
-259055,0.5,teaspoons,sea salt,,spice or herb
-259055,0.125,teaspoons,cinnamon or to taste,,spice or herb
-259055,0.5,cups,peanut butter,,nut
-259055,0.25,cups,butter,,cooking fat
-259055,1.333333333,cups,buttermilk,,fat and vitamins
-259055,1,,eggs,,baking ingredient
-259055,0.333333333,cups,chocolate chips,,spice or herb
-259055,0.25,cups,peanut butter,,nut
-259055,0.25,cups,butter,,cooking fat
-259055,0.25,cups,confectioners' sugar or more to taste,,sugar
-259055,0.125,teaspoons,sea salt,,spice or herb
-259055,0,,cooking spray,,recipe extra
-259055,0.333333333,cups,candy coated milk chocolate,,fat and vitamins
-259757,0.25,cups,vegetable oil,,cooking liquid
-259757,0.25,cups,red wine vinegar,,cooking liquid
-259757,1,,jalapeno pepper,,spicy
-259757,2,tablespoons,oregano,,spice or herb
-259757,4,,cloves garlic,,spice or herb
-259757,2,teaspoons,salt,,spice or herb
-259757,1,teaspoons,cumin,,spice or herb
-259757,2,,boneless chicken breasts,,poultry
-259757,1,,green bell pepper,,vegetable
-259757,1,,red bell pepper,,vegetable
-259757,1,,yellow pepper,,vegetable
-259757,1,,red onion,,vegetable
-259757,2,tablespoons,vegetable oil,,cooking liquid
-259757,16,,flour tortillas,,baking ingredient
-260406,2,,eggs,,baking ingredient
-260406,2,tablespoons,maple syrup,,sugar
-260406,2,teaspoons,erythritol,,
-260406,3,tablespoons,coconut milk,,fat and vitamins
-260406,1.5,teaspoons,vanilla extract,,spice or herb
-260406,1,pinches,Himalayan salt,,spice or herb
-260406,1,cups,unsweetened coconut,,fruit
-261095,3,cups,pretzel twists,,grain
-261095,0.25,cups,brown sugar,,vegetable
-261095,0.5,cups,butter,,cooking fat
-261095,0.75,cups,butter,,cooking fat
-261095,0.75,cups,semisweet chocolate chips,,spice or herb
-261095,0.75,cups,brown sugar,,vegetable
-261095,0.666666667,cups,white sugar,,sugar
-261095,3,,eggs,,baking ingredient
-261095,3,tablespoons,whipping cream,,fat and vitamins
-261095,4.5,teaspoons,all purpose flour,,baking ingredient
-261095,1,teaspoons,vanilla extract,,spice or herb
-261095,0.25,cups,caramel topping,,recipe extra
-262289,0,,extra virgin olive oil cooking spray,,recipe extra
-262289,1,cans,coconut milk,,fat and vitamins
-262289,1,tablespoons,apple cider vinegar,,drink
-262289,2,,sweet onions,,vegetable
-262289,1,cups,cornmeal,,grain
-262289,0.5,cups,whole wheat flour,,baking ingredient
-262289,1,tablespoons,sesame seeds,,spice or herb
-262289,1,teaspoons,salt,,spice or herb
-262289,1,teaspoons,garlic powder,,spice or herb
-262289,1,teaspoons,paprika,,spice or herb
-262289,0,,black pepper to taste,,vegetable
-262608,1.5,cups,white sugar,,sugar
-262608,1.25,cups,water,,cooking liquid
-262608,1,ounces,compressed yeast,,baking ingredient
-262608,2,cups,bread flour,,baking ingredient
-262608,2,cups,unbleached all purpose flour,,baking ingredient
-262608,1,teaspoons,salt,,spice or herb
-262608,6,tablespoons,sesame seeds,,spice or herb
-262608,2,teaspoons,cinnamon,,spice or herb
-262608,1,,orange,,fruit
-262608,1.25,cups,tahini,,sauce
-263774,0,,Nonstick cooking spray,,recipe extra
-263774,1,packages,Hillshire Farm® Smoked Sausage lengthwise,,meat
-263774,1.5,cups,hash brown potatoes,,meat
-263774,2,ounces,Gouda cheese,,cheese
-263774,0.25,cups,red sweet pepper,,vegetable
-263774,2,tablespoons,green onion,,vegetable
-263774,1,tablespoons,oregano,,spice or herb
-263774,0.25,teaspoons,salt,,spice or herb
-263774,0.25,teaspoons,black pepper,,vegetable
-263774,8,,eggs,,baking ingredient
-263774,0.25,cups,milk,,fat and vitamins
-263774,0,leaves,Fresh oregano,,spice or herb
-265822,3,tablespoons,brown sugar,,vegetable
-265822,1,tablespoons,garlic powder,,spice or herb
-265822,1,tablespoons,black pepper,,vegetable
-265822,2,teaspoons,onion powder,,spice or herb
-265822,1,cups,Merlot wine,,alcoholic
-265822,0.5,cups,water,,cooking liquid
-265822,0.25,cups,Worcestershire sauce,,sauce
-265822,1,tablespoons,soy sauce,,main protein
-265822,3,,cloves garlic or more to taste,,spice or herb
-265822,0.5,teaspoons,liquid smoke flavoring,,flavoring
-268000,2,pounds,chicken breasts,,poultry
-268000,2,,eggs,,baking ingredient
-268000,0.5,cups,almond flour,,baking ingredient
-268000,0.5,,onion,,vegetable
-268000,2,,ribs celery,,meat
-268000,0.25,cups,chia seeds,,main protein
-268000,2,tablespoons,sweet pickle relish or more to taste,,vegetable
-268000,2,tablespoons,tamari,,condiment
-268000,2,,jalapeno peppers,,vegetable
-268000,1,teaspoons,Montreal chicken seasoning or to taste,,poultry
-268000,1,teaspoons,garlic onion seasoning or to taste,,vegetable
-268000,0,,sea salt to taste,,spice or herb
-268000,2,tablespoons,sesame oil,,cooking liquid
-268001,1.5,cups,mixed salad greens,,vegetable
-268001,0.5,,tomatoes,,vegetable
-268001,0.5,,avocado,,vegetable
-268001,1,teaspoons,cilantro or to taste,,vegetable
-268001,1,tablespoons,dressing or to taste,,condiment
-268001,1,teaspoons,olive oil,,vegetable
-268001,4,ounces,halloumi cheese,,cheese
-268005,1,pounds,chicken,,poultry
-268005,0.5,cups,cilantro,,vegetable
-268005,0.25,cups,bread,,grain
-268005,0.25,cups,onion,,vegetable
-268005,2,,cloves garlic,,spice or herb
-268005,1,teaspoons,salt,,spice or herb
-268005,0.5,teaspoons,black pepper,,vegetable
-268005,2,tablespoons,vegetable oil,,vegetable
-268005,0.25,cups,peanut butter,,cooking fat
-268005,4,tablespoons,sesame oil,,cooking liquid
-268005,3,tablespoons,white sugar,,sugar
-268005,2,tablespoons,soy sauce,,main protein
-268005,2,tablespoons,peanuts or to taste,,nut
-268015,3,pounds,sweet potatoes,,vegetable
-268015,2,,cloves garlic,,spice or herb
-268015,2,ounces,honey flavored goat cheese,,sugar
-268015,1,tablespoons,butter,,cooking fat
-268015,1,teaspoons,salt,,spice or herb
-268015,0.25,teaspoons,black pepper,,vegetable
-268021,1,packages,cauliflower,,vegetable
-268021,0.333333333,cups,water,,cooking liquid
-268021,0.5,cups,chipotle cooking sauce,,sauce
-268021,2,tablespoons,recaito,,
-268021,1,tablespoons,tomato paste,,vegetable
-268021,1,tablespoons,garlic powder,,spice or herb
-268028,2,tablespoons,ghee,,fat and vitamins
-268028,1,,red onion,,vegetable
-268028,1,tablespoons,garlic,,spice or herb
-268028,0.125,teaspoons,red pepper flakes,,vegetable
-268028,0.5,teaspoons,sea salt,,spice or herb
-268028,3,cans,crabmeat,,seafood
-268028,0.333333333,cups,homemade mayonnaise,,condiment
-268028,0.25,cups,full fat coconut milk,,fruit
-268028,0.25,cups,almond flour,,baking ingredient
-268028,0.25,cups,nutritional yeast,,baking ingredient
-268028,0.5,packages,spinach,,vegetable
-268028,1,teaspoons,Old Bay seasoning,,spice or herb
-268028,0,,lemon,,fruit
-268028,2,,green onions,,vegetable
-268030,1,,spaghetti squash,,vegetable
-268030,2,tablespoons,butter,,cooking fat
-268030,1,tablespoons,olive oil,,vegetable
-268030,2,tablespoons,honey,,sugar
-268030,2,teaspoons,ginger root,,spice or herb
-268030,2,teaspoons,garlic,,spice or herb
-268030,0.5,teaspoons,red chili flakes,,soup
-268030,0,,kosher salt to taste,,spice or herb
-268097,1,cups,chicken broth,,soup
-268097,1,,eggs,,baking ingredient
-268097,0.5,pounds,sweet Italian sausage,,meat
-268097,2,tablespoons,unsalted butter,,cooking fat
-268097,1,,onion,,vegetable
-268097,2,,ribs celery,,meat
-268097,1,cans,water chestnuts,,nut
-268097,0.25,cups,flat leaf parsley,,vegetable
-268097,1,teaspoons,salt,,spice or herb
-268097,0.5,teaspoons,thyme,,spice or herb
-268097,0.5,teaspoons,sage,,spice or herb
-268097,0.5,teaspoons,black pepper,,vegetable
-268097,5,cups,plain stuffing bread cubes,,grain
-268108,2,,organic oranges,,fruit
-268108,1,cups,white sugar,,sugar
-268113,1,cups,unsalted butter,,cooking fat
-268113,2,tablespoons,unsalted butter,,cooking fat
-268113,1,cups,white sugar,,sugar
-268113,4,,eggs,,baking ingredient
-268113,1,teaspoons,vanilla extract,,flavoring
-268113,2,cups,all purpose flour,,baking ingredient
-268113,2,teaspoons,baking powder,,baking ingredient
-268113,2,,lemons,,fruit
-268113,0.25,cups,cream cheese,,fat and vitamins
-268113,2,tablespoons,unsalted butter,,cooking fat
-268113,1.25,cups,confectioners' sugar,,sugar
-268113,2,teaspoons,lemon juice,,drink
-268113,0,,lollipop sticks,,fastener
-268113,0,,styrofoam block,,
-268113,1,packages,confectioners' coating,,sugar
-268113,1,packages,multicolored candy sprinkles,,sugar
-268116,1,tablespoons,butter,,cooking fat
-268116,1,,onion,,vegetable
-268116,1,,green bell pepper,,vegetable
-268116,5,,cloves clove garlic,,spice or herb
-268116,2.5,cups,chicken stock,,poultry
-268116,3,tablespoons,tomato paste,,vegetable
-268116,1,pounds,okra,,vegetable
-268116,0,,lemon,,fruit
-268116,0,,salt pepper to taste,,vegetable
-268131,4,,pork chops,,meat
-268131,0,,salt black pepper to taste,,vegetable
-268131,1,tablespoons,oil,,cooking liquid
-268131,0.5,cups,chicken broth,,soup
-268131,3,,sweet potatoes,,vegetable
-268131,3,,apples,,fruit
-268135,1,tablespoons,butter or more,,cooking fat
-268135,1,,onion,,vegetable
-268135,1,tablespoons,rice vinegar or more to taste,,cooking liquid
-268135,12,,eggs,,baking ingredient
-268135,2,tablespoons,milk or to taste,,fat and vitamins
-268135,2,tablespoons,pesto,,condiment
-268135,1,pinches,salt black pepper to taste,,vegetable
-268135,2,cups,salmon,,fish
-268135,1.5,cups,Parmesan cheese or to taste,,cheese
-268142,0,,cooking spray,,recipe extra
-268142,3,cups,corn kernels,,grain
-268142,4,ounces,margarine,,baking ingredient
-268142,2,,eggs,,baking ingredient
-268142,9,ounces,pepper Jack cheese,,vegetable
-268142,1,cups,sour cream,,fat and vitamins
-268142,0.5,cups,yellow cornmeal,,grain
-268142,1,cans,green chilis,,vegetable
-268142,0.25,cups,jalapeno peppers,,vegetable
-268142,0.5,teaspoons,salt,,spice or herb
-268142,0.5,cups,Parmesan cheese,,cheese
-268148,1,packages,crescent roll dough unrolled,,grain
-268148,1,packages,reduced fat cream cheese,,fat and vitamins
-268148,0.25,cups,sour cream,,fat and vitamins
-268148,0.25,cups,mayonnaise dressing,,condiment
-268148,3,tablespoons,ranch dressing,,condiment
-268148,0.25,cups,bell pepper,,vegetable
-268148,0.25,cups,broccoli florets,,vegetable
-268148,0.333333333,cups,Cheddar cheese,,cheese
-268185,0.5,pounds,pork,,meat
-268185,0.5,pounds,veal,,meat
-268185,1,,eggs,,baking ingredient
-268185,0.25,cups,cilantro,,vegetable
-268185,0.25,cups,gluten free bread,,main protein
-268185,2,,spring onions,,vegetable
-268185,0.5,teaspoons,black pepper,,vegetable
-268185,0.5,teaspoons,Sriracha salt,,spice or herb
-268185,0.5,cups,ketchup,,condiment
-268185,2,teaspoons,gluten free chipotle chili sauce,,main protein
-268185,1,teaspoons,olive oil,,vegetable
-268185,1,teaspoons,blackstrap molasses,,sugar
-268187,4,,chicken breasts,,poultry
-268187,1,cups,mushrooms,,vegetable
-268187,1,cans,water chestnuts,,nut
-268187,1,,green bell pepper,,vegetable
-268187,1,,red bell pepper,,vegetable
-268187,1,,red onion,,vegetable
-268187,0.5,teaspoons,ginger,,spice or herb
-268187,0.25,cups,salted peanuts or to taste,,nut
-268187,0.25,cups,teriyaki marinade,,condiment
-268187,0.25,cups,teriyaki sauce,,sauce
-268187,2,tablespoons,olive oil,,vegetable
-268187,2,tablespoons,honey,,sugar
-268187,10,leaves,Bibb or head lettuce leaves,,vegetable
-268187,2,cups,brown rice,,vegetable
-268187,0.25,cups,spicy peanut sauce (such,,spicy
-268187,0.25,cups,ginger dressing or more to taste,,condiment
-268196,1,,butternut squash,,vegetable
-268196,1,tablespoons,olive oil,,vegetable
-268196,4,,cloves garlic,,spice or herb
-268196,0,,salt black pepper to taste,,vegetable
-268196,2,cans,black beans,,main protein
-268196,5,,cloves garlic,,spice or herb
-268196,2,teaspoons,cumin,,spice or herb
-268196,1,pounds,spinach,,vegetable
-268196,10,,corn tortillas,,grain
-268196,2,tablespoons,chipotle lime crema or to taste,,fruit
-268200,2,pounds,quinces,,
-268200,2,cups,apple cider,,drink
-268200,0.5,cups,sugar or more to taste,,sugar
-268200,0.5,,lemon,,fruit
-268200,0.5,teaspoons,orange flower water,,fruit
-268200,0.5,teaspoons,orange,,fruit
-268200,0.5,cups,cream,,fat and vitamins
-268200,2,teaspoons,vanilla sugar,,sugar
-268200,3,tablespoons,creme fraiche,,fat and vitamins
-268201,2,cups,water,,cooking liquid
-268201,1,cups,white sugar,,sugar
-268201,0.5,,vanilla bean,,main protein
-268201,1,,cinnamon stick,,fastener
-268201,0.5,,lemon,,fruit
-268201,2,pounds,quinces,,
-268223,0.25,cups,extra virgin olive oil,,vegetable
-268223,0.25,cups,rice wine vinegar,,cooking liquid
-268223,0.125,cups,ponzu sauce,,sauce
-268223,0.125,cups,honey,,sugar
-268223,2,,cloves garlic,,spice or herb
-268227,0.5,pounds,pork belly,,meat
-268227,0.5,pounds,pork loin,,meat
-268227,2,tablespoons,groundnut oil,,cooking liquid
-268227,4,,cloves garlic,,spice or herb
-268227,1,pieces,ginger,,spice or herb
-268227,1,,red chili pepper or more to taste,,vegetable
-268227,12,,whole black peppercorns,,spice or herb
-268227,2,teaspoons,brown sugar,,sugar
-268227,3,leaves,bay or more to taste,,spice or herb
-268227,1,pinches,cumin seeds or to taste,,main protein
-268227,0.5,,apples,,fruit
-268227,1,tablespoons,apple cider vinegar,,drink
-268227,1,tablespoons,dark soy sauce,,main protein
-268227,2,tablespoons,unsalted butter,,cooking fat
-268227,1,pinches,salt black pepper to taste,,vegetable
-268227,1,,red onion,,vegetable
-268227,1,,green bell pepper,,vegetable
-268227,1,packages,shiitake mushrooms,,vegetable
-268227,1,cups,sparkling lemonade,,fruit
-268227,2,teaspoons,cornstarch,,grain
-268227,1,cubes,chicken bouillon,,poultry
-268231,1,tablespoons,avocado oil,,vegetable
-268231,1.5,pounds,beef,,meat
-268231,1,cups,onion,,vegetable
-268231,1,cups,red bell pepper,,vegetable
-268231,1,teaspoons,sea salt,,spice or herb
-268231,0,,black pepper to taste,,vegetable
-268231,1.5,teaspoons,garlic,,spice or herb
-268231,0.25,cups,apple cider vinegar,,drink
-268231,0.25,cups,water,,cooking liquid
-268231,3,tablespoons,dark brown sugar,,sugar
-268231,1,teaspoons,mustard,,condiment
-268231,1,tablespoons,Worcestershire sauce,,sauce
-268231,1,tablespoons,tomato paste,,vegetable
-268231,1,tablespoons,chili powder,,soup
-268231,1,pinches,red pepper flakes,,vegetable
-268231,1.5,cups,tomatoes,,vegetable
-268231,8,,hamburger buns,,grain
-268231,4,tablespoons,butter,,cooking fat
-268233,3,pounds,onions,,vegetable
-268233,0.333333333,cups,butter,,cooking fat
-268233,1,tablespoons,paprika,,spice or herb
-268233,1,teaspoons,salt,,spice or herb
-268233,1,teaspoons,black pepper,,vegetable
-268233,0.25,cups,white wine,,alcoholic
-268233,0.25,cups,sherry,,alcoholic
-268233,7,cups,beef broth,,soup
-268233,1,leaves,bay,,spice or herb
-268233,3,ounces,all purpose flour,,baking ingredient
-268233,1,loaves,baguette,,grain
-268233,0.5,pounds,Gruyere cheese,,cheese
-268239,4,strips,bacon,,meat
-268239,1,cups,baby bella mushrooms,,vegetable
-268239,0.5,,white onion,,vegetable
-268239,3,,cloves garlic,,spice or herb
-268239,1,packages,riced cauliflower,,vegetable
-268239,1,cups,chicken stock,,poultry
-268239,1.5,cups,Parmesan cheese,,cheese
-268239,1,cups,cream,,fat and vitamins
-268246,0.333333333,cups,organic all vegetable shortening,,vegetable
-268246,4,cups,powdered sugar,,sugar
-268246,0.25,cups,rice milk or more,,fat and vitamins
-268246,1.5,teaspoons,vanilla extract,,flavoring
-268246,4,drops,red food coloring,,recipe extra
-268247,3,tablespoons,butter,,cooking fat
-268247,6,cups,miniature marshmallows,,sugar
-268247,1,teaspoons,vanilla extract,,flavoring
-268247,6,drops,orange food coloring,,fruit
-268247,4,cups,crispy rice cereal or more to taste,,grain
-268247,6,pieces,green licorice string,,sugar
-268247,1,packages,green fruit,,fruit
-268247,1,,tube black decorating gel,,
-268253,0.333333333,cups,milk,,fat and vitamins
-268253,1,,eggs,,baking ingredient
-268253,0.333333333,cups,bread,,grain
-268253,0.333333333,cups,snipped mint,,flavoring
-268253,0.333333333,cups,snipped parsley,,vegetable
-268253,0.25,cups,onion,,vegetable
-268253,2,tablespoons,dill,,spice or herb
-268253,1,,clove garlic,,spice or herb
-268253,0.75,teaspoons,salt,,spice or herb
-268253,1,pinches,black pepper to taste,,vegetable
-268253,1,pounds,lamb,,meat
-268253,2,tablespoons,vegetable oil,,vegetable
-268253,2,tablespoons,butter,,cooking fat
-268253,2,tablespoons,all purpose flour,,baking ingredient
-268253,0.25,teaspoons,salt,,spice or herb
-268253,1,dashes,black pepper,,vegetable
-268253,1,cups,milk,,fat and vitamins
-268253,2,tablespoons,lemon juice,,drink
-268253,1,teaspoons,lemon,,fruit
-268256,2,pounds,beef,,meat
-268256,3,,eggs,,baking ingredient
-268256,0.5,cups,gluten free bread,,main protein
-268256,0.25,cups,onion flakes,,vegetable
-268256,0.25,cups,Parmesan cheese,,cheese
-268256,1,tablespoons,Italian seasoning or more to taste,,spice or herb
-268256,3,tablespoons,olive oil,,vegetable
-268256,2,jars,spaghetti sauce,,sauce
-268286,0.75,tablespoons,active yeast,,baking ingredient
-268286,1.5,cups,water,,cooking liquid
-268286,1,tablespoons,white sugar or more,,sugar
-268286,3.25,cups,bread flour,,baking ingredient
-268286,0.75,tablespoons,salt,,spice or herb
-268286,1,cups,raisins,,fruit
-268286,5,,figs,,fruit
-268286,1,teaspoons,cornmeal,,grain
-268303,2,bars,85% dark chocolate,,spice or herb
-268307,4,fillets,mild white fish,,fish
-268307,1,,lemon,,fruit
-268307,0,,salt to taste,,spice or herb
-268307,4,tablespoons,all purpose flour,,baking ingredient
-268307,1,teaspoons,Chinese five spice powder,,spice or herb
-268307,4,tablespoons,canola oil,,cooking liquid
-268307,1,tablespoons,sesame oil,,cooking liquid
-268324,2,quarts,chicken broth,,soup
-268324,4,stalks,lemongrass,,
-268324,10,,Thai chili peppers,,soup
-268324,5,,cloves garlic,,spice or herb
-268324,10,leaves,kaffir lime,,fruit
-268324,1,pieces,galangal,,vegetable
-268324,1.5,pounds,shrimp,,seafood
-268324,0.5,pounds,oyster mushrooms,,seafood
-268324,2,,white onions,,vegetable
-268324,2,,Roma tomatoes,,vegetable
-268324,0.5,cups,fish sauce or more to taste,,fish
-268324,2,tablespoons,white sugar,,sugar
-268324,1,bunches,cilantro,,vegetable
-268324,0.5,cups,lime juice or more to taste,,drink
-268339,1,bunches,celery,,vegetable
-268339,2,tablespoons,canola oil,,cooking liquid
-268339,1,tablespoons,cider vinegar,,drink
-268339,0.5,teaspoons,white sugar,,sugar
-268339,0.25,teaspoons,salt,,spice or herb
-268353,2,cups,white sugar,,sugar
-268353,3,,sticks butter,,fastener
-268353,5,cups,cornstarch,,grain
-268353,2,cups,all purpose flour,,baking ingredient
-268353,4,,eggs,,baking ingredient
-268353,3,tablespoons,pisco,,
-268353,2,teaspoons,vanilla extract,,flavoring
-268353,1,teaspoons,baking powder,,baking ingredient
-268353,3,tablespoons,water,,cooking liquid
-268353,2,tablespoons,confectioners' sugar,,sugar
-268353,2,cans,sweetened condensed milk,,fat and vitamins
-268353,1,cans,evaporated milk,,fat and vitamins
-268353,0.25,cups,brown sugar,,sugar
-268353,0.25,cups,confectioners' sugar or to taste,,sugar
-268354,2,,eggs,,baking ingredient
-268354,1,tablespoons,vegetable oil,,vegetable
-268354,2,,onions,,vegetable
-268354,2,,cloves garlic,,spice or herb
-268354,1,teaspoons,salt,,spice or herb
-268354,0.5,teaspoons,paprika,,spice or herb
-268354,0,,black pepper to taste,,vegetable
-268354,1,pounds,beef,,meat
-268354,0.5,,broiled chicken,,poultry
-268354,2,tablespoons,raisins or to taste,,fruit
-268354,1.5,tablespoons,Kalamata olives or to taste,,vegetable
-268354,3,cans,sweet corn,,grain
-268354,2,teaspoons,basil,,spice or herb
-268354,1,tablespoons,butter,,cooking fat
-268354,1,cups,milk,,fat and vitamins
-268354,2,teaspoons,white sugar or to taste,,sugar
-268354,0,,salt to taste,,spice or herb
-268367,2,quarts,whole milk or more,,fat and vitamins
-268367,1,cups,Carolina gold rice,,recipe extra
-268367,1,cups,white sugar,,sugar
-268367,2,,eggs,,baking ingredient
-268367,1,cups,raisins or to taste,,fruit
-268367,1,teaspoons,vanilla extract,,flavoring
-268367,0,,cinnamon,,spice or herb
-268386,1,heads,cauliflower,,vegetable
-268386,1,,onion,,vegetable
-268386,1,tablespoons,coconut oil,,fruit
-268386,2,pounds,boneless chicken thighs,,poultry
-268386,1.5,tablespoons,cumin or to taste,,spice or herb
-268386,1.5,tablespoons,turmeric,,spice or herb
-268386,3,tablespoons,curry powder or to taste,,pasta dish
-268386,1,cans,coconut milk,,fruit
-268386,1,teaspoons,garlic bouillon base,,spice or herb
-268386,1,teaspoons,chicken bouillon base,,poultry
-268386,0.25,cups,water,,cooking liquid
-268386,1,teaspoons,garlic,,spice or herb
-268386,1,teaspoons,black pepper,,vegetable
-268401,3,cups,oats,,grain
-268401,1,cups,mixed fruit,,fruit
-268401,0.5,cups,whole wheat flour,,baking ingredient
-268401,1,teaspoons,kosher salt,,spice or herb
-268401,0.5,teaspoons,cinnamon,,spice or herb
-268401,0.5,cups,peanut butter,,cooking fat
-268401,0.25,cups,vegetable oil,,vegetable
-268401,0.25,cups,honey,,sugar
-268401,1,,eggs,,baking ingredient
-268401,0.25,teaspoons,vanilla extract,,flavoring
-268402,1,cups,oats,,grain
-268402,1,cups,all purpose flour,,baking ingredient
-268402,0.333333333,cups,brown sugar,,sugar
-268402,1,teaspoons,baking powder,,baking ingredient
-268402,1,teaspoons,baking soda,,drink
-268402,1,teaspoons,ginger,,spice or herb
-268402,1,teaspoons,cinnamon,,spice or herb
-268402,0.5,teaspoons,salt,,spice or herb
-268402,1,pinches,allspice,,spice or herb
-268402,0.333333333,cups,walnuts,,nut
-268402,0.333333333,cups,apricots,,fruit
-268402,0.333333333,cups,dates,,vegetable
-268402,0.5,cups,butter,,cooking fat
-268402,1,cups,buttermilk,,fat and vitamins
-268402,1,,eggs,,baking ingredient
-268402,1,teaspoons,vanilla extract,,flavoring
-268411,1,,shortcrust pastry crust,,sugar
-268411,1.666666667,cups,persimmons,,fruit
-268411,1,cans,evaporated milk,,fat and vitamins
-268411,2,,eggs,,baking ingredient
-268411,0.5,teaspoons,cinnamon,,spice or herb
-268411,2,pinches,ginger,,spice or herb
-268411,1,pinches,nutmeg,,spice or herb
-268411,1,pinches,salt,,spice or herb
-268413,2,fillets,chicken breasts,,poultry
-268413,1,,ball water mozzarella cheese,,cheese
-268413,2,,cloves garlic,,spice or herb
-268413,4,slices,bacon,,meat
-268413,1,,red onion,,vegetable
-268413,1,tablespoons,olive oil,,vegetable
-268413,1,teaspoons,rosemary,,spice or herb
-268420,1,,zucchini,,vegetable
-268420,2,cans,petite tomatoes,,vegetable
-268420,1,cans,low sodium chicken broth,,soup
-268420,2,teaspoons,chili powder,,soup
-268420,1,teaspoons,red pepper flakes,,vegetable
-268420,0.5,teaspoons,Mexican oregano,,spice or herb
-268420,0.25,teaspoons,black pepper,,vegetable
-268420,1,pounds,shrimp,,seafood
-268426,12,,eggs,,baking ingredient
-268426,0.75,cups,reduced fat mayonnaise,,condiment
-268426,0.333333333,cups,Cheddar cheese,,cheese
-268426,2,,green onions,,vegetable
-268426,2,teaspoons,yellow mustard,,condiment
-268426,0.5,teaspoons,black pepper,,vegetable
-268426,4,strips,bacon,,meat
-268426,6,,grape tomatoes,,vegetable
-268426,6,leaves,lettuce,,vegetable
-268426,12,slices,bread,,grain
-268428,2.5,cups,white sugar,,sugar
-268428,2,cups,water,,cooking liquid
-268428,0.5,cups,cinnamon syrup,,sugar
-268428,3,,cinnamon sticks,,fastener
-268428,3,,red Anjou pears,,fruit
-268428,1,packages,pie pastry,,sugar
-268428,2,cups,white sugar,,sugar
-268428,0.5,cups,all purpose flour,,baking ingredient
-268428,0.5,teaspoons,nutmeg,,spice or herb
-268428,0.25,teaspoons,sea salt,,spice or herb
-268428,6,,eggs,,baking ingredient
-268428,1.5,cups,buttermilk,,fat and vitamins
-268428,1,tablespoons,lemon juice,,drink
-268428,1,teaspoons,lemon,,fruit
-268428,0.5,cups,butter,,cooking fat
-268428,1,teaspoons,vanilla bean paste,,main protein
-268428,0.666666667,cups,walnuts,,nut
-268431,1.5,packages,speculoos cookies,,
-268431,4,tablespoons,coconut oil,,fruit
-268431,1,teaspoons,salt,,spice or herb
-268431,2,packages,cream cheese,,fat and vitamins
-268431,1,containers,sour cream,,fat and vitamins
-268431,1,cups,white sugar,,sugar
-268431,2,tablespoons,amaretto liqueur,,alcoholic
-268431,1,teaspoons,almond extract,,flavoring
-268431,1,teaspoons,vanilla extract,,flavoring
-268431,3,,eggs,,baking ingredient
-268433,3,,eggs,,baking ingredient
-268433,1,cups,white sugar,,sugar
-268433,0.666666667,cups,pumpkin puree,,vegetable
-268433,1,teaspoons,lemon juice,,drink
-268433,0.75,cups,all purpose flour,,baking ingredient
-268433,2,teaspoons,cinnamon,,spice or herb
-268433,1,teaspoons,baking powder,,baking ingredient
-268433,1,teaspoons,ginger,,spice or herb
-268433,1,teaspoons,nutmeg,,spice or herb
-268433,0.5,teaspoons,salt,,spice or herb
-268433,0.25,cups,powdered sugar,,sugar
-268433,1,packages,cream cheese,,fat and vitamins
-268433,1,cups,powdered sugar,,sugar
-268433,0.25,cups,margarine,,baking ingredient
-268433,0.5,teaspoons,vanilla extract,,flavoring
-268462,1,,butternut squash,,vegetable
-268462,2,teaspoons,olive oil,,vegetable
-268462,0,,salt black pepper to taste,,vegetable
-268462,1,,avocado,,vegetable
-268462,1,cups,cherry tomatoes,,vegetable
-268462,1,cups,smoked mozzarella cheese,,cheese
-268462,0.5,cups,basil,,spice or herb
-268462,0.25,cups,olive oil,,vegetable
-268462,1.5,tablespoons,balsamic vinegar,,cooking liquid
-268462,0.5,tablespoons,Dijon mustard,,condiment
-268462,0.5,,clove garlic,,spice or herb
-268465,1,,baguette,,grain
-268465,2,,drizzles olive oil or to taste,,vegetable
-268465,1,,Hass avocado,,vegetable
-268465,0.75,cups,ricotta cheese or more to taste,,cheese
-268465,0.5,,lemon,,fruit
-268465,1,tablespoons,fresh basil,,spice or herb
-268465,0,,kosher salt to taste,,spice or herb
-268465,1,pinches,cayenne pepper or to taste,,vegetable
-268465,1,cups,cherry tomatoes or to taste,,vegetable
-268465,5,,radishes or to taste,,vegetable
-268465,1,pinches,flaky sea salt,,spice or herb
-268465,1,teaspoons,snipped chives,,vegetable
-268466,1,cups,water,,cooking liquid
-268466,1,packages,active yeast,,baking ingredient
-268466,1,teaspoons,white sugar,,sugar
-268466,3,teaspoons,olive oil,,vegetable
-268466,1,teaspoons,kosher salt,,spice or herb
-268466,2.5,cups,bread flour,,baking ingredient
-268466,1,jars,marinara sauce,,sauce
-268466,0,,oregano,,spice or herb
-268466,1,teaspoons,red pepper flakes,,vegetable
-268466,1,teaspoons,garlic powder,,spice or herb
-268466,1,packages,Monterey Jack cheese,,cheese
-268466,0.5,packages,mild Cheddar cheese,,cheese
-268466,1,packages,pepperoni slices,,meat
-268471,1,,onion,,vegetable
-268471,1,,clove garlic,,spice or herb
-268471,200,halves,grams boneless chicken breast,,poultry
-268471,3,,tomatoes,,vegetable
-268471,400,,ml water,,cooking liquid
-268471,1,cubes,chicken stock,,poultry
-268471,1,,ActiFry spoon curry powder,,pasta dish
-268471,130,,grams wheat berries,,grain
-268471,1,,ActiFry spoon vegetable oil,,vegetable
-269148,28,ounces,cocktail wieners,,meat
-269148,12,ounces,sweet chili sauce,,soup
-269148,2,tablespoons,sriracha sauce,,sauce
-269148,0.25,cups,chicken broth,,poultry
-269148,0.25,cups,cilantro,,vegetable
-270414,0.5,cups,lemon juice,,drink
-270414,0.5,cups,filtered water,,cooking liquid
-270414,1,pieces,ginger,,spice or herb
-270414,4,teaspoons,honey,,sugar
-270414,15,cups,filtered water,,cooking liquid
-270414,4,quarts,size mason jars,,container
+10038,1,cups,butter,68,cooking fat
+10038,0.75,cups,cornstarch,165,grain
+10038,0.333333333,cups,confectioners' sugar,155,sugar
+10038,1,cups,all purpose flour,5,baking ingredient
+10038,3,ounces,cream cheese,170,dairy
+10038,1,cups,confectioners' sugar,155,sugar
+10038,1,teaspoons,vanilla extract,569,flavoring
+10038,3,drops,red food coloring,447,recipe extra
+10091,2,cups,white sugar,587,sugar
+10091,1,cups,shortening,491,cooking fat
+10091,1,tablespoons,vanilla extract,569,flavoring
+10091,1,teaspoons,almond extract,8,nut
+10091,2,,eggs,197,baking ingredient
+10091,6,cups,all purpose flour,5,baking ingredient
+10091,1,teaspoons,baking soda,27,baking ingredient
+10091,1,teaspoons,baking powder,26,baking ingredient
+10091,1,teaspoons,salt,474,spice or herb
+10091,1,cups,milk,326,fat and vitamins
+10405,1,packages,lemon cake mix,295,fruit
+10405,1,containers,whipped topping,581,recipe extra
+10405,1,,eggs,197,baking ingredient
+10405,2,cups,confectioners' sugar,155,sugar
+10636,0.5,cups,butter,68,cooking fat
+10636,0.333333333,cups,brown sugar,64,vegetable
+10636,0.333333333,cups,white sugar,587,sugar
+10636,1,,egg,193,baking ingredient
+10636,1.5,teaspoons,hot water,267,cooking liquid
+10636,1.125,cups,all purpose flour,5,baking ingredient
+10636,0.5,teaspoons,vanilla extract,569,spice or herb
+10636,0.5,teaspoons,baking soda,27,drink
+10636,0.5,teaspoons,salt,474,spice or herb
+10636,1,cups,semisweet chocolate chips,484,spice or herb
+10682,0.5,cups,butter,68,cooking fat
+10682,0.75,cups,white sugar,587,sugar
+10682,1,,egg,193,baking ingredient
+10682,1.333333333,cups,all purpose flour,5,baking ingredient
+10682,0.5,teaspoons,salt,474,spice or herb
+10682,0.5,teaspoons,baking soda,27,baking ingredient
+10682,0.5,teaspoons,vanilla extract,569,flavoring
+10682,2,,mini chocolate coated peanut nougat candy eg: Baby Ruth TM,329,nut
+10837,1.25,cups,unsalted butter,562,cooking fat
+10837,2,,eggs,197,baking ingredient
+10837,1,teaspoons,vanilla extract,569,flavoring
+10837,1.75,cups,all purpose flour,5,baking ingredient
+10837,1,teaspoons,baking soda,27,baking ingredient
+10837,1,teaspoons,salt,474,spice or herb
+10837,0.75,cups,white sugar,587,sugar
+10837,0.75,cups,brown sugar,64,vegetable
+10837,1.5,cups,white chocolate chips,583,spice or herb
+10837,1.5,cups,milk chocolate chips,327,dairy
+10837,1.5,cups,semi sweet chocolate chips,483,spice or herb
+10837,1,cups,walnuts,576,nut
+10888,1,cups,confectioners' sugar,155,sugar
+10888,1,cups,coconut,141,fruit
+10888,1.5,tablespoons,cream,169,fat and vitamins
+10888,2,tablespoons,cinnamon,128,spice or herb
+10891,2,cups,all purpose flour,5,baking ingredient
+10891,1,teaspoons,baking soda,27,baking ingredient
+10891,1,cups,butter flavored shortening,69,cooking fat
+10891,1,cups,white sugar,587,sugar
+10891,0.5,cups,brown sugar,64,vegetable
+10891,1,teaspoons,vanilla extract,569,flavoring
+10891,2,,eggs,197,baking ingredient
+10891,1.666666667,cups,peanut butter chips,383,nut
+11058,0.5,cups,butter,68,cooking fat
+11058,0.5,cups,shortening,491,cooking fat
+11058,1,teaspoons,vanilla extract,569,flavoring
+11058,4,cups,confectioners' sugar,155,sugar
+11058,2,tablespoons,milk,326,dairy
+11159,0.666666667,cups,shortening,491,cooking fat
+11159,0.666666667,cups,white sugar,587,sugar
+11159,2,,eggs,197,baking ingredient
+11159,1,teaspoons,vanilla extract,569,flavoring
+11159,0.5,teaspoons,baking powder,26,baking ingredient
+11159,0.5,teaspoons,salt,474,spice or herb
+11159,1,packages,instant banana pudding,269,fruit
+11159,2.5,cups,all purpose flour,5,baking ingredient
+11448,0.5,cups,shortening,491,cooking fat
+11448,0.75,cups,white sugar,587,sugar
+11448,1,,eggs,197,baking ingredient
+11448,0.5,teaspoons,almond extract,8,nut
+11448,1,cups,all purpose flour,5,baking ingredient
+11448,0.5,teaspoons,baking powder,26,spice or herb
+11448,0.5,teaspoons,salt,474,spice or herb
+11448,1,cups,semi sweet chocolate chips,483,spice or herb
+11448,0.75,cups,coconut,141,fruit
+11448,0.75,cups,candied cherries,78,fruit
+11921,1,packages,lasagna noodles,292,pasta
+11921,1.5,tablespoons,olive oil,357,cooking liquid
+11921,1,,onion,358,vegetable
+11921,1,,carrot,88,vegetable
+11921,1,stalks,celery,94,vegetable
+11921,0.75,pounds,mushrooms,343,vegetable
+11921,2,,cloves garlic,138,spice or herb
+11921,0.5,cups,white wine,590,alcoholic
+11921,1,cans,tomatoes,556,vegetable
+11921,2,,sun tomatoes,528,vegetable
+11921,1,teaspoons,thyme,551,spice or herb
+11921,0,,salt to taste,477,spice or herb
+11921,0,,black pepper to taste,48,vegetable
+11921,0.333333333,cups,all purpose flour,5,baking ingredient
+11921,3,cups,whipping cream,582,fat and vitamins
+11921,0.25,teaspoons,nutmeg,349,spice or herb
+11921,1,pinches,salt,474,spice or herb
+11921,8,cups,spinach,512,vegetable
+11921,1,cups,Parmesan cheese,376,cheese
+12039,8,ounces,pasta,379,pasta
+12039,1,pounds,beef,36,meat
+12039,1,cups,onion,358,vegetable
+12039,2,cups,celery,94,vegetable
+12039,0,,salt black pepper to taste,475,spice or herb
+12039,1,cans,condensed tomato soup,153,vegetable
+12039,1,cans,tomato sauce,555,vegetable
+12039,1,cups,water,577,cooking liquid
+12039,2,cups,sharp Cheddar cheese,487,cheese
+12702,2,tablespoons,vegetable oil,574,vegetable
+12702,3,,cloves garlic,138,spice or herb
+12702,1,,onion,358,vegetable
+12702,2,pounds,squid,515,seafood
+12702,0.5,,pineapple,405,fruit
+12702,4,stalks,celery,94,vegetable
+12702,4,tablespoons,fish sauce,211,sauce
+12702,1,teaspoons,white sugar,587,sugar
+12702,1,teaspoons,black pepper,47,vegetable
+13024,0.5,pounds,extra beef,203,meat
+13024,1,,eggs,197,baking ingredient
+13024,2,tablespoons,bread,56,grain
+13024,1,tablespoons,Parmesan cheese,376,dairy
+13024,0.5,teaspoons,basil,33,spice or herb
+13024,0.5,teaspoons,onion powder,360,vegetable
+13024,5.75,cups,chicken broth,108,poultry
+13024,2,cups,escarole,201,vegetable
+13024,1,cups,orzo pasta,371,pasta
+13024,0.333333333,cups,carrots,89,vegetable
+13062,0.5,pounds,beef,36,meat
+13062,0.75,cups,onion,358,vegetable
+13062,0.75,cups,carrots,89,vegetable
+13062,0.75,cups,celery,94,vegetable
+13062,1,teaspoons,basil,33,spice or herb
+13062,1,teaspoons,parsley,378,vegetable
+13062,4,tablespoons,butter,68,cooking fat
+13062,3,cups,chicken broth,108,poultry
+13062,4,cups,potatoes,423,vegetable
+13062,0.25,cups,all purpose flour,5,baking ingredient
+13062,2,cups,Cheddar cheese,96,dairy
+13062,1.5,cups,milk,326,dairy
+13062,0.25,cups,sour cream,503,dairy
+13240,0.5,pounds,bacon,23,meat
+13240,2,,onion,358,vegetable
+13240,12,cups,water,577,cooking liquid
+13240,3,,carrots,89,vegetable
+13240,4,cans,clams,134,seafood
+13240,2.25,cups,clam juice,133,seafood
+13240,4,,potatoes,423,vegetable
+13240,1,teaspoons,kosher salt,285,spice or herb
+13240,2,cans,tomatoes,556,vegetable
+13240,1.5,teaspoons,black pepper,47,vegetable
+13240,4,stalks,celery,94,vegetable
+13240,1,cups,ketchup,282,condiment
+13240,4,cups,whole milk,592,dairy
+13240,1.5,cups,potato flakes,422,vegetable
+13465,1,,graham cracker crust,236,grain
+13465,2,cups,pumpkin puree,432,vegetable
+13465,1,cans,sweetened condensed milk,539,fat and vitamins
+13465,1,,egg,193,baking ingredient
+13465,1.25,teaspoons,cinnamon,128,spice or herb
+13465,0.5,teaspoons,ginger,230,spice or herb
+13465,0.5,teaspoons,nutmeg,349,spice or herb
+13465,0.5,teaspoons,salt,474,spice or herb
+13465,0.25,cups,brown sugar,64,vegetable
+13465,2,tablespoons,all purpose flour,5,baking ingredient
+13465,2,tablespoons,butter,68,cooking fat
+13465,0.75,cups,walnuts,576,nut
+13764,2,cups,white sugar,587,sugar
+13764,4,tablespoons,cornstarch,165,grain
+13764,4,cups,milk,326,fat and vitamins
+13764,4,,egg yolks,196,baking ingredient
+13764,1,pinches,salt,474,spice or herb
+13764,1,tablespoons,butter,68,cooking fat
+13764,1,teaspoons,vanilla extract,569,flavoring
+13924,1.5,cups,pearl barley,385,grain
+13924,4.5,cups,water,577,cooking liquid
+13924,1,tablespoons,canola oil,82,cooking liquid
+13924,1,,red onion,448,vegetable
+13924,0.75,cups,apricots,18,fruit
+13924,0.5,cups,almonds,10,nut
+13924,2,tablespoons,parsley,378,vegetable
+13924,1,cups,plain low fat yogurt,410,dairy
+13924,2,tablespoons,honey,262,sugar
+13924,1,,lemon,294,fruit
+13924,0.5,teaspoons,cinnamon,128,spice or herb
+13924,0.5,teaspoons,turmeric,560,spice or herb
+13924,0.5,teaspoons,salt,474,spice or herb
+13924,1,pinches,nutmeg,349,spice or herb
+14176,1,,tomatoes,556,vegetable
+14176,1,,cucumbers,178,vegetable
+14176,0.25,cups,red onion,448,vegetable
+14176,0.25,cups,canned kidney beans,80,main protein
+14176,0.25,cups,tofu,552,main protein
+14176,2,tablespoons,basil,33,spice or herb
+14176,0.25,cups,balsamic vinaigrette dressing,29,condiment
+14176,0,,salt pepper to taste,476,vegetable
+14518,2,pounds,boneless chicken thighs,55,poultry
+14518,0,,adobo seasoning to taste,4,spice or herb
+14518,12,,flour tortillas,217,baking ingredient
+14518,1.5,cups,Mexican cheese blend,322,dairy
+14518,1,,onion,358,vegetable
+14518,1,cans,black olives,46,vegetable
+14518,1,cans,green chilis,244,vegetable
+14684,2,pounds,flank steak,214,meat
+14684,1,cans,condensed cream of mushroom soup,151,soup
+14684,1,cans,condensed tomato soup,153,soup
+14684,1,packages,onion soup mix,361,mixture
+14937,32,ounces,plain yogurt,412,fat and vitamins
+14937,2,,cucumbers,178,vegetable
+14937,1,tablespoons,dill weed,190,spice or herb
+14937,1,bunches,green onions,249,vegetable
+14937,0,,salt to taste,477,spice or herb
+15004,4.5,cups,all purpose flour,5,baking ingredient
+15004,2,teaspoons,baking soda,27,baking ingredient
+15004,2,cups,butter,68,cooking fat
+15004,1.5,cups,brown sugar,64,vegetable
+15004,0.5,cups,white sugar,587,sugar
+15004,2,packages,instant vanilla pudding,270,spice or herb
+15004,4,,eggs,197,baking ingredient
+15004,2,teaspoons,vanilla extract,569,flavoring
+15004,4,cups,semisweet chocolate chips,484,spice or herb
+15004,2,cups,walnuts,576,nut
+15048,0.5,cups,butter,68,cooking fat
+15048,1,cups,brown sugar,64,vegetable
+15048,2,,eggs,197,baking ingredient
+15048,1,cups,bananas,32,fruit
+15048,2,cups,all purpose flour,5,baking ingredient
+15048,2,teaspoons,baking powder,26,spice or herb
+15048,0.25,teaspoons,baking soda,27,baking ingredient
+15048,0.25,teaspoons,salt,474,spice or herb
+15048,0.5,teaspoons,cinnamon,128,spice or herb
+15048,0.25,teaspoons,cloves,136,spice or herb
+15048,0.5,cups,walnuts,576,nut
+15660,1,cans,strawberry daiquiri mixer,523,fruit
+15660,1,cups,sweetened condensed milk,539,fat and vitamins
+15660,1,containers,whipped topping,581,recipe extra
+15660,1,packages,strawberries,522,fruit
+15660,2,,graham cracker crusts,237,grain
+15941,2,,pie shell,402,grain
+15941,10,,apple,13,fruit
+15941,0.25,cups,white sugar,587,sugar
+15941,1,tablespoons,cinnamon,128,spice or herb
+15941,0.5,teaspoons,nutmeg,349,spice or herb
+16390,1,,pie shell,402,grain
+16390,2,,eggs,197,baking ingredient
+16390,0.5,cups,butter,68,cooking fat
+16390,1,cups,white sugar,587,sugar
+16390,1,teaspoons,vanilla extract,569,flavoring
+16390,0.25,cups,all purpose flour,5,baking ingredient
+16390,0.25,cups,unsweetened cocoa powder,564,spice or herb
+16390,1,cups,semi sweet chocolate chips,483,spice or herb
+16589,0.5,pounds,smoked sausage thinly,499,meat
+16589,0.5,pounds,button mushrooms,74,vegetable
+16589,3,tablespoons,green onions,249,vegetable
+16589,1,teaspoons,garlic,224,spice or herb
+16589,4,tablespoons,blue cheese dressing,50,condiment
+16589,3,,boneless chicken breasts,54,poultry
+16589,1,tablespoons,Cajun seasoning,75,spice or herb
+16608,3,cups,egg noodles,194,pasta
+16608,4,cups,chicken breast meat,106,poultry
+16608,4,cans,condensed cream of celery soup,149,dairy
+16608,3,cans,evaporated milk,202,dairy
+16608,1,cups,celery,94,vegetable
+16608,5,cups,potato chips,421,vegetable
+16752,1.5,pounds,bacon,23,meat
+16752,1,jars,mayonnaise,318,condiment
+16752,0.5,cups,corn syrup,162,grain
+16752,0.25,cups,apple cider vinegar,15,fruit
+16752,0.5,teaspoons,black pepper,47,vegetable
+16752,1,,onion,358,vegetable
+16937,1,packages,navy beans,345,main protein
+16937,1,,meaty beef roast bone,320,meat
+16937,2,cans,tomatoes,556,vegetable
+16937,1.5,cups,red wine,451,alcoholic
+16937,3,tablespoons,onion flakes,359,vegetable
+16937,1,tablespoons,parsley,378,vegetable
+16937,1,teaspoons,paprika,375,spice or herb
+16937,1,tablespoons,celery seed,95,vegetable
+16937,2,leaves,bay,34,spice or herb
+16937,1,teaspoons,salt,474,spice or herb
+16937,1,tablespoons,garlic powder,227,spice or herb
+16937,1,teaspoons,white sugar,587,sugar
+16937,0.5,teaspoons,black pepper,47,vegetable
+16937,1,pinches,red pepper flakes,449,vegetable
+16937,0,,water to cover,579,cooking liquid
+17851,1,packages,cherry cake mix,99,fruit
+17851,3,,eggs,197,baking ingredient
+17851,1,cans,pineapple,405,fruit
+17851,1,cups,walnuts,576,nut
+18090,0.5,pounds,chicken wings,113,poultry
+18090,2,,onions,362,vegetable
+18090,0.25,cups,celery,94,vegetable
+18090,1,teaspoons,browning sauce,65,sauce
+18090,4,cups,water,577,cooking liquid
+18090,2,cups,white rice,586,grain
+18090,1,cups,pigeon peas,403,vegetable
+18090,0.5,pounds,cod,144,fish
+18090,3,,tomatoes,556,vegetable
+18090,1,cups,carrots,89,vegetable
+18090,1,teaspoons,salt,474,spice or herb
+18198,1,,pie crust,399,grain
+18198,4.5,teaspoons,cornstarch,165,grain
+18198,1.125,cups,white sugar,587,sugar
+18198,0.25,teaspoons,salt,474,spice or herb
+18198,0.75,teaspoons,nutmeg,349,spice or herb
+18198,1.5,cups,sour cream,503,dairy
+18198,3,,egg yolks,196,baking ingredient
+18198,1.5,cups,raisins,437,fruit
+18198,1,tablespoons,lemon juice,296,fruit
+18198,3,,egg whites,195,baking ingredient
+18198,0.25,teaspoons,cream of tartar,171,dairy
+18198,6,tablespoons,brown sugar,64,vegetable
+18198,0.5,teaspoons,vanilla extract,569,flavoring
+18343,2,,plum tomatoes,413,fruit
+18343,1,,zucchini,605,vegetable
+18343,3,tablespoons,salsa,473,sauce
+18343,3,tablespoons,water,577,cooking liquid
+18343,0.5,teaspoons,oregano,367,spice or herb
+18343,0.25,teaspoons,basil,33,spice or herb
+18343,0,,salt pepper to taste,476,spice or herb
+18473,0.5,,eggs,197,baking ingredient
+18473,3,tablespoons,white sugar,587,sugar
+18473,1,pinches,salt,474,spice or herb
+18473,1.5,cups,all purpose flour,5,baking ingredient
+18473,0.5,cups,butter,68,cooking fat
+18913,2,cans,sweet potatoes,535,vegetable
+18913,0.333333333,cups,butter,68,cooking fat
+18913,2,tablespoons,white sugar,587,sugar
+18913,2,tablespoons,brown sugar,64,vegetable
+18913,1,tablespoons,orange juice,366,fruit
+18913,2,,eggs,197,baking ingredient
+18913,0.5,cups,milk,326,dairy
+18913,0.333333333,cups,pecans,388,nut
+18913,0.333333333,cups,brown sugar,64,vegetable
+18913,2,tablespoons,all purpose flour,5,baking ingredient
+18913,2,teaspoons,butter,68,cooking fat
+19252,1,cups,corn syrup,162,grain
+19252,0.5,cups,peanut butter,382,nut
+19252,3,cups,oat cereal,351,grain
+19424,2,cans,condensed cream of chicken soup,150,poultry
+19424,0.75,cups,milk,326,fat and vitamins
+19424,1,pounds,elbow macaroni,198,pasta
+19424,4,,tomatoes,556,vegetable
+19424,12,slices,processed sharp Cheddar cheese,430,cheese
+19477,2,cups,vegetable oil,574,cooking liquid
+19477,1,pints,oysters juice,373,drink
+19477,1,,egg,193,baking ingredient
+19477,0,,salt to taste,477,spice or herb
+19477,1,teaspoons,black pepper,47,vegetable
+19477,1,teaspoons,Old Bay Seasoning TM,356,spice or herb
+19477,0.5,cups,pancake mix,374,mixture
+19489,1,pounds,crabmeat,167,seafood
+19489,1.5,tablespoons,bread,56,grain
+19489,2,teaspoons,parsley,378,vegetable
+19489,0,,salt pepper to taste,476,spice or herb
+19489,1,,eggs,197,baking ingredient
+19489,1.5,tablespoons,mayonnaise,318,condiment
+19489,0.5,teaspoons,mustard,344,condiment
+19489,1,dashes,hot pepper sauce,266,sauce
+19515,0.25,cups,butter,68,cooking fat
+19515,1,cups,onion,358,vegetable
+19515,1,cups,celery,94,vegetable
+19515,1,tablespoons,parsley,378,vegetable
+19515,8,ounces,crabmeat,167,seafood
+19515,8,ounces,shrimp,492,seafood
+19515,0.25,cups,vermouth,575,alcoholic
+19515,0,,salt to taste,477,spice or herb
+19515,0,,black pepper to taste,48,vegetable
+19515,0.25,teaspoons,hot pepper sauce,266,vegetable
+19515,0.5,cups,bread,56,grain
+19515,1,packages,puff pastry sheets,431,sugar
+19515,2,pounds,flounder fillets,216,fish
+19515,2,,egg yolks,196,baking ingredient
+19519,6,cups,ketchup,282,condiment
+19519,6,cups,chili sauce,115,vegetable
+19519,2,cups,horseradish,264,spicy
+19519,1,cups,Worcestershire sauce,596,sauce
+19519,0.75,cups,lemon juice,296,drink
+19519,4,tablespoons,hot pepper sauce,266,vegetable
+19519,2,cups,tequila,547,alcoholic
+19519,0,,salt pepper to taste,476,spice or herb
+20978,2,quarts,cider vinegar,124,cooking liquid
+20978,0.25,cups,salt,474,spice or herb
+20978,2,tablespoons,cayenne pepper,92,spice or herb
+20978,3,tablespoons,red pepper flakes,449,vegetable
+20978,1,cups,brown sugar,64,sugar
+20978,1,tablespoons,hot pepper sauce,266,sauce
+21325,1,loaves,French bread,218,grain
+21325,1,,sweet onion,532,vegetable
+21325,1,cans,tuna,559,fish
+21325,2,cups,mozzarella cheese,340,cheese
+21325,1,cups,mayonnaise,318,condiment
+25829,0.5,cups,butter,68,cooking fat
+25829,0.5,cups,shortening,491,cooking fat
+25829,1,cups,white sugar,587,sugar
+25829,1,cups,brown sugar,64,sugar
+25829,2,,eggs,197,baking ingredient
+25829,2,tablespoons,evaporated milk,202,fat and vitamins
+25829,2,teaspoons,vanilla extract,569,flavoring
+25829,2,cups,all purpose flour,5,baking ingredient
+25829,1,teaspoons,baking powder,26,baking ingredient
+25829,1,teaspoons,baking soda,27,baking ingredient
+25829,0.5,teaspoons,salt,474,spice or herb
+25829,1.5,cups,oats,352,grain
+25829,1.5,cups,semisweet chocolate chips,484,spice or herb
+25829,1,cups,coconut,141,fruit
+25829,1,cups,pecans,388,nut
+30115,1,,pre pizza crust,427,grain
+30115,1.5,cups,mozzarella cheese,340,cheese
+30115,1,jars,pizza sauce,408,sauce
+30115,1,packages,Johnsonville® Three Cheese Italian Style Chicken Sausage,279,meat
+30115,1,packages,pepperoni,392,meat
+32582,0.5,cups,milk,326,fat and vitamins
+32582,2,tablespoons,coffee flavored liqueur,145,drink
+32582,2.5,tablespoons,amaretto liqueur,11,alcoholic
+32582,0.25,cups,chocolate flavored syrup,122,flavoring
+32582,1,cups,vanilla ice cream,570,cooking liquid
+32582,1,cups,ice,268,cooking liquid
+36397,1.5,cups,strawberries,522,fruit
+36397,0.5,cups,white sugar,587,sugar
+36397,0.25,cups,white sugar,587,sugar
+36397,0.25,cups,butter,68,cooking fat
+36397,2,,eggs,197,baking ingredient
+36397,1,teaspoons,vanilla extract,569,flavoring
+36397,1.75,cups,all purpose flour,5,baking ingredient
+36397,0.5,teaspoons,baking soda,27,baking ingredient
+36397,0.25,teaspoons,salt,474,spice or herb
+36397,0.25,teaspoons,nutmeg,349,spice or herb
+37403,0.25,cups,olive oil,357,cooking liquid
+37403,2,tablespoons,tarragon vinegar,546,cooking liquid
+37403,1,,clove garlic,135,spice or herb
+37403,0.25,teaspoons,thyme,551,spice or herb
+37403,0.25,teaspoons,salt,474,spice or herb
+37403,0.25,teaspoons,pepper,389,vegetable
+37403,2,,yellow squash,604,vegetable
+37403,1,,zucchini,605,vegetable
+37403,1,,green bell pepper,242,vegetable
+37403,1,,yellow bell pepper,599,vegetable
+37403,1,,red bell pepper,443,vegetable
+37403,0.75,pounds,size mushrooms,496,vegetable
+38931,2,cups,all purpose flour,5,baking ingredient
+38931,2,teaspoons,baking powder,26,baking ingredient
+38931,1,teaspoons,cinnamon,128,spice or herb
+38931,0.5,teaspoons,nutmeg,349,spice or herb
+38931,1,cups,granulated sugar,240,sugar
+38931,0.5,cups,butter or margarine,70,cooking fat
+38931,2,,eggs,197,baking ingredient
+38931,1,teaspoons,vanilla extract,569,flavoring
+38931,0.666666667,cups,NESTLE® CARNATION® Evaporated Lowfat Milk,346,fat and vitamins
+38931,3,cups,baking apples,25,baking ingredient
+38931,0.75,cups,pecans,388,nut
+38931,0,,powdered sugar,426,recipe extra
+42486,4,halves,boneless chicken breast,53,poultry
+42486,0.5,teaspoons,Cajun seasoning,75,spice or herb
+42486,1,tablespoons,vegetable oil,574,cooking liquid
+42486,4,slices,Swiss cheese,540,cheese
+42486,0.25,cups,creamy Parmesan dressing,172,condiment
+42486,4,,sandwich rolls,479,wrapped meal
+42486,8,slices,tomato,553,vegetable
+42486,8,strips,bacon,23,meat
+150861,0.5,ounces,Bulleit Bourbon™,67,
+150861,0.5,ounces,apple schnapps,16,fruit
+150861,0.5,ounces,sweet vermouth,537,alcoholic
+150861,1,pinches,nutmeg,349,spice or herb
+151127,2,tablespoons,unsalted butter,562,cooking fat
+151127,3,cups,pecan,387,nut
+151127,0.25,cups,SPLENDA® Sugar Blend,513,sugar
+151127,1,teaspoons,paprika,375,spice or herb
+151127,2,teaspoons,pure chili powder,433,soup
+151127,1,tablespoons,cumin,179,spice or herb
+151127,0.25,cups,apple cider vinegar,15,fruit
+151127,0,,salt,474,spice or herb
+151200,1,packages,Jimmy Dean Regular Roll Sausage,277,grain
+151200,1,cups,onion,358,vegetable
+151200,1,jars,yellow banana peppers,598,vegetable
+151200,3,,pickled jalapeno peppers,398,vegetable
+151200,16,ounces,cream cheese,170,fat and vitamins
+151200,1.5,cups,tomatoes,556,vegetable
+151200,0.5,cups,sweet red pepper,536,vegetable
+151200,0.333333333,cups,cilantro leaves,126,vegetable
+151200,0.5,cups,green onion tops,248,vegetable
+151200,0,,chips or crackers,119,grain
+155182,0.5,cups,molasses,336,sugar
+155182,0.25,cups,honey,262,sugar
+155182,0.25,cups,shortening,491,cooking fat
+155182,0.25,cups,margarine,315,baking ingredient
+155182,2,,eggs,197,baking ingredient
+155182,4,cups,all purpose flour,5,baking ingredient
+155182,0.75,cups,white sugar,587,sugar
+155182,0.5,cups,brown sugar,64,sugar
+155182,1.5,teaspoons,cardamom,86,spice or herb
+155182,1,teaspoons,nutmeg,349,spice or herb
+155182,1,teaspoons,cloves,136,spice or herb
+155182,1,teaspoons,ginger,230,spice or herb
+155182,2,teaspoons,anise extract,12,flavoring
+155182,2,teaspoons,cinnamon,128,spice or herb
+155182,1.5,teaspoons,baking soda,27,baking ingredient
+155182,1,teaspoons,black pepper,47,vegetable
+155182,0.5,teaspoons,salt,474,spice or herb
+155182,1,cups,confectioners' sugar,155,sugar
+156791,1,cans,black eyed peas,45,vegetable
+156791,1,cups,pickled jalapeno peppers,398,vegetable
+156791,1,jars,pimento peppers,404,vegetable
+156791,1,jars,mushrooms,343,vegetable
+156791,0.5,cups,celery,94,vegetable
+156791,0.5,cups,onion,358,vegetable
+156791,0.5,cups,olive oil,357,vegetable
+156791,0,,salt pepper to taste,476,vegetable
+159391,1,cans,escargots,200,
+159391,6,tablespoons,butter,68,cooking fat
+159391,1,,clove garlic,135,spice or herb
+159391,20,,mushrooms,343,vegetable
+159391,0.333333333,cups,white wine,590,alcoholic
+159391,0.333333333,cups,cream,169,fat and vitamins
+159391,1,tablespoons,all purpose flour,5,baking ingredient
+159391,1,pinches,black pepper to taste,48,vegetable
+159391,0.25,teaspoons,tarragon,545,spice or herb
+159391,0.25,cups,Parmesan cheese,376,cheese
+160139,1,packages,Simply Potatoes® Diced Potatoes,494,vegetable
+160139,2,cups,chicken,103,poultry
+160139,2,cups,mixed vegetables,334,vegetable
+160139,1,jars,chicken gravy,109,cooking fat
+160139,1,teaspoons,salt,474,spice or herb
+160139,0.5,teaspoons,black pepper,47,vegetable
+160139,1,packages,ready to fill pie crusts,440,sugar
+160139,1,packages,pie crusts,400,sugar
+161968,4,tablespoons,butter,68,cooking fat
+161968,8,ounces,crimini mushrooms,175,vegetable
+161968,0.5,cups,onion,358,vegetable
+161968,0.75,cups,long grain brown rice,307,grain
+161968,0.5,cups,wild rice,595,grain
+161968,3,cups,chicken broth,108,soup
+161968,1,cups,Holland House® White Cooking Wine,260,alcoholic
+161968,0.75,cups,long grain white rice,308,grain
+161968,0.5,cups,carrots,89,vegetable
+161968,0.25,teaspoons,thyme,551,spice or herb
+163048,1,pounds,lamb,291,meat
+163048,1,,onion,358,vegetable
+163048,1,,eggs,197,baking ingredient
+163048,3,tablespoons,dill,189,spice or herb
+163048,0.25,cups,cilantro,125,vegetable
+163048,2,teaspoons,salt,474,spice or herb
+163048,1,tablespoons,cumin,179,spice or herb
+163048,0.5,teaspoons,turmeric,560,spice or herb
+163048,0.25,teaspoons,cinnamon,128,spice or herb
+163048,1,teaspoons,black pepper,47,vegetable
+163048,0.25,cups,olive oil,357,vegetable
+163048,1,packages,baby carrots,22,vegetable
+163048,2,cans,cannellini beans,81,main protein
+163048,1,cups,water,577,cooking liquid
+163048,1,tablespoons,sour cream,503,fat and vitamins
+164484,4,ounces,rum,466,alcoholic
+164484,3,ounces,lime juice,303,fruit
+164484,1,ounces,grenadine syrup,250,sugar
+164484,1,ounces,simple syrup,493,sugar
+164572,2,cups,apples,17,fruit
+164572,5,tablespoons,white sugar,587,sugar
+164572,2,tablespoons,cinnamon,128,spice or herb
+164572,1,cups,vegetable oil,574,vegetable
+164572,2,cups,white sugar,587,sugar
+164572,4,,eggs,197,baking ingredient
+164572,2.5,teaspoons,vanilla extract,569,flavoring
+164572,0.25,cups,orange juice,366,fruit
+164572,3,cups,all purpose flour,5,baking ingredient
+164572,1,tablespoons,baking powder,26,baking ingredient
+164572,1,teaspoons,salt,474,spice or herb
+164572,0.25,cups,butter,68,cooking fat
+164572,0.333333333,cups,orange juice,366,fruit
+164572,0.666666667,cups,white sugar,587,sugar
+165843,2,tablespoons,olive oil,357,vegetable
+165843,1,pounds,beef chuck,38,meat
+165843,0,,salt pepper to taste,476,vegetable
+165843,2,stalks,celery,94,vegetable
+165843,2,,carrots,89,vegetable
+165843,1,,onion,358,vegetable
+165843,6,,cloves garlic,138,spice or herb
+165843,1.5,teaspoons,cilantro,125,vegetable
+165843,1,teaspoons,oregano,367,spice or herb
+165843,2,,cartons chicken broth,90,soup
+165843,1,cans,tomatoes,556,vegetable
+165843,2,cups,lentils,299,main protein
+165843,0.25,cups,parsley,378,vegetable
+165843,0.5,cups,Parmesan cheese or to taste,377,cheese
+165947,2,packages,favorite flavor Jell-O®,208,
+165947,1.25,cups,water,577,cooking liquid
+165947,3,cups,watermelon cubes or balls,580,fruit
+165947,3,cups,strawberries,522,fruit
+165947,2,cups,cantaloupe cubes or balls,83,fruit
+165947,2,cups,blueberries,51,fruit
+167042,2,legs,chicken quarters,111,poultry
+167042,1,cups,brown rice,63,vegetable
+167042,1,pounds,beef,36,meat
+167042,0.666666667,cups,oats,352,grain
+167042,1,packages,spinach,512,vegetable
+167042,2,cups,broccoli,60,vegetable
+167042,1,cans,kidney beans,283,main protein
+167042,2,,carrots,89,vegetable
+167042,1,cups,cottage cheese,166,cheese
+167042,0.5,cups,olive oil,357,vegetable
+167538,2,teaspoons,oregano,367,spice or herb
+167538,1,,red onion,448,vegetable
+167538,3.5,cups,reduced sodium chicken broth,455,soup
+167538,0.125,teaspoons,salt,474,spice or herb
+167538,1,,clove garlic,135,spice or herb
+167538,1,teaspoons,red chili or chili powder,445,soup
+167538,1,cans,yellow or white hominy,602,grain
+167538,1,cans,black beans,43,main protein
+167538,12,ounces,boneless chicken breasts,54,poultry
+167538,1,cups,green cabbage,243,vegetable
+167538,1,,lime,302,fruit
+167767,0.5,cups,low fat cottage cheese,309,cheese
+167767,0.25,teaspoons,spice blend,510,spice or herb
+167767,0.5,,cucumber,177,vegetable
+169097,0,,cooking spray,158,recipe extra
+169097,0.25,cups,brown sugar,64,sugar
+169097,1,tablespoons,cumin,179,spice or herb
+169097,0.5,teaspoons,cardamom,86,spice or herb
+169097,0.5,teaspoons,coriander,160,vegetable
+169097,1,teaspoons,ginger,230,spice or herb
+169097,1,teaspoons,salt,474,spice or herb
+169097,0.25,teaspoons,cayenne pepper,92,vegetable
+169097,8,halves,bone in chicken breast,52,poultry
+169097,0.5,cups,balsamic vinegar,30,cooking liquid
+169097,0.25,cups,peach preserves,380,fruit
+169097,0.5,cups,reduced sodium chicken broth,455,soup
+169097,0.5,cups,orange juice,366,fruit
+169097,3,cups,peaches,381,fruit
+171312,1,,pineapple ends,406,fruit
+171312,2,tablespoons,Safeway Light Brown Sugar,467,sugar
+171312,1,tablespoons,lime juice,303,fruit
+171312,1,pints,Safeway SELECT™ Vanilla Ice Cream,469,dairy
+171312,0.25,cups,Safeway Sweetened Flaked Coconut,470,fruit
+171312,0.25,cups,lightly salted peanuts or cashews,301,nut
+171917,0.5,cups,jasmine rice,274,grain
+171917,0.25,cups,sugar,526,sugar
+171917,2.5,cups,milk,326,fat and vitamins
+171917,0.5,teaspoons,cinnamon,128,spice or herb
+171917,0.5,cups,sweetened coconut,538,fruit
+171917,1,teaspoons,vanilla extract,569,flavoring
+172503,1,,pouch Betty Crocker® peanut butter cookie mix,424,nut
+172503,3,tablespoons,vegetable oil,574,vegetable
+172503,1,tablespoons,water,577,cooking liquid
+172503,1,,eggs,197,baking ingredient
+172503,0.333333333,cups,corn syrup,162,sugar
+172503,3,tablespoons,butter or margarine,70,baking ingredient
+172503,3,tablespoons,peanut butter,382,nut
+172503,4.5,teaspoons,water,577,cooking liquid
+172503,1.25,teaspoons,vanilla,566,spice or herb
+172503,0,,Dash salt,186,spice or herb
+172503,3.5,cups,powdered sugar,426,sugar
+172503,1,packages,caramels,85,sugar
+172503,2,tablespoons,water,577,cooking liquid
+172503,1.5,cups,unsalted peanuts,563,nut
+172503,2,cups,milk chocolate chips,327,fat and vitamins
+172891,4,tablespoons,California butter,76,cooking fat
+172891,0.25,cups,brown sugar,64,sugar
+172891,0.25,cups,almond butter,7,nut
+172891,1,teaspoons,salt,474,spice or herb
+172891,8,cups,popcorn,415,grain
+172891,0.25,cups,almonds,10,nut
+174386,10,cups,all purpose flour,5,baking ingredient
+174386,0.5,cups,baking powder,26,baking ingredient
+174386,2,tablespoons,white sugar,587,sugar
+174386,2,teaspoons,salt,474,spice or herb
+174386,1.25,cups,vegetable oil,574,vegetable
+177535,2,tablespoons,olive oil,357,vegetable
+177535,2,,cloves garlic,138,spice or herb
+177535,1,pounds,bulk pork sausage,66,meat
+177535,3,cups,Prego® Roasted Garlic & Herb Italian Sauce,428,sauce
+177535,1,cups,peas,386,vegetable
+177535,0.75,cups,cream,169,fat and vitamins
+177535,16,ounces,cheese tortellini,98,cheese
+177535,1,packages,Pepperidge Farm® Five Cheese Garlic Bread,391,grain
+177535,0.5,cups,Parmesan cheese,376,cheese
+178498,1,pounds,mushrooms,343,vegetable
+178498,1,,standing beef rib roast,518,meat
+178498,1,envelopes,onion soup mix,361,soup
+178498,1,bottles,beer,40,alcoholic
+178498,0,,black pepper,47,vegetable
+179706,2,cans,mushroom stems undrained,342,vegetable
+179706,1,cans,condensed beef consomme,148,meat
+179706,0.5,cups,water,577,cooking liquid
+179706,1,cups,white rice,586,grain
+179706,1,,white onion,584,vegetable
+179706,1,,stick butter,520,fastener
+179706,2,teaspoons,garlic powder,227,spice or herb
+179706,1,tablespoons,Parmesan cheese,376,cheese
+179711,1,packages,chocolate chip cookie dough,120,vegetable
+179711,0.75,cups,quick cooking oats,434,grain
+179711,1,packages,cream cheese,170,fat and vitamins
+179711,0.333333333,cups,sugar,526,sugar
+179711,1,,eggs,197,baking ingredient
+179711,1,teaspoons,vanilla,566,spice or herb
+179711,1,cans,LUCKY LEAF® Regular or Premium Cherry Fruit Filling,312,fruit
+180498,1,packages,cream cheese,170,fat and vitamins
+180498,1,jars,marshmallow creme,317,sugar
+181187,0.25,cups,KRAFT Zesty Italian Dressing,290,condiment
+181187,6,fillets,cod,144,fish
+181187,1,cans,tomatoes green chilis,557,vegetable
+181187,0.5,cups,KRAFT Mexican Style Shredded Cheese,289,cheese
+181198,10,thighs,chicken,103,poultry
+181198,1,jars,TACO BELL® HOME ORIGINALS® Thick 'N Chunky Salsa,542,wrapped meal
+181198,1,,onion,358,vegetable
+181198,2,tablespoons,curry powder,182,pasta dish
+181198,1,cups,BREAKSTONE'S FREE or KNUDSEN FREE Fat Free Sour Cream,58,fat and vitamins
+181207,0.333333333,cups,KOOL AID Grape Flavor Sugar Sweetened Soft Drink Mix,284,sugar
+181207,2,tablespoons,hot water,267,cooking liquid
+181207,4,ounces,PHILADELPHIA Cream Cheese,397,fat and vitamins
+181207,1,cups,COOL WHIP Whipped Topping,159,recipe extra
+181207,4,,OREO Cookies,368,
+181207,1,packages,pound cake,425,sugar
+181207,10,,JET PUFFED Miniature Marshmallows,276,sugar
+181207,1,,JET PUFFED Marshmallow,275,sugar
+181207,0,,Black decorating gel,44,
+181207,3,,worm shaped chewy fruit snacks,597,fruit
+182059,1,packages,stuffing mix,524,grain
+182059,1,teaspoons,sage,471,spice or herb
+182059,1,cups,celery,94,vegetable
+182059,0.5,cups,COLLEGE INN® Chicken Broth,146,soup
+182059,1,cans,condensed cream of celery soup,149,soup
+182059,1,cans,condensed cream of turkey soup,152,soup
+182059,3,cups,chicken or turkey,110,poultry
+182059,0.25,cups,butter,68,cooking fat
+185109,6,,Morningstar Farms® Maple Flavored Veggie Sausage Patties,339,sugar
+185109,4,cups,Southern hash brown potatoes,504,vegetable
+185109,2,tablespoons,vegetable oil,574,vegetable
+185109,0.5,cups,green onions,249,vegetable
+185109,0.5,cups,red bell pepper,443,vegetable
+185109,0.25,teaspoons,garlic salt,228,spice or herb
+185109,0.333333333,cups,cranberries,168,fruit
+185109,0.25,cups,vegetable broth,573,soup
+185109,4,slices,Cheddar cheese or Swiss cheese diagonally,97,cheese
+187094,2,,eggs,197,baking ingredient
+187094,0.25,cups,chorizo,123,meat
+187094,0.25,cups,KRAFT Mayo Real Mayonnaise,287,condiment
+187094,0.25,teaspoons,salt,474,spice or herb
+187094,0.25,teaspoons,pepper,389,vegetable
+187094,30,,RITZ Crackers,462,grain
+189750,1.5,cups,Safeway SELECT™ Mayonnaise,468,condiment
+189750,0.5,cups,Lucerne® Sour Cream,311,fat and vitamins
+189750,0.333333333,cups,lemon juice,296,fruit
+189750,0.25,cups,sugar,526,sugar
+189750,1,,red onion,448,vegetable
+189750,0.333333333,cups,dill,189,spice or herb
+189750,0.25,teaspoons,salt,474,spice or herb
+189750,2,pounds,shrimp,492,seafood
+189750,2,pounds,extra shrimp,204,seafood
+193096,1,heads,romaine lettuce,464,vegetable
+193096,1,,cucumber,177,vegetable
+193096,1,cups,tomatoes,556,vegetable
+193096,0.5,cups,red bell pepper,443,vegetable
+193096,0.5,cups,green bell pepper,242,vegetable
+193096,0.5,cups,Newman's Own® Olive Oil & Vinegar Balsamic Vinaigrette or Lighten Up® Balsamic Vinaigrette Salad Dressing,347,vegetable
+193733,4,cups,hot IDAHOAN® potatoes,265,vegetable
+193733,1,cans,Campbell's® Cream of Chicken Soup,77,soup
+193733,1.5,cups,Cheddar cheese,96,cheese
+193733,0.125,teaspoons,garlic powder,227,spice or herb
+193733,1.333333333,cups,FRENCH'S® Original or Cheddar French Fried Onions,219,vegetable
+193831,1,pounds,beef,36,meat
+193831,1,,onion,358,vegetable
+193831,2,cups,TACO BELL® HOME ORIGINALS® Thick 'N Chunky Salsa,542,wrapped meal
+193831,1,cans,black beans,43,main protein
+193831,0.25,cups,KRAFT Zesty Italian Dressing,290,condiment
+193831,2,tablespoons,TACO BELL® HOME ORIGINALS® Taco Seasoning Mix,541,mixture
+193831,6,,flour tortillas,217,baking ingredient
+193831,1,cups,BREAKSTONE'S Reduced Fat Sour Cream,59,fat and vitamins
+193831,1,packages,KRAFT Mexican Style Finely Shredded Four Cheese,288,cheese
+218480,1,,zucchini,605,vegetable
+218480,1,,red bell pepper,443,vegetable
+218480,1,cans,pineapple,405,fruit
+218480,2,tablespoons,olive oil,357,cooking liquid
+218480,0.5,cups,ketchup,282,condiment
+218480,1,teaspoons,salt,474,spice or herb
+218480,2,tablespoons,steak sauce,519,meat
+218480,2,tablespoons,white sugar,587,sugar
+218480,2,tablespoons,apple cider vinegar,15,drink
+218480,2,tablespoons,Worcestershire sauce,596,sauce
+218480,0.25,cups,water,577,cooking liquid
+218480,1.5,pounds,beef sirloin,39,meat
+218480,12,,bamboo skewers,31,vegetable
+220086,2,pounds,Johnsonville® All Natural Ground Italian Sausage or links decased,278,meat
+220086,1,pounds,beef,36,meat
+220086,16,,slider buns or mini sandwich rolls,497,wrapped meal
+222434,1,cans,coconut milk,142,fat and vitamins
+222434,0.75,cups,half-and-half,253,dairy
+222434,0.5,cans,sweetened condensed milk,539,dairy
+222434,0.25,teaspoons,salt,474,spice or herb
+222434,0.25,teaspoons,vanilla extract,569,flavoring
+222434,0.5,cups,coconut,141,fruit
+222434,0.5,cups,pineapple,405,fruit
+237823,1,cups,strawberries,522,fruit
+237823,1,cups,plain Greek yogurt,409,dairy
+237823,1,cups,mango,313,fruit
+237823,0.5,cups,1% milk,1,dairy
+237823,1,,scoop vanilla whey protein powder,480,main protein
+237823,5,leaves,mint or more to taste,331,flavoring
+255391,1,heads,cauliflower,91,vegetable
+255391,2,tablespoons,olive oil,357,cooking liquid
+255391,0,,salt black pepper to taste,475,spice or herb
+255391,0.25,cups,falafel mix,207,main protein
+255726,1,,butternut squash,73,nut
+255726,0.5,,leek,293,vegetable
+255726,2,tablespoons,olive oil,357,cooking liquid
+255726,0,,salt black pepper to taste,475,spice or herb
+255726,0.5,packages,pork sage sausage,420,meat
+259055,1,cups,all purpose flour,5,baking ingredient
+259055,0.5,cups,quick cooking oats,434,grain
+259055,3,tablespoons,brown sugar,64,vegetable
+259055,1,teaspoons,baking powder,26,baking ingredient
+259055,0.5,teaspoons,baking soda,27,baking ingredient
+259055,0.5,teaspoons,sea salt,481,spice or herb
+259055,0.125,teaspoons,cinnamon or to taste,129,spice or herb
+259055,0.5,cups,peanut butter,382,nut
+259055,0.25,cups,butter,68,cooking fat
+259055,1.333333333,cups,buttermilk,72,fat and vitamins
+259055,1,,eggs,197,baking ingredient
+259055,0.333333333,cups,chocolate chips,121,spice or herb
+259055,0.25,cups,peanut butter,382,nut
+259055,0.25,cups,butter,68,cooking fat
+259055,0.25,cups,confectioners' sugar or more to taste,156,sugar
+259055,0.125,teaspoons,sea salt,481,spice or herb
+259055,0,,cooking spray,158,recipe extra
+259055,0.333333333,cups,candy coated milk chocolate,79,fat and vitamins
+259757,0.25,cups,vegetable oil,574,cooking liquid
+259757,0.25,cups,red wine vinegar,452,cooking liquid
+259757,1,,jalapeno pepper,272,spicy
+259757,2,tablespoons,oregano,367,spice or herb
+259757,4,,cloves garlic,138,spice or herb
+259757,2,teaspoons,salt,474,spice or herb
+259757,1,teaspoons,cumin,179,spice or herb
+259757,2,,boneless chicken breasts,54,poultry
+259757,1,,green bell pepper,242,vegetable
+259757,1,,red bell pepper,443,vegetable
+259757,1,,yellow pepper,603,vegetable
+259757,1,,red onion,448,vegetable
+259757,2,tablespoons,vegetable oil,574,cooking liquid
+259757,16,,flour tortillas,217,baking ingredient
+260406,2,,eggs,197,baking ingredient
+260406,2,tablespoons,maple syrup,314,sugar
+260406,2,teaspoons,erythritol,199,
+260406,3,tablespoons,coconut milk,142,fat and vitamins
+260406,1.5,teaspoons,vanilla extract,569,spice or herb
+260406,1,pinches,Himalayan salt,259,spice or herb
+260406,1,cups,unsweetened coconut,565,fruit
+261095,3,cups,pretzel twists,429,grain
+261095,0.25,cups,brown sugar,64,vegetable
+261095,0.5,cups,butter,68,cooking fat
+261095,0.75,cups,butter,68,cooking fat
+261095,0.75,cups,semisweet chocolate chips,484,spice or herb
+261095,0.75,cups,brown sugar,64,vegetable
+261095,0.666666667,cups,white sugar,587,sugar
+261095,3,,eggs,197,baking ingredient
+261095,3,tablespoons,whipping cream,582,fat and vitamins
+261095,4.5,teaspoons,all purpose flour,5,baking ingredient
+261095,1,teaspoons,vanilla extract,569,spice or herb
+261095,0.25,cups,caramel topping,84,recipe extra
+262289,0,,extra virgin olive oil cooking spray,206,recipe extra
+262289,1,cans,coconut milk,142,fat and vitamins
+262289,1,tablespoons,apple cider vinegar,15,drink
+262289,2,,sweet onions,533,vegetable
+262289,1,cups,cornmeal,164,grain
+262289,0.5,cups,whole wheat flour,594,baking ingredient
+262289,1,tablespoons,sesame seeds,486,spice or herb
+262289,1,teaspoons,salt,474,spice or herb
+262289,1,teaspoons,garlic powder,227,spice or herb
+262289,1,teaspoons,paprika,375,spice or herb
+262289,0,,black pepper to taste,48,vegetable
+262608,1.5,cups,white sugar,587,sugar
+262608,1.25,cups,water,577,cooking liquid
+262608,1,ounces,compressed yeast,147,baking ingredient
+262608,2,cups,bread flour,57,baking ingredient
+262608,2,cups,unbleached all purpose flour,561,baking ingredient
+262608,1,teaspoons,salt,474,spice or herb
+262608,6,tablespoons,sesame seeds,486,spice or herb
+262608,2,teaspoons,cinnamon,128,spice or herb
+262608,1,,orange,363,fruit
+262608,1.25,cups,tahini,543,sauce
+263774,0,,Nonstick cooking spray,348,recipe extra
+263774,1,packages,Hillshire Farm® Smoked Sausage lengthwise,258,meat
+263774,1.5,cups,hash brown potatoes,256,meat
+263774,2,ounces,Gouda cheese,235,cheese
+263774,0.25,cups,red sweet pepper,450,vegetable
+263774,2,tablespoons,green onion,247,vegetable
+263774,1,tablespoons,oregano,367,spice or herb
+263774,0.25,teaspoons,salt,474,spice or herb
+263774,0.25,teaspoons,black pepper,47,vegetable
+263774,8,,eggs,197,baking ingredient
+263774,0.25,cups,milk,326,fat and vitamins
+263774,0,leaves,Fresh oregano,221,spice or herb
+265822,3,tablespoons,brown sugar,64,vegetable
+265822,1,tablespoons,garlic powder,227,spice or herb
+265822,1,tablespoons,black pepper,47,vegetable
+265822,2,teaspoons,onion powder,360,spice or herb
+265822,1,cups,Merlot wine,321,alcoholic
+265822,0.5,cups,water,577,cooking liquid
+265822,0.25,cups,Worcestershire sauce,596,sauce
+265822,1,tablespoons,soy sauce,505,main protein
+265822,3,,cloves garlic or more to taste,139,spice or herb
+265822,0.5,teaspoons,liquid smoke flavoring,305,flavoring
+268000,2,pounds,chicken breasts,107,poultry
+268000,2,,eggs,197,baking ingredient
+268000,0.5,cups,almond flour,9,baking ingredient
+268000,0.5,,onion,358,vegetable
+268000,2,,ribs celery,456,meat
+268000,0.25,cups,chia seeds,102,main protein
+268000,2,tablespoons,sweet pickle relish or more to taste,534,vegetable
+268000,2,tablespoons,tamari,544,condiment
+268000,2,,jalapeno peppers,273,vegetable
+268000,1,teaspoons,Montreal chicken seasoning or to taste,338,poultry
+268000,1,teaspoons,garlic onion seasoning or to taste,226,vegetable
+268000,0,,sea salt to taste,482,spice or herb
+268000,2,tablespoons,sesame oil,485,cooking liquid
+268001,1.5,cups,mixed salad greens,333,vegetable
+268001,0.5,,tomatoes,556,vegetable
+268001,0.5,,avocado,19,vegetable
+268001,1,teaspoons,cilantro or to taste,127,vegetable
+268001,1,tablespoons,dressing or to taste,191,condiment
+268001,1,teaspoons,olive oil,357,vegetable
+268001,4,ounces,halloumi cheese,254,cheese
+268005,1,pounds,chicken,103,poultry
+268005,0.5,cups,cilantro,125,vegetable
+268005,0.25,cups,bread,56,grain
+268005,0.25,cups,onion,358,vegetable
+268005,2,,cloves garlic,138,spice or herb
+268005,1,teaspoons,salt,474,spice or herb
+268005,0.5,teaspoons,black pepper,47,vegetable
+268005,2,tablespoons,vegetable oil,574,vegetable
+268005,0.25,cups,peanut butter,382,cooking fat
+268005,4,tablespoons,sesame oil,485,cooking liquid
+268005,3,tablespoons,white sugar,587,sugar
+268005,2,tablespoons,soy sauce,505,main protein
+268005,2,tablespoons,peanuts or to taste,384,nut
+268015,3,pounds,sweet potatoes,535,vegetable
+268015,2,,cloves garlic,138,spice or herb
+268015,2,ounces,honey flavored goat cheese,263,sugar
+268015,1,tablespoons,butter,68,cooking fat
+268015,1,teaspoons,salt,474,spice or herb
+268015,0.25,teaspoons,black pepper,47,vegetable
+268021,1,packages,cauliflower,91,vegetable
+268021,0.333333333,cups,water,577,cooking liquid
+268021,0.5,cups,chipotle cooking sauce,117,sauce
+268021,2,tablespoons,recaito,441,
+268021,1,tablespoons,tomato paste,554,vegetable
+268021,1,tablespoons,garlic powder,227,spice or herb
+268028,2,tablespoons,ghee,229,fat and vitamins
+268028,1,,red onion,448,vegetable
+268028,1,tablespoons,garlic,224,spice or herb
+268028,0.125,teaspoons,red pepper flakes,449,vegetable
+268028,0.5,teaspoons,sea salt,481,spice or herb
+268028,3,cans,crabmeat,167,seafood
+268028,0.333333333,cups,homemade mayonnaise,261,condiment
+268028,0.25,cups,full fat coconut milk,222,fruit
+268028,0.25,cups,almond flour,9,baking ingredient
+268028,0.25,cups,nutritional yeast,350,baking ingredient
+268028,0.5,packages,spinach,512,vegetable
+268028,1,teaspoons,Old Bay seasoning,355,spice or herb
+268028,0,,lemon,294,fruit
+268028,2,,green onions,249,vegetable
+268030,1,,spaghetti squash,507,vegetable
+268030,2,tablespoons,butter,68,cooking fat
+268030,1,tablespoons,olive oil,357,vegetable
+268030,2,tablespoons,honey,262,sugar
+268030,2,teaspoons,ginger root,232,spice or herb
+268030,2,teaspoons,garlic,224,spice or herb
+268030,0.5,teaspoons,red chili flakes,444,soup
+268030,0,,kosher salt to taste,286,spice or herb
+268097,1,cups,chicken broth,108,soup
+268097,1,,eggs,197,baking ingredient
+268097,0.5,pounds,sweet Italian sausage,531,meat
+268097,2,tablespoons,unsalted butter,562,cooking fat
+268097,1,,onion,358,vegetable
+268097,2,,ribs celery,456,meat
+268097,1,cans,water chestnuts,578,nut
+268097,0.25,cups,flat leaf parsley,215,vegetable
+268097,1,teaspoons,salt,474,spice or herb
+268097,0.5,teaspoons,thyme,551,spice or herb
+268097,0.5,teaspoons,sage,471,spice or herb
+268097,0.5,teaspoons,black pepper,47,vegetable
+268097,5,cups,plain stuffing bread cubes,411,grain
+268108,2,,organic oranges,370,fruit
+268108,1,cups,white sugar,587,sugar
+268113,1,cups,unsalted butter,562,cooking fat
+268113,2,tablespoons,unsalted butter,562,cooking fat
+268113,1,cups,white sugar,587,sugar
+268113,4,,eggs,197,baking ingredient
+268113,1,teaspoons,vanilla extract,569,flavoring
+268113,2,cups,all purpose flour,5,baking ingredient
+268113,2,teaspoons,baking powder,26,baking ingredient
+268113,2,,lemons,298,fruit
+268113,0.25,cups,cream cheese,170,fat and vitamins
+268113,2,tablespoons,unsalted butter,562,cooking fat
+268113,1.25,cups,confectioners' sugar,155,sugar
+268113,2,teaspoons,lemon juice,296,drink
+268113,0,,lollipop sticks,306,fastener
+268113,0,,styrofoam block,525,
+268113,1,packages,confectioners' coating,154,sugar
+268113,1,packages,multicolored candy sprinkles,341,sugar
+268116,1,tablespoons,butter,68,cooking fat
+268116,1,,onion,358,vegetable
+268116,1,,green bell pepper,242,vegetable
+268116,5,,cloves clove garlic,137,spice or herb
+268116,2.5,cups,chicken stock,112,poultry
+268116,3,tablespoons,tomato paste,554,vegetable
+268116,1,pounds,okra,354,vegetable
+268116,0,,lemon,294,fruit
+268116,0,,salt pepper to taste,476,vegetable
+268131,4,,pork chops,418,meat
+268131,0,,salt black pepper to taste,475,vegetable
+268131,1,tablespoons,oil,353,cooking liquid
+268131,0.5,cups,chicken broth,108,soup
+268131,3,,sweet potatoes,535,vegetable
+268131,3,,apples,17,fruit
+268135,1,tablespoons,butter or more,71,cooking fat
+268135,1,,onion,358,vegetable
+268135,1,tablespoons,rice vinegar or more to taste,458,cooking liquid
+268135,12,,eggs,197,baking ingredient
+268135,2,tablespoons,milk or to taste,328,fat and vitamins
+268135,2,tablespoons,pesto,395,condiment
+268135,1,pinches,salt black pepper to taste,475,vegetable
+268135,2,cups,salmon,472,fish
+268135,1.5,cups,Parmesan cheese or to taste,377,cheese
+268142,0,,cooking spray,158,recipe extra
+268142,3,cups,corn kernels,161,grain
+268142,4,ounces,margarine,315,baking ingredient
+268142,2,,eggs,197,baking ingredient
+268142,9,ounces,pepper Jack cheese,390,vegetable
+268142,1,cups,sour cream,503,fat and vitamins
+268142,0.5,cups,yellow cornmeal,600,grain
+268142,1,cans,green chilis,244,vegetable
+268142,0.25,cups,jalapeno peppers,273,vegetable
+268142,0.5,teaspoons,salt,474,spice or herb
+268142,0.5,cups,Parmesan cheese,376,cheese
+268148,1,packages,crescent roll dough unrolled,174,grain
+268148,1,packages,reduced fat cream cheese,453,fat and vitamins
+268148,0.25,cups,sour cream,503,fat and vitamins
+268148,0.25,cups,mayonnaise dressing,319,condiment
+268148,3,tablespoons,ranch dressing,439,condiment
+268148,0.25,cups,bell pepper,41,vegetable
+268148,0.25,cups,broccoli florets,61,vegetable
+268148,0.333333333,cups,Cheddar cheese,96,cheese
+268185,0.5,pounds,pork,416,meat
+268185,0.5,pounds,veal,572,meat
+268185,1,,eggs,197,baking ingredient
+268185,0.25,cups,cilantro,125,vegetable
+268185,0.25,cups,gluten free bread,233,main protein
+268185,2,,spring onions,514,vegetable
+268185,0.5,teaspoons,black pepper,47,vegetable
+268185,0.5,teaspoons,Sriracha salt,516,spice or herb
+268185,0.5,cups,ketchup,282,condiment
+268185,2,teaspoons,gluten free chipotle chili sauce,234,main protein
+268185,1,teaspoons,olive oil,357,vegetable
+268185,1,teaspoons,blackstrap molasses,49,sugar
+268187,4,,chicken breasts,107,poultry
+268187,1,cups,mushrooms,343,vegetable
+268187,1,cans,water chestnuts,578,nut
+268187,1,,green bell pepper,242,vegetable
+268187,1,,red bell pepper,443,vegetable
+268187,1,,red onion,448,vegetable
+268187,0.5,teaspoons,ginger,230,spice or herb
+268187,0.25,cups,salted peanuts or to taste,478,nut
+268187,0.25,cups,teriyaki marinade,548,condiment
+268187,0.25,cups,teriyaki sauce,549,sauce
+268187,2,tablespoons,olive oil,357,vegetable
+268187,2,tablespoons,honey,262,sugar
+268187,10,leaves,Bibb or head lettuce leaves,42,vegetable
+268187,2,cups,brown rice,63,vegetable
+268187,0.25,cups,spicy peanut sauce (such,511,spicy
+268187,0.25,cups,ginger dressing or more to taste,231,condiment
+268196,1,,butternut squash,73,vegetable
+268196,1,tablespoons,olive oil,357,vegetable
+268196,4,,cloves garlic,138,spice or herb
+268196,0,,salt black pepper to taste,475,vegetable
+268196,2,cans,black beans,43,main protein
+268196,5,,cloves garlic,138,spice or herb
+268196,2,teaspoons,cumin,179,spice or herb
+268196,1,pounds,spinach,512,vegetable
+268196,10,,corn tortillas,163,grain
+268196,2,tablespoons,chipotle lime crema or to taste,118,fruit
+268200,2,pounds,quinces,435,
+268200,2,cups,apple cider,14,drink
+268200,0.5,cups,sugar or more to taste,527,sugar
+268200,0.5,,lemon,294,fruit
+268200,0.5,teaspoons,orange flower water,364,fruit
+268200,0.5,teaspoons,orange,363,fruit
+268200,0.5,cups,cream,169,fat and vitamins
+268200,2,teaspoons,vanilla sugar,571,sugar
+268200,3,tablespoons,creme fraiche,173,fat and vitamins
+268201,2,cups,water,577,cooking liquid
+268201,1,cups,white sugar,587,sugar
+268201,0.5,,vanilla bean,567,main protein
+268201,1,,cinnamon stick,130,fastener
+268201,0.5,,lemon,294,fruit
+268201,2,pounds,quinces,435,
+268223,0.25,cups,extra virgin olive oil,205,vegetable
+268223,0.25,cups,rice wine vinegar,459,cooking liquid
+268223,0.125,cups,ponzu sauce,414,sauce
+268223,0.125,cups,honey,262,sugar
+268223,2,,cloves garlic,138,spice or herb
+268227,0.5,pounds,pork belly,417,meat
+268227,0.5,pounds,pork loin,419,meat
+268227,2,tablespoons,groundnut oil,251,cooking liquid
+268227,4,,cloves garlic,138,spice or herb
+268227,1,pieces,ginger,230,spice or herb
+268227,1,,red chili pepper or more to taste,446,vegetable
+268227,12,,whole black peppercorns,591,spice or herb
+268227,2,teaspoons,brown sugar,64,sugar
+268227,3,leaves,bay or more to taste,35,spice or herb
+268227,1,pinches,cumin seeds or to taste,181,main protein
+268227,0.5,,apples,17,fruit
+268227,1,tablespoons,apple cider vinegar,15,drink
+268227,1,tablespoons,dark soy sauce,185,main protein
+268227,2,tablespoons,unsalted butter,562,cooking fat
+268227,1,pinches,salt black pepper to taste,475,vegetable
+268227,1,,red onion,448,vegetable
+268227,1,,green bell pepper,242,vegetable
+268227,1,packages,shiitake mushrooms,489,vegetable
+268227,1,cups,sparkling lemonade,508,fruit
+268227,2,teaspoons,cornstarch,165,grain
+268227,1,cubes,chicken bouillon,104,poultry
+268231,1,tablespoons,avocado oil,20,vegetable
+268231,1.5,pounds,beef,36,meat
+268231,1,cups,onion,358,vegetable
+268231,1,cups,red bell pepper,443,vegetable
+268231,1,teaspoons,sea salt,481,spice or herb
+268231,0,,black pepper to taste,48,vegetable
+268231,1.5,teaspoons,garlic,224,spice or herb
+268231,0.25,cups,apple cider vinegar,15,drink
+268231,0.25,cups,water,577,cooking liquid
+268231,3,tablespoons,dark brown sugar,184,sugar
+268231,1,teaspoons,mustard,344,condiment
+268231,1,tablespoons,Worcestershire sauce,596,sauce
+268231,1,tablespoons,tomato paste,554,vegetable
+268231,1,tablespoons,chili powder,114,soup
+268231,1,pinches,red pepper flakes,449,vegetable
+268231,1.5,cups,tomatoes,556,vegetable
+268231,8,,hamburger buns,255,grain
+268231,4,tablespoons,butter,68,cooking fat
+268233,3,pounds,onions,362,vegetable
+268233,0.333333333,cups,butter,68,cooking fat
+268233,1,tablespoons,paprika,375,spice or herb
+268233,1,teaspoons,salt,474,spice or herb
+268233,1,teaspoons,black pepper,47,vegetable
+268233,0.25,cups,white wine,590,alcoholic
+268233,0.25,cups,sherry,488,alcoholic
+268233,7,cups,beef broth,37,soup
+268233,1,leaves,bay,34,spice or herb
+268233,3,ounces,all purpose flour,5,baking ingredient
+268233,1,loaves,baguette,24,grain
+268233,0.5,pounds,Gruyere cheese,252,cheese
+268239,4,strips,bacon,23,meat
+268239,1,cups,baby bella mushrooms,21,vegetable
+268239,0.5,,white onion,584,vegetable
+268239,3,,cloves garlic,138,spice or herb
+268239,1,packages,riced cauliflower,460,vegetable
+268239,1,cups,chicken stock,112,poultry
+268239,1.5,cups,Parmesan cheese,376,cheese
+268239,1,cups,cream,169,fat and vitamins
+268246,0.333333333,cups,organic all vegetable shortening,369,vegetable
+268246,4,cups,powdered sugar,426,sugar
+268246,0.25,cups,rice milk or more,457,fat and vitamins
+268246,1.5,teaspoons,vanilla extract,569,flavoring
+268246,4,drops,red food coloring,447,recipe extra
+268247,3,tablespoons,butter,68,cooking fat
+268247,6,cups,miniature marshmallows,330,sugar
+268247,1,teaspoons,vanilla extract,569,flavoring
+268247,6,drops,orange food coloring,365,fruit
+268247,4,cups,crispy rice cereal or more to taste,176,grain
+268247,6,pieces,green licorice string,246,sugar
+268247,1,packages,green fruit,245,fruit
+268247,1,,tube black decorating gel,558,
+268253,0.333333333,cups,milk,326,fat and vitamins
+268253,1,,eggs,197,baking ingredient
+268253,0.333333333,cups,bread,56,grain
+268253,0.333333333,cups,snipped mint,501,flavoring
+268253,0.333333333,cups,snipped parsley,502,vegetable
+268253,0.25,cups,onion,358,vegetable
+268253,2,tablespoons,dill,189,spice or herb
+268253,1,,clove garlic,135,spice or herb
+268253,0.75,teaspoons,salt,474,spice or herb
+268253,1,pinches,black pepper to taste,48,vegetable
+268253,1,pounds,lamb,291,meat
+268253,2,tablespoons,vegetable oil,574,vegetable
+268253,2,tablespoons,butter,68,cooking fat
+268253,2,tablespoons,all purpose flour,5,baking ingredient
+268253,0.25,teaspoons,salt,474,spice or herb
+268253,1,dashes,black pepper,47,vegetable
+268253,1,cups,milk,326,fat and vitamins
+268253,2,tablespoons,lemon juice,296,drink
+268253,1,teaspoons,lemon,294,fruit
+268256,2,pounds,beef,36,meat
+268256,3,,eggs,197,baking ingredient
+268256,0.5,cups,gluten free bread,233,main protein
+268256,0.25,cups,onion flakes,359,vegetable
+268256,0.25,cups,Parmesan cheese,376,cheese
+268256,1,tablespoons,Italian seasoning or more to taste,271,spice or herb
+268256,3,tablespoons,olive oil,357,vegetable
+268256,2,jars,spaghetti sauce,506,sauce
+268286,0.75,tablespoons,active yeast,3,baking ingredient
+268286,1.5,cups,water,577,cooking liquid
+268286,1,tablespoons,white sugar or more,588,sugar
+268286,3.25,cups,bread flour,57,baking ingredient
+268286,0.75,tablespoons,salt,474,spice or herb
+268286,1,cups,raisins,437,fruit
+268286,5,,figs,209,fruit
+268286,1,teaspoons,cornmeal,164,grain
+268303,2,bars,85% dark chocolate,2,spice or herb
+268307,4,fillets,mild white fish,325,fish
+268307,1,,lemon,294,fruit
+268307,0,,salt to taste,477,spice or herb
+268307,4,tablespoons,all purpose flour,5,baking ingredient
+268307,1,teaspoons,Chinese five spice powder,116,spice or herb
+268307,4,tablespoons,canola oil,82,cooking liquid
+268307,1,tablespoons,sesame oil,485,cooking liquid
+268324,2,quarts,chicken broth,108,soup
+268324,4,stalks,lemongrass,297,
+268324,10,,Thai chili peppers,550,soup
+268324,5,,cloves garlic,138,spice or herb
+268324,10,leaves,kaffir lime,280,fruit
+268324,1,pieces,galangal,223,vegetable
+268324,1.5,pounds,shrimp,492,seafood
+268324,0.5,pounds,oyster mushrooms,372,seafood
+268324,2,,white onions,585,vegetable
+268324,2,,Roma tomatoes,463,vegetable
+268324,0.5,cups,fish sauce or more to taste,212,fish
+268324,2,tablespoons,white sugar,587,sugar
+268324,1,bunches,cilantro,125,vegetable
+268324,0.5,cups,lime juice or more to taste,304,drink
+268339,1,bunches,celery,94,vegetable
+268339,2,tablespoons,canola oil,82,cooking liquid
+268339,1,tablespoons,cider vinegar,124,drink
+268339,0.5,teaspoons,white sugar,587,sugar
+268339,0.25,teaspoons,salt,474,spice or herb
+268353,2,cups,white sugar,587,sugar
+268353,3,,sticks butter,521,fastener
+268353,5,cups,cornstarch,165,grain
+268353,2,cups,all purpose flour,5,baking ingredient
+268353,4,,eggs,197,baking ingredient
+268353,3,tablespoons,pisco,407,
+268353,2,teaspoons,vanilla extract,569,flavoring
+268353,1,teaspoons,baking powder,26,baking ingredient
+268353,3,tablespoons,water,577,cooking liquid
+268353,2,tablespoons,confectioners' sugar,155,sugar
+268353,2,cans,sweetened condensed milk,539,fat and vitamins
+268353,1,cans,evaporated milk,202,fat and vitamins
+268353,0.25,cups,brown sugar,64,sugar
+268353,0.25,cups,confectioners' sugar or to taste,157,sugar
+268354,2,,eggs,197,baking ingredient
+268354,1,tablespoons,vegetable oil,574,vegetable
+268354,2,,onions,362,vegetable
+268354,2,,cloves garlic,138,spice or herb
+268354,1,teaspoons,salt,474,spice or herb
+268354,0.5,teaspoons,paprika,375,spice or herb
+268354,0,,black pepper to taste,48,vegetable
+268354,1,pounds,beef,36,meat
+268354,0.5,,broiled chicken,62,poultry
+268354,2,tablespoons,raisins or to taste,438,fruit
+268354,1.5,tablespoons,Kalamata olives or to taste,281,vegetable
+268354,3,cans,sweet corn,530,grain
+268354,2,teaspoons,basil,33,spice or herb
+268354,1,tablespoons,butter,68,cooking fat
+268354,1,cups,milk,326,fat and vitamins
+268354,2,teaspoons,white sugar or to taste,589,sugar
+268354,0,,salt to taste,477,spice or herb
+268367,2,quarts,whole milk or more,593,fat and vitamins
+268367,1,cups,Carolina gold rice,87,recipe extra
+268367,1,cups,white sugar,587,sugar
+268367,2,,eggs,197,baking ingredient
+268367,1,cups,raisins or to taste,438,fruit
+268367,1,teaspoons,vanilla extract,569,flavoring
+268367,0,,cinnamon,128,spice or herb
+268386,1,heads,cauliflower,91,vegetable
+268386,1,,onion,358,vegetable
+268386,1,tablespoons,coconut oil,143,fruit
+268386,2,pounds,boneless chicken thighs,55,poultry
+268386,1.5,tablespoons,cumin or to taste,180,spice or herb
+268386,1.5,tablespoons,turmeric,560,spice or herb
+268386,3,tablespoons,curry powder or to taste,183,pasta dish
+268386,1,cans,coconut milk,142,fruit
+268386,1,teaspoons,garlic bouillon base,225,spice or herb
+268386,1,teaspoons,chicken bouillon base,105,poultry
+268386,0.25,cups,water,577,cooking liquid
+268386,1,teaspoons,garlic,224,spice or herb
+268386,1,teaspoons,black pepper,47,vegetable
+268401,3,cups,oats,352,grain
+268401,1,cups,mixed fruit,332,fruit
+268401,0.5,cups,whole wheat flour,594,baking ingredient
+268401,1,teaspoons,kosher salt,285,spice or herb
+268401,0.5,teaspoons,cinnamon,128,spice or herb
+268401,0.5,cups,peanut butter,382,cooking fat
+268401,0.25,cups,vegetable oil,574,vegetable
+268401,0.25,cups,honey,262,sugar
+268401,1,,eggs,197,baking ingredient
+268401,0.25,teaspoons,vanilla extract,569,flavoring
+268402,1,cups,oats,352,grain
+268402,1,cups,all purpose flour,5,baking ingredient
+268402,0.333333333,cups,brown sugar,64,sugar
+268402,1,teaspoons,baking powder,26,baking ingredient
+268402,1,teaspoons,baking soda,27,drink
+268402,1,teaspoons,ginger,230,spice or herb
+268402,1,teaspoons,cinnamon,128,spice or herb
+268402,0.5,teaspoons,salt,474,spice or herb
+268402,1,pinches,allspice,6,spice or herb
+268402,0.333333333,cups,walnuts,576,nut
+268402,0.333333333,cups,apricots,18,fruit
+268402,0.333333333,cups,dates,187,vegetable
+268402,0.5,cups,butter,68,cooking fat
+268402,1,cups,buttermilk,72,fat and vitamins
+268402,1,,eggs,197,baking ingredient
+268402,1,teaspoons,vanilla extract,569,flavoring
+268411,1,,shortcrust pastry crust,490,sugar
+268411,1.666666667,cups,persimmons,394,fruit
+268411,1,cans,evaporated milk,202,fat and vitamins
+268411,2,,eggs,197,baking ingredient
+268411,0.5,teaspoons,cinnamon,128,spice or herb
+268411,2,pinches,ginger,230,spice or herb
+268411,1,pinches,nutmeg,349,spice or herb
+268411,1,pinches,salt,474,spice or herb
+268413,2,fillets,chicken breasts,107,poultry
+268413,1,,ball water mozzarella cheese,28,cheese
+268413,2,,cloves garlic,138,spice or herb
+268413,4,slices,bacon,23,meat
+268413,1,,red onion,448,vegetable
+268413,1,tablespoons,olive oil,357,vegetable
+268413,1,teaspoons,rosemary,465,spice or herb
+268420,1,,zucchini,605,vegetable
+268420,2,cans,petite tomatoes,396,vegetable
+268420,1,cans,low sodium chicken broth,310,soup
+268420,2,teaspoons,chili powder,114,soup
+268420,1,teaspoons,red pepper flakes,449,vegetable
+268420,0.5,teaspoons,Mexican oregano,323,spice or herb
+268420,0.25,teaspoons,black pepper,47,vegetable
+268420,1,pounds,shrimp,492,seafood
+268426,12,,eggs,197,baking ingredient
+268426,0.75,cups,reduced fat mayonnaise,454,condiment
+268426,0.333333333,cups,Cheddar cheese,96,cheese
+268426,2,,green onions,249,vegetable
+268426,2,teaspoons,yellow mustard,601,condiment
+268426,0.5,teaspoons,black pepper,47,vegetable
+268426,4,strips,bacon,23,meat
+268426,6,,grape tomatoes,241,vegetable
+268426,6,leaves,lettuce,300,vegetable
+268426,12,slices,bread,56,grain
+268428,2.5,cups,white sugar,587,sugar
+268428,2,cups,water,577,cooking liquid
+268428,0.5,cups,cinnamon syrup,132,sugar
+268428,3,,cinnamon sticks,131,fastener
+268428,3,,red Anjou pears,442,fruit
+268428,1,packages,pie pastry,401,sugar
+268428,2,cups,white sugar,587,sugar
+268428,0.5,cups,all purpose flour,5,baking ingredient
+268428,0.5,teaspoons,nutmeg,349,spice or herb
+268428,0.25,teaspoons,sea salt,481,spice or herb
+268428,6,,eggs,197,baking ingredient
+268428,1.5,cups,buttermilk,72,fat and vitamins
+268428,1,tablespoons,lemon juice,296,drink
+268428,1,teaspoons,lemon,294,fruit
+268428,0.5,cups,butter,68,cooking fat
+268428,1,teaspoons,vanilla bean paste,568,main protein
+268428,0.666666667,cups,walnuts,576,nut
+268431,1.5,packages,speculoos cookies,509,
+268431,4,tablespoons,coconut oil,143,fruit
+268431,1,teaspoons,salt,474,spice or herb
+268431,2,packages,cream cheese,170,fat and vitamins
+268431,1,containers,sour cream,503,fat and vitamins
+268431,1,cups,white sugar,587,sugar
+268431,2,tablespoons,amaretto liqueur,11,alcoholic
+268431,1,teaspoons,almond extract,8,flavoring
+268431,1,teaspoons,vanilla extract,569,flavoring
+268431,3,,eggs,197,baking ingredient
+268433,3,,eggs,197,baking ingredient
+268433,1,cups,white sugar,587,sugar
+268433,0.666666667,cups,pumpkin puree,432,vegetable
+268433,1,teaspoons,lemon juice,296,drink
+268433,0.75,cups,all purpose flour,5,baking ingredient
+268433,2,teaspoons,cinnamon,128,spice or herb
+268433,1,teaspoons,baking powder,26,baking ingredient
+268433,1,teaspoons,ginger,230,spice or herb
+268433,1,teaspoons,nutmeg,349,spice or herb
+268433,0.5,teaspoons,salt,474,spice or herb
+268433,0.25,cups,powdered sugar,426,sugar
+268433,1,packages,cream cheese,170,fat and vitamins
+268433,1,cups,powdered sugar,426,sugar
+268433,0.25,cups,margarine,315,baking ingredient
+268433,0.5,teaspoons,vanilla extract,569,flavoring
+268462,1,,butternut squash,73,vegetable
+268462,2,teaspoons,olive oil,357,vegetable
+268462,0,,salt black pepper to taste,475,vegetable
+268462,1,,avocado,19,vegetable
+268462,1,cups,cherry tomatoes,100,vegetable
+268462,1,cups,smoked mozzarella cheese,498,cheese
+268462,0.5,cups,basil,33,spice or herb
+268462,0.25,cups,olive oil,357,vegetable
+268462,1.5,tablespoons,balsamic vinegar,30,cooking liquid
+268462,0.5,tablespoons,Dijon mustard,188,condiment
+268462,0.5,,clove garlic,135,spice or herb
+268465,1,,baguette,24,grain
+268465,2,,drizzles olive oil or to taste,192,vegetable
+268465,1,,Hass avocado,257,vegetable
+268465,0.75,cups,ricotta cheese or more to taste,461,cheese
+268465,0.5,,lemon,294,fruit
+268465,1,tablespoons,fresh basil,220,spice or herb
+268465,0,,kosher salt to taste,286,spice or herb
+268465,1,pinches,cayenne pepper or to taste,93,vegetable
+268465,1,cups,cherry tomatoes or to taste,101,vegetable
+268465,5,,radishes or to taste,436,vegetable
+268465,1,pinches,flaky sea salt,213,spice or herb
+268465,1,teaspoons,snipped chives,500,vegetable
+268466,1,cups,water,577,cooking liquid
+268466,1,packages,active yeast,3,baking ingredient
+268466,1,teaspoons,white sugar,587,sugar
+268466,3,teaspoons,olive oil,357,vegetable
+268466,1,teaspoons,kosher salt,285,spice or herb
+268466,2.5,cups,bread flour,57,baking ingredient
+268466,1,jars,marinara sauce,316,sauce
+268466,0,,oregano,367,spice or herb
+268466,1,teaspoons,red pepper flakes,449,vegetable
+268466,1,teaspoons,garlic powder,227,spice or herb
+268466,1,packages,Monterey Jack cheese,337,cheese
+268466,0.5,packages,mild Cheddar cheese,324,cheese
+268466,1,packages,pepperoni slices,393,meat
+268471,1,,onion,358,vegetable
+268471,1,,clove garlic,135,spice or herb
+268471,200,halves,grams boneless chicken breast,238,poultry
+268471,3,,tomatoes,556,vegetable
+268471,400,,ml water,335,cooking liquid
+268471,1,cubes,chicken stock,112,poultry
+268471,130,,grams wheat berries,239,grain
+269148,28,ounces,cocktail wieners,140,meat
+269148,12,ounces,sweet chili sauce,529,soup
+269148,2,tablespoons,sriracha sauce,517,sauce
+269148,0.25,cups,chicken broth,108,poultry
+269148,0.25,cups,cilantro,125,vegetable
+270414,0.5,cups,lemon juice,296,drink
+270414,0.5,cups,filtered water,210,cooking liquid
+270414,1,pieces,ginger,230,spice or herb
+270414,4,teaspoons,honey,262,sugar
+270414,15,cups,filtered water,210,cooking liquid
+270414,4,quarts,size mason jars,495,container
